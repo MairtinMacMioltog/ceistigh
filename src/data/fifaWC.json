@@ -1,0 +1,170 @@
+[
+    {
+      "year": "1930",
+      "winner": "Uruguay",
+      "loser": "Argentina",
+      "city": "Montevideo",
+      "country": "Uruguay",
+      "attendance": "80000"
+    },
+    {
+      "year": "1934",
+      "winner": "Italy",
+      "loser": "Czechoslovakia",
+      "city": "Rome",
+      "country": "Italy",
+      "attendance": "50000"
+    },
+    {
+      "year": "1938",
+      "winner": "Italy",
+      "loser": "Hungary",
+      "city": "Paris",
+      "country": "France",
+      "attendance": "45000"
+    },
+    {
+      "year": "1950",
+      "winner": "Uruguay",
+      "loser": "Brazil",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "attendance": "173850"
+    },
+    {
+      "year": "1954",
+      "winner": "Germany",
+      "loser": "Hungary",
+      "city": "Bern",
+      "country": "Switzerland",
+      "attendance": "60000"
+    },
+    {
+      "year": "1958",
+      "winner": "Brazil",
+      "loser": "Sweden",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "attendance": "51800"
+    },
+    {
+      "year": "1962",
+      "winner": "Brazil",
+      "loser": "Czechoslovakia",
+      "city": "Santiago",
+      "country": "Chile",
+      "attendance": "69000"
+    },
+    {
+      "year": "1966",
+      "winner": "England",
+      "loser": "Germany",
+      "city": "London",
+      "country": "England",
+      "attendance": "96924"
+    },
+    {
+      "year": "1970",
+      "winner": "Brazil",
+      "loser": "Italy",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "attendance": "107412"
+    },
+    {
+      "year": "1974",
+      "winner": "Germany",
+      "loser": "Netherlands",
+      "city": "Munich",
+      "country": "Germany",
+      "attendance": "75200"
+    },
+    {
+      "year": "1978",
+      "winner": "Argentina",
+      "loser": "Netherlands",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "attendance": "71483"
+    },
+    {
+      "year": "1982",
+      "winner": "Italy",
+      "loser": "Germany",
+      "city": "Madrid",
+      "country": "Spain",
+      "attendance": "90000"
+    },
+    {
+      "year": "1986",
+      "winner": "Argentina",
+      "loser": "Germany",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "attendance": "114600"
+    },
+    {
+      "year": "1990",
+      "winner": "Germany",
+      "loser": "Argentina",
+      "city": "Rome",
+      "country": "Italy",
+      "attendance": "73603"
+    },
+    {
+      "year": "1994",
+      "winner": "Brazil",
+      "loser": "Italy",
+      "city": "Los Angeles",
+      "country": "United States",
+      "attendance": "94194"
+    },
+    {
+      "year": "1998",
+      "winner": "France",
+      "loser": "Brazil",
+      "city": "Paris",
+      "country": "France",
+      "attendance": "80000"
+    },
+    {
+      "year": "2002",
+      "winner": "Brazil",
+      "loser": "Germany",
+      "city": "Yokohama",
+      "country": "Japan",
+      "attendance": "69029"
+    },
+    {
+      "year": "2006",
+      "winner": "Italy",
+      "loser": "France",
+      "city": "Berlin",
+      "country": "Germany",
+      "attendance": "69000"
+    },
+    {
+      "year": "2010",
+      "winner": "Spain",
+      "loser": "Netherlands",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "attendance": "84490"
+    },
+    {
+      "year": "2014",
+      "winner": "Germany",
+      "loser": "Argentina",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "attendance": "74738"
+    },
+    {
+      "year": "2018",
+      "winner": "France",
+      "loser": "Croatia",
+      "city": "Moscow",
+      "country": "Russia",
+      "attendance": "78011"
+    }
+  ]
