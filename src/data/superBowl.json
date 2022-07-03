@@ -1,0 +1,506 @@
+[
+  {
+    "year": "1967",
+    "winner": "Green Bay Packers",
+    "loser": "Kansas City Chiefs",
+    "stadium": "Los Angeles Memorial Coliseum",
+    "city": "Los Angeles",
+    "state": "California",
+    "attendance": "61946"
+  },
+  {
+    "year": "1968",
+    "winner": "Green Bay Packers",
+    "loser": "Oakland Raiders",
+    "stadium": "Miami Orange Bowl",
+    "city": "Miami",
+    "state": "Florida",
+    "attendance": "75546"
+  },
+  {
+    "year": "1969",
+    "winner": "New York Jets",
+    "loser": "Baltimore Colts",
+    "stadium": "Miami Orange Bowl",
+    "city": "Miami",
+    "state": "Florida",
+    "attendance": "75389"
+  },
+  {
+    "year": "1970",
+    "winner": "Kansas City Chiefs",
+    "loser": "Minnesota Vikings",
+    "stadium": "Tulane Stadium",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "attendance": "80562"
+  },
+  {
+    "year": "1971",
+    "winner": "Baltimore Colts",
+    "loser": "Dallas Cowboys",
+    "stadium": "Miami Orange Bowl",
+    "city": "Miami",
+    "state": "Florida",
+    "attendance": "79204"
+  },
+  {
+    "year": "1972",
+    "winner": "Dallas Cowboys",
+    "loser": "Miami Dolphins",
+    "stadium": "Tulane Stadium",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "attendance": "81023"
+  },
+  {
+    "year": "1973",
+    "winner": "Miami Dolphins",
+    "loser": "Washington Redskins",
+    "stadium": "Los Angeles Memorial Coliseum",
+    "city": "Los Angeles",
+    "state": "California",
+    "attendance": "90182"
+  },
+  {
+    "year": "1974",
+    "winner": "Miami Dolphins",
+    "loser": "Minnesota Vikings",
+    "stadium": "Rice Stadium",
+    "city": "Houston",
+    "state": "Texas",
+    "attendance": "71882"
+  },
+  {
+    "year": "1975",
+    "winner": "Pittsburgh Steelers",
+    "loser": "Minnesota Vikings",
+    "stadium": "Tulane Stadium",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "attendance": "80997"
+  },
+  {
+    "year": "1976",
+    "winner": "Pittsburgh Steelers",
+    "loser": "Dallas Cowboys",
+    "stadium": "Miami Orange Bowl",
+    "city": "Miami",
+    "state": "Florida",
+    "attendance": "80187"
+  },
+  {
+    "year": "1977",
+    "winner": "Oakland Raiders",
+    "loser": "Minnesota Vikings",
+    "stadium": "Rose Bowl",
+    "city": "Pasadena",
+    "state": "California",
+    "attendance": "103438"
+  },
+  {
+    "year": "1978",
+    "winner": "Dallas Cowboys",
+    "loser": "Denver Broncos",
+    "stadium": "Louisiana Superdome",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "attendance": "76400"
+  },
+  {
+    "year": "1979",
+    "winner": "Pittsburgh Steelers",
+    "loser": "Dallas Cowboys",
+    "stadium": "Miami Orange Bowl",
+    "city": "Miami",
+    "state": "Florida",
+    "attendance": "79484"
+  },
+  {
+    "year": "1980",
+    "winner": "Pittsburgh Steelers",
+    "loser": "Los Angeles Rams",
+    "stadium": "Rose Bowl",
+    "city": "Pasadena",
+    "state": "California",
+    "attendance": "103985"
+  },
+  {
+    "year": "1981",
+    "winner": "Oakland Raiders",
+    "loser": "Philadelphia Eagles",
+    "stadium": "Louisiana Superdome",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "attendance": "76135"
+  },
+  {
+    "year": "1982",
+    "winner": "San Francisco 49ers",
+    "loser": "Cincinnati Bengals",
+    "stadium": "Pontiac Silverdome",
+    "city": "Pontiac",
+    "state": "Michigan",
+    "attendance": "81270"
+  },
+  {
+    "year": "1983",
+    "winner": "Washington Redskins",
+    "loser": "Miami Dolphins",
+    "stadium": "Rose Bowl",
+    "city": "Pasadena",
+    "state": "California",
+    "attendance": "103667"
+  },
+  {
+    "year": "1984",
+    "winner": "Los Angeles Raiders",
+    "loser": "Washington Redskins",
+    "stadium": "Tampa Stadium",
+    "city": "Tampa",
+    "state": "Florida",
+    "attendance": "72920"
+  },
+  {
+    "year": "1985",
+    "winner": "San Francisco 49ers",
+    "loser": "Miami Dolphins",
+    "stadium": "Stanford Stadium",
+    "city": "Stanford",
+    "state": "California",
+    "attendance": "84059"
+  },
+  {
+    "year": "1986",
+    "winner": "Chicago Bears",
+    "loser": "New England Patriots",
+    "stadium": "Louisiana Superdome",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "attendance": "73818"
+  },
+  {
+    "year": "1987",
+    "winner": "New York Giants",
+    "loser": "Denver Broncos",
+    "stadium": "Rose Bowl",
+    "city": "Pasadena",
+    "state": "California",
+    "attendance": "101063"
+  },
+  {
+    "year": "1988",
+    "winner": "Washington Redskins",
+    "loser": "Denver Broncos",
+    "stadium": "San Diego-Jack Murphy Stadium",
+    "city": "San Diego",
+    "state": "California",
+    "attendance": "73302"
+  },
+  {
+    "year": "1989",
+    "winner": "San Francisco 49ers",
+    "loser": "Cincinnati Bengals",
+    "stadium": "Joe Robbie Stadium",
+    "city": "Miami",
+    "state": "Florida",
+    "attendance": "75129"
+  },
+  {
+    "year": "1990",
+    "winner": "San Francisco 49ers",
+    "loser": "Denver Broncos",
+    "stadium": "Louisiana Superdome",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "attendance": "72919"
+  },
+  {
+    "year": "1991",
+    "winner": "New York Giants",
+    "loser": "Buffalo Bills",
+    "stadium": "Tampa Stadium",
+    "city": "Tampa",
+    "state": "Florida",
+    "attendance": "73813"
+  },
+  {
+    "year": "1992",
+    "winner": "Washington Redskins",
+    "loser": "Buffalo Bills",
+    "stadium": "Metrodome",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "attendance": "63130"
+  },
+  {
+    "year": "1993",
+    "winner": "Dallas Cowboys",
+    "loser": "Buffalo Bills",
+    "stadium": "Rose Bowl",
+    "city": "Pasadena",
+    "state": "California",
+    "attendance": "98374"
+  },
+  {
+    "year": "1994",
+    "winner": "Dallas Cowboys",
+    "loser": "Buffalo Bills",
+    "stadium": "Georgia Dome",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "attendance": "72817"
+  },
+  {
+    "year": "1995",
+    "winner": "San Francisco 49ers",
+    "loser": "San Diego Chargers",
+    "stadium": "Joe Robbie Stadium",
+    "city": "Miami",
+    "state": "Florida",
+    "attendance": "74107"
+  },
+  {
+    "year": "1996",
+    "winner": "Dallas Cowboys",
+    "loser": "Pittsburgh Steelers",
+    "stadium": "Sun Devil Stadium",
+    "city": "Tempe",
+    "state": "Arizona",
+    "attendance": "76347"
+  },
+  {
+    "year": "1997",
+    "winner": "Green Bay Packers",
+    "loser": "New England Patriots",
+    "stadium": "Louisiana Superdome",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "attendance": "72301"
+  },
+  {
+    "year": "1998",
+    "winner": "Denver Broncos",
+    "loser": "Green Bay Packers",
+    "stadium": "Qualcomm Stadium",
+    "city": "San Diego",
+    "state": "California",
+    "attendance": "68912"
+  },
+  {
+    "year": "1999",
+    "winner": "Denver Broncos",
+    "loser": "Atlanta Falcons",
+    "stadium": "Pro Player Stadium",
+    "city": "Miami",
+    "state": "Florida",
+    "attendance": "74803"
+  },
+  {
+    "year": "2000",
+    "winner": "St. Louis Rams",
+    "loser": "Tennessee Titans",
+    "stadium": "Georgia Dome",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "attendance": "72625"
+  },
+  {
+    "year": "2001",
+    "winner": "Baltimore Ravens",
+    "loser": "New York Giants",
+    "stadium": "Raymond James Stadium",
+    "city": "Tampa",
+    "state": "Florida",
+    "attendance": "71921"
+  },
+  {
+    "year": "2002",
+    "winner": "New England Patriots",
+    "loser": "St. Louis Rams",
+    "stadium": "Louisiana Superdome",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "attendance": "72922"
+  },
+  {
+    "year": "2003",
+    "winner": "Tampa Bay Buccaneers",
+    "loser": "Oakland Raiders",
+    "stadium": "Qualcomm Stadium",
+    "city": "San Diego",
+    "state": "California",
+    "attendance": "67603"
+  },
+  {
+    "year": "2004",
+    "winner": "New England Patriots",
+    "loser": "Carolina Panthers",
+    "stadium": "Reliant Stadium",
+    "city": "Houston",
+    "state": "Texas",
+    "attendance": "71525"
+  },
+  {
+    "year": "2005",
+    "winner": "New England Patriots",
+    "loser": "Philadelphia Eagles",
+    "stadium": "Alltel Stadium",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "attendance": "78125"
+  },
+  {
+    "year": "2006",
+    "winner": "Pittsburgh Steelers",
+    "loser": "Seattle Seahawks",
+    "stadium": "Ford Field",
+    "city": "Detroit",
+    "state": "Michigan",
+    "attendance": "68206"
+  },
+  {
+    "year": "2007",
+    "winner": "Indianapolis Colts",
+    "loser": "Chicago Bears",
+    "stadium": "Dolphin Stadium",
+    "city": "Miami Gardens",
+    "state": "Florida",
+    "attendance": "74512"
+  },
+  {
+    "year": "2008",
+    "winner": "New York Giants",
+    "loser": "New England Patriots",
+    "stadium": "University of Phoenix Stadium",
+    "city": "Glendale",
+    "state": "Arizona",
+    "attendance": "71101"
+  },
+  {
+    "year": "2009",
+    "winner": "Pittsburgh Steelers",
+    "loser": "Arizona Cardinals",
+    "stadium": "Raymond James Stadium",
+    "city": "Tampa",
+    "state": "Florida",
+    "attendance": "70774"
+  },
+  {
+    "year": "2010",
+    "winner": "New Orleans Saints",
+    "loser": "Indianapolis Colts",
+    "stadium": "Sun Life Stadium",
+    "city": "Miami Gardens",
+    "state": "Florida",
+    "attendance": "74059"
+  },
+  {
+    "year": "2011",
+    "winner": "Green Bay Packers",
+    "loser": "Pittsburgh Steelers",
+    "stadium": "Cowboys Stadium",
+    "city": "Arlington",
+    "state": "Virginia",
+    "attendance": "103219"
+  },
+  {
+    "year": "2012",
+    "winner": "New York Giants",
+    "loser": "New England Patriots",
+    "stadium": "Lucas Oil Stadium",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "attendance": "68658"
+  },
+  {
+    "year": "2013",
+    "winner": "Baltimore Ravens",
+    "loser": "San Francisco 49ers",
+    "stadium": "Mercedes-Benz Superdome",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "attendance": "71024"
+  },
+  {
+    "year": "2014",
+    "winner": "Seattle Seahawks",
+    "loser": "Denver Broncos",
+    "stadium": "MetLife Stadium",
+    "city": "East Rutherford",
+    "state": "New Jersey",
+    "attendance": "82529"
+  },
+  {
+    "year": "2015",
+    "winner": "New England Patriots",
+    "loser": "Seattle Seahawks",
+    "stadium": "University of Phoenix Stadium",
+    "city": "Glendale",
+    "state": "Arizona",
+    "attendance": "70288"
+  },
+  {
+    "year": "2016",
+    "winner": "Denver Broncos",
+    "loser": "Carolina Panthers",
+    "stadium": "Levi's Stadium",
+    "city": "Santa Clara",
+    "state": "California",
+    "attendance": "71088"
+  },
+  {
+    "year": "2017",
+    "winner": "New England Patriots",
+    "loser": "Atlanta Falcons",
+    "stadium": "NRG Stadium",
+    "city": "Houston",
+    "state": "Texas",
+    "attendance": "70807"
+  },
+  {
+    "year": "2018",
+    "winner": "Philadelphia Eagles",
+    "loser": "New England Patriots",
+    "stadium": "U.S. Bank Stadium",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "attendance": "67612"
+  },
+  {
+    "year": "2019",
+    "winner": "New England Patriots",
+    "loser": "Los Angeles Rams",
+    "stadium": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "attendance": "70081"
+  },
+  {
+    "year": "2020",
+    "winner": "Kansas City Chiefs",
+    "loser": "San Francisco 49ers",
+    "stadium": "Hard Rock Stadium",
+    "city": "Miami Gardens",
+    "state": "Florida",
+    "attendance": "62417"
+  },
+  {
+    "year": "2021",
+    "winner": "Tampa Bay Buccaneers",
+    "loser": "Kansas City Chiefs",
+    "stadium": "Raymond James Stadium",
+    "city": "Tampa",
+    "state": "Florida",
+    "attendance": "24835"
+  },
+  {
+    "year": "2022",
+    "winner": "Los Angeles Rams",
+    "loser": "Cincinnati Bengals",
+    "stadium": "SoFi Stadium",
+    "city": "Inglewood",
+    "state": "California",
+    "attendance": "70048"
+  }
+]

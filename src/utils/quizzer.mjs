@@ -1,4 +1,5 @@
 import fifaWC from '../data/fifaWC.json' assert {type: 'json'};
+import superBowl from '../data/superBowl.json' assert {type: 'json'};
 import { difference } from './setOperations.mjs';
 
 function occurences(tournament, state) {
@@ -38,6 +39,10 @@ function noWinFinalists(tournament) {
     return difference(loserSet, winnerSet);
 }
 
+function attendance(tournament) {
+    return tournament.sort((a, b) => a.attendance - b.attendance);
+}
+
 console.log("winner", occurences(fifaWC, ["winner"]));
 console.log("loser", occurences(fifaWC, ["loser"]));
 console.log("finalist", occurences(fifaWC, ["winner", "loser"]));
@@ -45,3 +50,13 @@ console.log("host", occurences(fifaWC, ["country"]));
 console.log("city", occurences(fifaWC, ["city"]));
 console.log("winning hosts", winnerHosts(fifaWC));
 console.log("never won", noWinFinalists(fifaWC));
+console.log("attendance", attendance(fifaWC));
+
+
+console.log("winner", occurences(superBowl, ["winner"]));
+console.log("loser", occurences(superBowl, ["loser"]));
+console.log("finalist", occurences(superBowl, ["winner", "loser"]));
+console.log("host", occurences(superBowl, ["state"]));
+console.log("city", occurences(superBowl, ["city"]));
+console.log("never won", noWinFinalists(superBowl));
+console.log("attendance", attendance(superBowl));
