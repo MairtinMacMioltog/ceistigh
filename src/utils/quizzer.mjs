@@ -5,6 +5,7 @@ import allIrlHurl from "../data/allIrlHurl.json" assert { type: "json" };
 import cl from "../data/cl.json" assert { type: "json" };
 import cricket from "../data/cricket.json" assert { type: "json" };
 import rugby from "../data/rugby.json" assert { type: "json" };
+import euros from "../data/euros.json" assert { type: "json" };
 
 import { difference } from "./setOperations.mjs";
 
@@ -112,3 +113,11 @@ console.log("winner", occurences(rugby, ["winner"]));
 console.log("loser", occurences(rugby, ["loser"]));
 console.log("finalist", occurences(rugby, ["winner", "loser"]));
 console.log("never won", noWinFinalists(rugby));
+
+console.log("------------------------------");
+console.log("----------- EUROS ------------");
+console.log("------------------------------");
+console.log("winner", occurences(euros, ["winner"]));
+console.log("loser", occurences(euros, ["loser"]));
+console.log("finalist", occurences(euros, ["winner", "loser"]));
+console.log("never won", noWinFinalists(euros));

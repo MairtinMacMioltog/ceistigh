@@ -1,0 +1,130 @@
+[
+  {
+    "year": "1960",
+    "venue": "Parc des Princes, Paris",
+    "host": "France",
+    "winner": "Soviet Union",
+    "score": "2-1",
+    "loser": "Yugoslavia"
+  },
+  {
+    "year": "1964",
+    "venue": "Santiago Bernabéu, Madrid",
+    "host": "Spain",
+    "winner": "Spain",
+    "score": "2-1",
+    "loser": "Soviet Union"
+  },
+  {
+    "year": "1968",
+    "venue": "Stadio Olimpico, Rome",
+    "host": "Italy",
+    "winner": "Italy",
+    "score": "2-0",
+    "loser": "Yugoslavia"
+  },
+  {
+    "year": "1972",
+    "venue": "Heysel Stadium, Brussels",
+    "host": "Belgium",
+    "winner": "Germany",
+    "score": "3-0",
+    "loser": "Soviet Union"
+  },
+  {
+    "year": "1976",
+    "venue": "Red Star Stadium, Belgrade",
+    "host": "Yugoslavia",
+    "winner": "Czech",
+    "score": "2-2",
+    "loser": "Germany"
+  },
+  {
+    "year": "1980",
+    "venue": "Stadio Olimpico, Rome",
+    "host": "Italy",
+    "winner": "Germany",
+    "score": "2-1",
+    "loser": "Belgium"
+  },
+  {
+    "year": "1984",
+    "venue": "Parc des Princes, Paris",
+    "host": "France",
+    "winner": "France",
+    "score": "2-0",
+    "loser": "Spain"
+  },
+  {
+    "year": "1988",
+    "venue": "Olympiastadion, Munich",
+    "host": "Germany",
+    "winner": "Netherlands",
+    "score": "2-0",
+    "loser": "Soviet Union"
+  },
+  {
+    "year": "1992",
+    "venue": "Ullevi, Gothenburg",
+    "host": "Sweden",
+    "winner": "Denmark",
+    "score": "2-0",
+    "loser": "Germany"
+  },
+  {
+    "year": "1996",
+    "venue": "Wembley Stadium, London",
+    "host": "England",
+    "winner": "Germany",
+    "score": "2-1",
+    "loser": "Czech"
+  },
+  {
+    "year": "2000",
+    "venue": "De Kuip, Rotterdam",
+    "host": "Belgium, Netherlands",
+    "winner": "France",
+    "score": "2-1",
+    "loser": "Italy"
+  },
+  {
+    "year": "2004",
+    "host": "Portugal",
+    "venue": "Estádio da Luz, Lisbon",
+    "winner": "Greece",
+    "score": "1-0",
+    "loser": "Portugal"
+  },
+  {
+    "year": "2008",
+    "venue": "Ernst-Happel-Stadion, Vienna",
+    "host": "Austria, Switzerland",
+    "winner": "Spain",
+    "score": "1-0",
+    "loser": "Germany"
+  },
+  {
+    "year": "2012",
+    "venue": "Olimpiyskiy, Kyiv",
+    "host": "Poland, Ukraine",
+    "winner": "Spain",
+    "score": "4-0",
+    "loser": "Italy"
+  },
+  {
+    "year": "2016",
+    "venue": " Stade de France, Saint-Denis",
+    "host": "France",
+    "winner": "Portugal",
+    "score": "1-0",
+    "loser": "France"
+  },
+  {
+    "year": "2020",
+    "venue": "Wembley Stadium, London",
+    "host": "Europe",
+    "winner": "Italy",
+    "score": "1-1",
+    "loser": "England"
+  }
+]
