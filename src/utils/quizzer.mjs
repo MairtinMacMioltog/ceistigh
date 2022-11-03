@@ -3,6 +3,8 @@ import superBowl from "../data/superBowl.json" assert { type: "json" };
 import allIrlFoot from "../data/allIrlFoot.json" assert { type: "json" };
 import allIrlHurl from "../data/allIrlHurl.json" assert { type: "json" };
 import cl from "../data/cl.json" assert { type: "json" };
+import cricket from "../data/cricket.json" assert { type: "json" };
+
 import { difference } from "./setOperations.mjs";
 
 function occurences(tournament, state) {
@@ -93,3 +95,12 @@ console.log("winner", occurences(cl, ["winner"]));
 console.log("loser", occurences(cl, ["loser"]));
 console.log("finalist", occurences(cl, ["winner", "loser"]));
 console.log("never won", noWinFinalists(cl));
+
+console.log("------------------------------");
+console.log("--------- CRICKET WC ---------");
+console.log("------------------------------");
+console.log("winner", occurences(cricket, ["winner"]));
+console.log("loser", occurences(cricket, ["loser"]));
+console.log("finalist", occurences(cricket, ["winner", "loser"]));
+console.log("never won", noWinFinalists(cricket));
+

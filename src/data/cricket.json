@@ -1,0 +1,98 @@
+[
+  {
+    "year": "1975",
+    "host": "England",
+    "venue": "Lord's, London",
+    "winner": "West Indies",
+    "result": "17 runs",
+    "loser": "Australia"
+  },
+  {
+    "year": "1979",
+    "host": "England",
+    "venue": "Lord's, London",
+    "winner": "West Indies",
+    "result": "92 runs",
+    "loser": "England"
+  },
+  {
+    "year": "1983",
+    "host": "England, Wales",
+    "venue": "Lord's, London",
+    "winner": "India",
+    "result": "43 runs",
+    "loser": "West Indies"
+  },
+  {
+    "year": "1987",
+    "host": "India, Pakistan",
+    "venue": "Eden Gardens, Kolkata",
+    "winner": "Australia",
+    "result": "7 runs",
+    "loser": "England"
+  },
+  {
+    "year": "1992",
+    "host": "Australia, New Zealand",
+    "venue": "Melbourne Cricket Ground, Melbourne",
+    "winner": "Pakistan",
+    "result": "22 runs",
+    "loser": "England"
+  },
+  {
+    "year": "1996",
+    "host": "Pakistan, India, Sri Lanka",
+    "venue": "Gaddafi Stadium, Lahore",
+    "winner": "Sri Lanka",
+    "result": "7 wickets",
+    "loser": "Australia"
+  },
+  {
+    "year": "1999",
+    "host": "England",
+    "venue": "Lord's, London",
+    "winner": "Australia",
+    "result": "8 wickets",
+    "loser": "Pakistan"
+  },
+  {
+    "year": "2003",
+    "host": "South Africa",
+    "venue": "Wanderers Stadium, Johannesburg",
+    "winner": "Australia",
+    "result": "125 runs",
+    "loser": "India"
+  },
+  {
+    "year": "2007",
+    "host": "West Indies",
+    "venue": "Kensington Oval, Bridgetown",
+    "winner": "Australia",
+    "result": "53 runs",
+    "loser": "Sri Lanka"
+  },
+  {
+    "year": "2011",
+    "host": "India, Sri Lanka, Bangladesh",
+    "venue": "Wankhede Stadium, Mumbai",
+    "winner": "India",
+    "result": "wickets",
+    "loser": "Sri Lanka"
+  },
+  {
+    "year": "2015",
+    "host": "Australia, New Zealand",
+    "venue": "Melbourne Cricket Ground, Melbourne",
+    "winner": "Australia",
+    "result": "7 wickets",
+    "loser": "New Zealand"
+  },
+  {
+    "year": "2019",
+    "host": "England, Wales",
+    "venue": "Lord's, London",
+    "winner": "England",
+    "result": "boundary count after super over",
+    "loser": "New Zealand"
+  }
+]
