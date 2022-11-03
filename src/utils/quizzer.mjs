@@ -2,6 +2,7 @@ import fifaWC from "../data/fifaWC.json" assert { type: "json" };
 import superBowl from "../data/superBowl.json" assert { type: "json" };
 import allIrlFoot from "../data/allIrlFoot.json" assert { type: "json" };
 import allIrlHurl from "../data/allIrlHurl.json" assert { type: "json" };
+import cl from "../data/cl.json" assert { type: "json" };
 import { difference } from "./setOperations.mjs";
 
 function occurences(tournament, state) {
@@ -69,7 +70,6 @@ console.log("city", occurences(superBowl, ["city"]));
 console.log("never won", noWinFinalists(superBowl));
 console.log("attendance", attendance(superBowl));
 
-
 console.log("------------------------------");
 console.log("-------- ALL IRL FOOT --------");
 console.log("------------------------------");
@@ -85,3 +85,11 @@ console.log("winner", occurences(allIrlHurl, ["winner"]));
 console.log("loser", occurences(allIrlHurl, ["loser"]));
 console.log("finalist", occurences(allIrlHurl, ["winner", "loser"]));
 console.log("never won", noWinFinalists(allIrlHurl));
+
+console.log("------------------------------");
+console.log("------------- CL ------------");
+console.log("------------------------------");
+console.log("winner", occurences(cl, ["winner"]));
+console.log("loser", occurences(cl, ["loser"]));
+console.log("finalist", occurences(cl, ["winner", "loser"]));
+console.log("never won", noWinFinalists(cl));

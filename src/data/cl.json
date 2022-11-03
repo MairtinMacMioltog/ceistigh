@@ -1,0 +1,672 @@
+[
+  {
+    "year": "1955",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "4-3",
+    "loser_nation": "FRA",
+    "loser": "Reims",
+    "venue": "Parc des Princes, Paris, France",
+    "attendance": "38,239"
+  },
+  {
+    "year": "1956",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "2-0",
+    "loser_nation": "ITA",
+    "loser": "Fiorentina",
+    "venue": "Santiago Bernabéu, Madrid, Spain",
+    "attendance": "124,000"
+  },
+  {
+    "year": "1957",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "3-2",
+    "loser_nation": "ITA",
+    "loser": "Milan",
+    "venue": "Heysel Stadium, Brussels, Belgium",
+    "attendance": "67,000"
+  },
+  {
+    "year": "1958",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "2-0",
+    "loser_nation": "FRA",
+    "loser": "Reims",
+    "venue": "Neckarstadion, Stuttgart, West Germany",
+    "attendance": "72,000"
+  },
+  {
+    "year": "1959",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "7-3",
+    "loser_nation": "GER",
+    "loser": "Eintracht Frankfurt",
+    "venue": "Hampden Park, Glasgow, Scotland",
+    "attendance": "127,621"
+  },
+  {
+    "year": "1960",
+    "winner_nation": "POR",
+    "winner": "Benfica",
+    "score": "3-2",
+    "loser_nation": "ESP",
+    "loser": "Barcelona",
+    "venue": "Wankdorf Stadium, Bern, Switzerland",
+    "attendance": "26,732"
+  },
+  {
+    "year": "1961",
+    "winner_nation": "POR",
+    "winner": "Benfica",
+    "score": "5-3",
+    "loser_nation": "ESP",
+    "loser": "Real Madrid",
+    "venue": "Olympisch Stadion, Amsterdam, Netherlands",
+    "attendance": "61,257"
+  },
+  {
+    "year": "1962",
+    "winner_nation": "ITA",
+    "winner": "Milan",
+    "score": "2-1",
+    "loser_nation": "POR",
+    "loser": "Benfica",
+    "venue": "Wembley Stadium, London, England",
+    "attendance": "45,715"
+  },
+  {
+    "year": "1963",
+    "winner_nation": "ITA",
+    "winner": "Inter Milan",
+    "score": "3-1",
+    "loser_nation": "ESP",
+    "loser": "Real Madrid",
+    "venue": "Praterstadion, Vienna, Austria",
+    "attendance": "71,333"
+  },
+  {
+    "year": "1964",
+    "winner_nation": "ITA",
+    "winner": "Inter Milan",
+    "score": "1-0",
+    "loser_nation": "POR",
+    "loser": "Benfica",
+    "venue": "San Siro, Milan, Italy",
+    "attendance": "89,000"
+  },
+  {
+    "year": "1965",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "2-1",
+    "loser_nation": "YUG",
+    "loser": "Partizan",
+    "venue": "Heysel Stadium, Brussels, Belgium",
+    "attendance": "46,745"
+  },
+  {
+    "year": "1966",
+    "winner_nation": "SCO",
+    "winner": "Celtic",
+    "score": "2-1",
+    "loser_nation": "ITA",
+    "loser": "Inter Milan",
+    "venue": "Estádio Nacional, Lisbon, Portugal",
+    "attendance": "45,000"
+  },
+  {
+    "year": "1967",
+    "winner_nation": "ENG",
+    "winner": "Manchester United",
+    "score": "4-1",
+    "loser_nation": "POR",
+    "loser": "Benfica",
+    "venue": "Wembley Stadium, London, England",
+    "attendance": "92,225"
+  },
+  {
+    "year": "1968",
+    "winner_nation": "ITA",
+    "winner": "Milan",
+    "score": "4-1",
+    "loser_nation": "NED",
+    "loser": "Ajax",
+    "venue": "Santiago Bernabéu, Madrid, Spain",
+    "attendance": "31,782"
+  },
+  {
+    "year": "1969",
+    "winner_nation": "NED",
+    "winner": "Feyenoord",
+    "score": "2-1",
+    "loser_nation": "SCO",
+    "loser": "Celtic",
+    "venue": "San Siro, Milan, Italy",
+    "attendance": "53,187"
+  },
+  {
+    "year": "1970",
+    "winner_nation": "NED",
+    "winner": "Ajax",
+    "score": "2-0",
+    "loser_nation": "GRE",
+    "loser": "Panathinaikos",
+    "venue": "Wembley Stadium, London, England",
+    "attendance": "83,179"
+  },
+  {
+    "year": "1971",
+    "winner_nation": "NED",
+    "winner": "Ajax",
+    "score": "2-0",
+    "loser_nation": "ITA",
+    "loser": "Inter Milan",
+    "venue": "De Kuip, Rotterdam, Netherlands",
+    "attendance": "61,354"
+  },
+  {
+    "year": "1972",
+    "winner_nation": "NED",
+    "winner": "Ajax",
+    "score": "1-0",
+    "loser_nation": "ITA",
+    "loser": "Juventus",
+    "venue": "Red Star Stadium, Belgrade, SFR Yugoslavia",
+    "attendance": "89,484"
+  },
+  {
+    "year": "1973",
+    "winner_nation": "GER",
+    "winner": "Bayern Munich",
+    "score": "4-0",
+    "loser_nation": "ESP",
+    "loser": "Atlético Madrid",
+    "venue": "Heysel Stadium, Brussels, Belgium",
+    "attendance": "23,325"
+  },
+  {
+    "year": "1974",
+    "winner_nation": "GER",
+    "winner": "Bayern Munich",
+    "score": "2-0",
+    "loser_nation": "ENG",
+    "loser": "Leeds United",
+    "venue": "Parc des Princes, Paris, France",
+    "attendance": "48,374"
+  },
+  {
+    "year": "1975",
+    "winner_nation": "GER",
+    "winner": "Bayern Munich",
+    "score": "1-0",
+    "loser_nation": "FRA",
+    "loser": "Saint-Étienne",
+    "venue": "Hampden Park, Glasgow, Scotland",
+    "attendance": "54,864"
+  },
+  {
+    "year": "1976",
+    "winner_nation": "ENG",
+    "winner": "Liverpool",
+    "score": "3-1",
+    "loser_nation": "GER",
+    "loser": "Borussia Mönchengladbach",
+    "venue": "Stadio Olimpico, Rome, Italy",
+    "attendance": "57,000"
+  },
+  {
+    "year": "1977",
+    "winner_nation": "ENG",
+    "winner": "Liverpool",
+    "score": "1-0",
+    "loser_nation": "BEL",
+    "loser": "Club Brugge",
+    "venue": "Wembley Stadium, London, England",
+    "attendance": "92,500"
+  },
+  {
+    "year": "1978",
+    "winner_nation": "ENG",
+    "winner": "Nottingham Forest",
+    "score": "1-0",
+    "loser_nation": "SWE",
+    "loser": "Malmö FF",
+    "venue": "Olympiastadion, Munich, West Germany",
+    "attendance": "57,500"
+  },
+  {
+    "year": "1979",
+    "winner_nation": "ENG",
+    "winner": "Nottingham Forest",
+    "score": "1-0",
+    "loser_nation": "GER",
+    "loser": "Hamburger SV",
+    "venue": "Santiago Bernabéu, Madrid, Spain",
+    "attendance": "51,000"
+  },
+  {
+    "year": "1980",
+    "winner_nation": "ENG",
+    "winner": "Liverpool",
+    "score": "1-0",
+    "loser_nation": "ESP",
+    "loser": "Real Madrid",
+    "venue": "Parc des Princes, Paris, France",
+    "attendance": "48,360"
+  },
+  {
+    "year": "1981",
+    "winner_nation": "ENG",
+    "winner": "Aston Villa",
+    "score": "1-0",
+    "loser_nation": "GER",
+    "loser": "Bayern Munich",
+    "venue": "De Kuip, Rotterdam, Netherlands",
+    "attendance": "46,000"
+  },
+  {
+    "year": "1982",
+    "winner_nation": "GER",
+    "winner": "Hamburger SV",
+    "score": "1-0",
+    "loser_nation": "ITA",
+    "loser": "Juventus",
+    "venue": "Olympic Stadium, Athens, Greece",
+    "attendance": "73,500"
+  },
+  {
+    "year": "1983",
+    "winner_nation": "ENG",
+    "winner": "Liverpool",
+    "score": "1-1",
+    "loser_nation": "ITA",
+    "loser": "Roma",
+    "venue": "Stadio Olimpico, Rome, Italy",
+    "attendance": "69,693"
+  },
+  {
+    "year": "1984",
+    "winner_nation": "ITA",
+    "winner": "Juventus",
+    "score": "1-0",
+    "loser_nation": "ENG",
+    "loser": "Liverpool",
+    "venue": "Heysel Stadium, Brussels, Belgium",
+    "attendance": "58,000"
+  },
+  {
+    "year": "1985",
+    "winner_nation": "ROU",
+    "winner": "Steaua București",
+    "score": "0-0",
+    "loser_nation": "ESP",
+    "loser": "Barcelona",
+    "venue": "Ramón Sánchez Pizjuán, Seville, Spain",
+    "attendance": "70,000"
+  },
+  {
+    "year": "1986",
+    "winner_nation": "POR",
+    "winner": "Porto",
+    "score": "2-1",
+    "loser_nation": "GER",
+    "loser": "Bayern Munich",
+    "venue": "Praterstadion, Vienna, Austria",
+    "attendance": "57,500"
+  },
+  {
+    "year": "1987",
+    "winner_nation": "NED",
+    "winner": "PSV Eindhoven",
+    "score": "0-0",
+    "loser_nation": "POR",
+    "loser": "Benfica",
+    "venue": "Neckarstadion, Stuttgart, West Germany",
+    "attendance": "68,000"
+  },
+  {
+    "year": "1988",
+    "winner_nation": "ITA",
+    "winner": "Milan",
+    "score": "4-0",
+    "loser_nation": "ROU",
+    "loser": "Steaua București",
+    "venue": "Camp Nou, Barcelona, Spain",
+    "attendance": "97,000"
+  },
+  {
+    "year": "1989",
+    "winner_nation": "ITA",
+    "winner": "Milan",
+    "score": "1-0",
+    "loser_nation": "POR",
+    "loser": "Benfica",
+    "venue": "Praterstadion, Vienna, Austria",
+    "attendance": "57,558"
+  },
+  {
+    "year": "1990",
+    "winner_nation": "YUG",
+    "winner": "Red Star Belgrade",
+    "score": "0-0",
+    "loser_nation": "FRA",
+    "loser": "Marseille",
+    "venue": "Stadio San Nicola, Bari, Italy",
+    "attendance": "56,000"
+  },
+  {
+    "year": "1991",
+    "winner_nation": "ESP",
+    "winner": "Barcelona",
+    "score": "1-0",
+    "loser_nation": "ITA",
+    "loser": "Sampdoria",
+    "venue": "Wembley Stadium, London, England",
+    "attendance": "70,827"
+  },
+  {
+    "year": "1992",
+    "winner_nation": "FRA",
+    "winner": "Marseille",
+    "score": "1-0",
+    "loser_nation": "ITA",
+    "loser": "Milan",
+    "venue": "Olympiastadion, Munich, Germany",
+    "attendance": "64,400"
+  },
+  {
+    "year": "1993",
+    "winner_nation": "ITA",
+    "winner": "Milan",
+    "score": "4-0",
+    "loser_nation": "ESP",
+    "loser": "Barcelona",
+    "venue": "Olympic Stadium, Athens, Greece",
+    "attendance": "70,000"
+  },
+  {
+    "year": "1994",
+    "winner_nation": "NED",
+    "winner": "Ajax",
+    "score": "1-0",
+    "loser_nation": "ITA",
+    "loser": "Milan",
+    "venue": "Ernst-Happel-Stadion, Vienna, Austria",
+    "attendance": "49,730"
+  },
+  {
+    "year": "1995",
+    "winner_nation": "ITA",
+    "winner": "Juventus",
+    "score": "1-1",
+    "loser_nation": "NED",
+    "loser": "Ajax",
+    "venue": "Stadio Olimpico, Rome, Italy",
+    "attendance": "70,000"
+  },
+  {
+    "year": "1996",
+    "winner_nation": "GER",
+    "winner": "Borussia Dortmund",
+    "score": "3-1",
+    "loser_nation": "ITA",
+    "loser": "Juventus",
+    "venue": "Olympiastadion, Munich, Germany",
+    "attendance": "59,000"
+  },
+  {
+    "year": "1997",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "1-0",
+    "loser_nation": "ITA",
+    "loser": "Juventus",
+    "venue": "Amsterdam Arena, Amsterdam, Netherlands",
+    "attendance": "48,500"
+  },
+  {
+    "year": "1998",
+    "winner_nation": "ENG",
+    "winner": "Manchester United",
+    "score": "2-1",
+    "loser_nation": "GER",
+    "loser": "Bayern Munich",
+    "venue": "Camp Nou, Barcelona, Spain",
+    "attendance": "90,245"
+  },
+  {
+    "year": "1999",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "3-0",
+    "loser_nation": "ESP",
+    "loser": "Valencia",
+    "venue": "Stade de France, Saint-Denis, France",
+    "attendance": "80,000"
+  },
+  {
+    "year": "2000",
+    "winner_nation": "GER",
+    "winner": "Bayern Munich",
+    "score": "1-1*[f]",
+    "loser_nation": "ESP",
+    "loser": "Valencia",
+    "venue": "San Siro, Milan, Italy",
+    "attendance": "71,500"
+  },
+  {
+    "year": "2001",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "2-1",
+    "loser_nation": "GER",
+    "loser": "Bayer Leverkusen",
+    "venue": "Hampden Park, Glasgow, Scotland",
+    "attendance": "50,499"
+  },
+  {
+    "year": "2002",
+    "winner_nation": "ITA",
+    "winner": "Milan",
+    "score": "0-0",
+    "loser_nation": "ITA",
+    "loser": "Juventus",
+    "venue": "Old Trafford, Manchester, England",
+    "attendance": "62,315"
+  },
+  {
+    "year": "2003",
+    "winner_nation": "POR",
+    "winner": "Porto",
+    "score": "3-0",
+    "loser_nation": "FRA",
+    "loser": "Monaco",
+    "venue": "Arena AufSchalke, Gelsenkirchen, Germany",
+    "attendance": "53,053"
+  },
+  {
+    "year": "2004",
+    "winner_nation": "ENG",
+    "winner": "Liverpool",
+    "score": "3-3",
+    "loser_nation": "ITA",
+    "loser": "Milan",
+    "venue": "Atatürk Olympic Stadium, Istanbul, Turkey",
+    "attendance": "69,000"
+  },
+  {
+    "year": "2005",
+    "winner_nation": "ESP",
+    "winner": "Barcelona",
+    "score": "2-1",
+    "loser_nation": "ENG",
+    "loser": "Arsenal",
+    "venue": "Stade de France, Saint-Denis, France",
+    "attendance": "79,610"
+  },
+  {
+    "year": "2006",
+    "winner_nation": "ITA",
+    "winner": "Milan",
+    "score": "2-1",
+    "loser_nation": "ENG",
+    "loser": "Liverpool",
+    "venue": "Olympic Stadium, Athens, Greece",
+    "attendance": "63,000"
+  },
+  {
+    "year": "2007",
+    "winner_nation": "ENG",
+    "winner": "Manchester United",
+    "score": "1-1",
+    "loser_nation": "ENG",
+    "loser": "Chelsea",
+    "venue": "Luzhniki Stadium, Moscow, Russia",
+    "attendance": "67,310"
+  },
+  {
+    "year": "2008",
+    "winner_nation": "ESP",
+    "winner": "Barcelona",
+    "score": "2-0",
+    "loser_nation": "ENG",
+    "loser": "Manchester United",
+    "venue": "Stadio Olimpico, Rome, Italy",
+    "attendance": "62,467"
+  },
+  {
+    "year": "2009",
+    "winner_nation": "ITA",
+    "winner": "Inter Milan",
+    "score": "2-0",
+    "loser_nation": "GER",
+    "loser": "Bayern Munich",
+    "venue": "Santiago Bernabéu, Madrid, Spain",
+    "attendance": "73,490"
+  },
+  {
+    "year": "2010",
+    "winner_nation": "ESP",
+    "winner": "Barcelona",
+    "score": "3-1",
+    "loser_nation": "ENG",
+    "loser": "Manchester United",
+    "venue": "Wembley Stadium, London, England",
+    "attendance": "87,695"
+  },
+  {
+    "year": "2011",
+    "winner_nation": "ENG",
+    "winner": "Chelsea",
+    "score": "1-1*[j]",
+    "loser_nation": "GER",
+    "loser": "Bayern Munich",
+    "venue": "Allianz Arena, Munich, Germany",
+    "attendance": "62,500"
+  },
+  {
+    "year": "2012",
+    "winner_nation": "GER",
+    "winner": "Bayern Munich",
+    "score": "2-1",
+    "loser_nation": "GER",
+    "loser": "Borussia Dortmund",
+    "venue": "Wembley Stadium, London, England",
+    "attendance": "86,298"
+  },
+  {
+    "year": "2013",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "4-1",
+    "loser_nation": "ESP",
+    "loser": "Atlético Madrid",
+    "venue": "Estádio da Luz, Lisbon, Portugal",
+    "attendance": "60,976"
+  },
+  {
+    "year": "2014",
+    "winner_nation": "ESP",
+    "winner": "Barcelona",
+    "score": "3-1",
+    "loser_nation": "ITA",
+    "loser": "Juventus",
+    "venue": "Olympiastadion, Berlin, Germany",
+    "attendance": "70,442"
+  },
+  {
+    "year": "2015",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "1-1*[k]",
+    "loser_nation": "ESP",
+    "loser": "Atlético Madrid",
+    "venue": "San Siro, Milan, Italy",
+    "attendance": "71,942"
+  },
+  {
+    "year": "2016",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "4-1",
+    "loser_nation": "ITA",
+    "loser": "Juventus",
+    "venue": "Millennium Stadium, Cardiff, Wales",
+    "attendance": "65,842"
+  },
+  {
+    "year": "2017",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "3-1",
+    "loser_nation": "ENG",
+    "loser": "Liverpool",
+    "venue": "NSC Olimpiyskiy Stadium, Kyiv, Ukraine",
+    "attendance": "61,561"
+  },
+  {
+    "year": "2018",
+    "winner_nation": "ENG",
+    "winner": "Liverpool",
+    "score": "2-0",
+    "loser_nation": "ENG",
+    "loser": "Tottenham Hotspur",
+    "venue": "Metropolitano Stadium, Madrid, Spain",
+    "attendance": "63,272"
+  },
+  {
+    "year": "2019",
+    "winner_nation": "GER",
+    "winner": "Bayern Munich",
+    "score": "1-0",
+    "loser_nation": "FRA",
+    "loser": "Paris Saint-Germain",
+    "venue": "Estádio da Luz, Lisbon, Portugal",
+    "attendance": "0"
+  },
+  {
+    "year": "2020",
+    "winner_nation": "ENG",
+    "winner": "Chelsea",
+    "score": "1-0",
+    "loser_nation": "ENG",
+    "loser": "Manchester City",
+    "venue": "Estádio do Dragão, Porto, Portugal",
+    "attendance": "14,110"
+  },
+  {
+    "year": "2021",
+    "winner_nation": "ESP",
+    "winner": "Real Madrid",
+    "score": "1-0",
+    "loser_nation": "ENG",
+    "loser": "Liverpool",
+    "venue": "Stade de France, Saint-Denis, France",
+    "attendance": "75,000"
+  }
+]
