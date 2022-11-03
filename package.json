@@ -1,0 +1,9 @@
+{
+  "name": "ceistigh",
+  "version": "0.0.1",
+  "description": "Quiz questions generator",
+  "main": "index.js",
+  "repository": "https://github.com/MairtinMacMioltog/ceistigh.git",
+  "author": "Máirtín MacMíoltóg ",
+  "license": "MIT"
+}

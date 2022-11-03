@@ -1,0 +1,1090 @@
+[
+  {
+    "year": "1887",
+    "winner": "Limerick",
+    "w_score": "1-4",
+    "loser": "Louth",
+    "l_score": "0-3",
+    "attendance": "7,000"
+  },
+  {
+    "year": "1888",
+    "winner": "",
+    "w_score": "",
+    "loser": "",
+    "l_score": "",
+    "attendance": ""
+  },
+  {
+    "year": "1889",
+    "winner": "Tipperary",
+    "w_score": "3-6",
+    "loser": "Laois",
+    "l_score": "0-0",
+    "attendance": "1,500"
+  },
+  {
+    "year": "1890",
+    "winner": "Cork",
+    "w_score": "2-4",
+    "loser": "Wexford",
+    "l_score": "0-1",
+    "attendance": "1,000"
+  },
+  {
+    "year": "1891",
+    "winner": "Dublin",
+    "w_score": "2-1",
+    "loser": "Cork",
+    "l_score": "1-1",
+    "attendance": "2,000"
+  },
+  {
+    "year": "1892",
+    "winner": "Dublin",
+    "w_score": "1-4",
+    "loser": "Kerry",
+    "l_score": "0-3",
+    "attendance": "5,000"
+  },
+  {
+    "year": "1893",
+    "winner": "Wexford",
+    "w_score": "1-1",
+    "loser": "Cork",
+    "l_score": "0-2",
+    "attendance": "1,000"
+  },
+  {
+    "year": "1894",
+    "winner": "Dublin",
+    "w_score": "0-5",
+    "loser": "Cork",
+    "l_score": "1-2",
+    "attendance": "10,000"
+  },
+  {
+    "year": "1895",
+    "winner": "Tipperary",
+    "w_score": "0-4",
+    "loser": "Meath",
+    "l_score": "0-3",
+    "attendance": "8,000"
+  },
+  {
+    "year": "1896",
+    "winner": "Limerick",
+    "w_score": "1-5 (8)",
+    "loser": "Dublin",
+    "l_score": "0-7",
+    "attendance": "3,500"
+  },
+  {
+    "year": "1897",
+    "winner": "Dublin",
+    "w_score": "2-6 (12)",
+    "loser": "Cork",
+    "l_score": "0-2",
+    "attendance": "4,000"
+  },
+  {
+    "year": "1898",
+    "winner": "Dublin",
+    "w_score": "2-8 (14)",
+    "loser": "Waterford",
+    "l_score": "0-4",
+    "attendance": "1,000"
+  },
+  {
+    "year": "1899",
+    "winner": "Dublin",
+    "w_score": "1-10 (13)",
+    "loser": "Cork",
+    "l_score": "0-6",
+    "attendance": "2,000"
+  },
+  {
+    "year": "1900",
+    "winner": "Tipperary",
+    "w_score": "3-7 (16)",
+    "loser": "London",
+    "l_score": "0-2",
+    "attendance": "2,000"
+  },
+  {
+    "year": "1901",
+    "winner": "Dublin",
+    "w_score": "0-14",
+    "loser": "London",
+    "l_score": "0-2",
+    "attendance": "2,000"
+  },
+  {
+    "year": "1902",
+    "winner": "Dublin",
+    "w_score": "2-8 (14)",
+    "loser": "London",
+    "l_score": "0-4",
+    "attendance": "10,000"
+  },
+  {
+    "year": "1903",
+    "winner": "Kerry",
+    "w_score": "0-11",
+    "loser": "London",
+    "l_score": "0-3",
+    "attendance": "10,000"
+  },
+  {
+    "year": "1904",
+    "winner": "Kerry",
+    "w_score": "0-5",
+    "loser": "Dublin",
+    "l_score": "0-2",
+    "attendance": "10,000"
+  },
+  {
+    "year": "1905",
+    "winner": "Kildare",
+    "w_score": "1-7 (10)",
+    "loser": "Kerry",
+    "l_score": "0-5",
+    "attendance": "15,000"
+  },
+  {
+    "year": "1906",
+    "winner": "Dublin",
+    "w_score": "0-5",
+    "loser": "Cork",
+    "l_score": "0-4",
+    "attendance": "8,000"
+  },
+  {
+    "year": "1907",
+    "winner": "Dublin",
+    "w_score": "0-6",
+    "loser": "Cork",
+    "l_score": "0-2",
+    "attendance": "5,000"
+  },
+  {
+    "year": "1908",
+    "winner": "Dublin",
+    "w_score": "1-10 (13)",
+    "loser": "London",
+    "l_score": "0-4",
+    "attendance": "10,000"
+  },
+  {
+    "year": "1909",
+    "winner": "Kerry",
+    "w_score": "1-9 (12)",
+    "loser": "Louth",
+    "l_score": "0-6",
+    "attendance": "16,000"
+  },
+  {
+    "year": "1910",
+    "winner": "Louth",
+    "w_score": "W/O",
+    "loser": "Kerry",
+    "l_score": "Scratch[C]",
+    "attendance": ""
+  },
+  {
+    "year": "1911",
+    "winner": "Cork",
+    "w_score": "6-6 (24)",
+    "loser": "Antrim",
+    "l_score": "1-2 (5)",
+    "attendance": "11,000"
+  },
+  {
+    "year": "1912",
+    "winner": "Louth",
+    "w_score": "1-7 (10)",
+    "loser": "Antrim",
+    "l_score": "1-2 (5)",
+    "attendance": "13,000"
+  },
+  {
+    "year": "1913",
+    "winner": "Kerry",
+    "w_score": "2-2 (8)",
+    "loser": "Wexford",
+    "l_score": "0-3",
+    "attendance": "17,000"
+  },
+  {
+    "year": "1914",
+    "winner": "Kerry",
+    "w_score": "2-3 (9)",
+    "loser": "Wexford",
+    "l_score": "0-6",
+    "attendance": "20,000"
+  },
+  {
+    "year": "1915",
+    "winner": "Wexford",
+    "w_score": "2-4 (10)",
+    "loser": "Kerry",
+    "l_score": "2-1 (7)",
+    "attendance": "27,000"
+  },
+  {
+    "year": "1916",
+    "winner": "Wexford",
+    "w_score": "3-4 (13)",
+    "loser": "Mayo",
+    "l_score": "1-2 (5)",
+    "attendance": "3,000"
+  },
+  {
+    "year": "1917",
+    "winner": "Wexford",
+    "w_score": "0-9",
+    "loser": "Clare",
+    "l_score": "0-5",
+    "attendance": "6,500"
+  },
+  {
+    "year": "1918",
+    "winner": "Wexford",
+    "w_score": "0-5",
+    "loser": "Tipperary",
+    "l_score": "0-4",
+    "attendance": "12,000"
+  },
+  {
+    "year": "1919",
+    "winner": "Kildare",
+    "w_score": "2-5 (11)",
+    "loser": "Galway",
+    "l_score": "0-1",
+    "attendance": "32,000"
+  },
+  {
+    "year": "1920",
+    "winner": "Tipperary",
+    "w_score": "1-6 (9)",
+    "loser": "Dublin",
+    "l_score": "1-2 (5)",
+    "attendance": "17,000"
+  },
+  {
+    "year": "1921",
+    "winner": "Dublin",
+    "w_score": "1-9 (12)",
+    "loser": "Mayo",
+    "l_score": "0-2",
+    "attendance": "16,000"
+  },
+  {
+    "year": "1922",
+    "winner": "Dublin",
+    "w_score": "0-6",
+    "loser": "Galway",
+    "l_score": "0-4",
+    "attendance": "11,792"
+  },
+  {
+    "year": "1923",
+    "winner": "Dublin",
+    "w_score": "1-5 (8)",
+    "loser": "Kerry",
+    "l_score": "1-3 (6)",
+    "attendance": "18,500"
+  },
+  {
+    "year": "1924",
+    "winner": "Kerry",
+    "w_score": "0-4",
+    "loser": "Dublin",
+    "l_score": "0-3",
+    "attendance": "28,844"
+  },
+  {
+    "year": "1925",
+    "winner": "Galway",
+    "w_score": "3-2 (11)",
+    "loser": "",
+    "l_score": "1-2 (5)",
+    "attendance": ""
+  },
+  {
+    "year": "1926",
+    "winner": "Kerry",
+    "w_score": "1-4 (7)",
+    "loser": "Kildare",
+    "l_score": "0-4",
+    "attendance": "35,500"
+  },
+  {
+    "year": "1927",
+    "winner": "Kildare",
+    "w_score": "0-5",
+    "loser": "Kerry",
+    "l_score": "0-3",
+    "attendance": "36,529"
+  },
+  {
+    "year": "1928",
+    "winner": "Kildare",
+    "w_score": "2-6 (12)",
+    "loser": "Cavan",
+    "l_score": "2-5 (11)",
+    "attendance": "24,700"
+  },
+  {
+    "year": "1929",
+    "winner": "Kerry",
+    "w_score": "1-8 (11)",
+    "loser": "Kildare",
+    "l_score": "1-5 (8)",
+    "attendance": "43,839"
+  },
+  {
+    "year": "1930",
+    "winner": "Kerry",
+    "w_score": "3-11 (20)",
+    "loser": "Monaghan",
+    "l_score": "0-2",
+    "attendance": "33,280"
+  },
+  {
+    "year": "1931",
+    "winner": "Kerry",
+    "w_score": "1-11 (14)",
+    "loser": "Kildare",
+    "l_score": "0-8",
+    "attendance": "42,350"
+  },
+  {
+    "year": "1932",
+    "winner": "Kerry",
+    "w_score": "2-7 (13)",
+    "loser": "Mayo",
+    "l_score": "2-4 (10)",
+    "attendance": "25,816"
+  },
+  {
+    "year": "1933",
+    "winner": "Cavan",
+    "w_score": "2-5 (11)",
+    "loser": "Galway",
+    "l_score": "1-4 (7)",
+    "attendance": "45,188"
+  },
+  {
+    "year": "1934",
+    "winner": "Galway",
+    "w_score": "3-5 (14)",
+    "loser": "Dublin",
+    "l_score": "1-9 (12)",
+    "attendance": "36,143"
+  },
+  {
+    "year": "1935",
+    "winner": "Cavan",
+    "w_score": "3-6 (15)",
+    "loser": "Kildare",
+    "l_score": "2-5 (11)",
+    "attendance": "50,380"
+  },
+  {
+    "year": "1936",
+    "winner": "Mayo",
+    "w_score": "4-11 (23)",
+    "loser": "Laois",
+    "l_score": "0-05",
+    "attendance": "50,168"
+  },
+  {
+    "year": "1937",
+    "winner": "Kerry",
+    "w_score": "4-4 (16)",
+    "loser": "Cavan",
+    "l_score": "1-7 (10)",
+    "attendance": "51,234"
+  },
+  {
+    "year": "1938",
+    "winner": "Galway",
+    "w_score": "2-4 (10)",
+    "loser": "Kerry",
+    "l_score": "0-7",
+    "attendance": "47,851"
+  },
+  {
+    "year": "1939",
+    "winner": "Kerry",
+    "w_score": "2-5 (11)",
+    "loser": "Meath",
+    "l_score": "2-3 (9)",
+    "attendance": "46,828"
+  },
+  {
+    "year": "1940",
+    "winner": "Kerry",
+    "w_score": "0-7",
+    "loser": "Galway",
+    "l_score": "1-3 (6)",
+    "attendance": "60,821"
+  },
+  {
+    "year": "1941",
+    "winner": "Kerry",
+    "w_score": "1-8 (11)",
+    "loser": "Galway",
+    "l_score": "0-7",
+    "attendance": "45,512"
+  },
+  {
+    "year": "1942",
+    "winner": "Dublin",
+    "w_score": "1-10 (13)",
+    "loser": "Galway",
+    "l_score": "1-8 (11)",
+    "attendance": "37,105"
+  },
+  {
+    "year": "1943",
+    "winner": "Roscommon",
+    "w_score": "2-7 (13)",
+    "loser": "Cavan",
+    "l_score": "2-2 (8)",
+    "attendance": "47,193"
+  },
+  {
+    "year": "1944",
+    "winner": "Roscommon",
+    "w_score": "1-9 (12)",
+    "loser": "Kerry",
+    "l_score": "2-4 (10)",
+    "attendance": "79,245"
+  },
+  {
+    "year": "1945",
+    "winner": "Cork",
+    "w_score": "2-5 (11)",
+    "loser": "Cavan",
+    "l_score": "0-7",
+    "attendance": "67,329"
+  },
+  {
+    "year": "1946",
+    "winner": "Kerry",
+    "w_score": "2-8 (14)",
+    "loser": "Roscommon",
+    "l_score": "0-10",
+    "attendance": "65,661"
+  },
+  {
+    "year": "1947",
+    "winner": "Cavan",
+    "w_score": "2-11 (17)",
+    "loser": "Kerry",
+    "l_score": "2-7 (13)",
+    "attendance": "34,491"
+  },
+  {
+    "year": "1948",
+    "winner": "Cavan",
+    "w_score": "4-5 (17)",
+    "loser": "Mayo",
+    "l_score": "4-4 (16)",
+    "attendance": "74,645"
+  },
+  {
+    "year": "1949",
+    "winner": "Meath",
+    "w_score": "1-10 (13)",
+    "loser": "Cavan",
+    "l_score": "1-6 (9)",
+    "attendance": "79,460"
+  },
+  {
+    "year": "1950",
+    "winner": "Mayo",
+    "w_score": "2-5 (11)",
+    "loser": "Louth",
+    "l_score": "1-6 (9)",
+    "attendance": "76,174"
+  },
+  {
+    "year": "1951",
+    "winner": "Mayo",
+    "w_score": "2-8 (14)",
+    "loser": "Meath",
+    "l_score": "0-9",
+    "attendance": "78,201"
+  },
+  {
+    "year": "1952",
+    "winner": "Cavan",
+    "w_score": "0-9",
+    "loser": "Meath",
+    "l_score": "0-5",
+    "attendance": "62,515"
+  },
+  {
+    "year": "1953",
+    "winner": "Kerry",
+    "w_score": "0-13",
+    "loser": "Armagh",
+    "l_score": "1-6 (9)",
+    "attendance": "86,155"
+  },
+  {
+    "year": "1954",
+    "winner": "Meath",
+    "w_score": "1-13 (16)",
+    "loser": "Kerry",
+    "l_score": "1-7 (10)",
+    "attendance": "75,276"
+  },
+  {
+    "year": "1955",
+    "winner": "Kerry",
+    "w_score": "0-12",
+    "loser": "Dublin",
+    "l_score": "1-6 (9)",
+    "attendance": "87,102"
+  },
+  {
+    "year": "1956",
+    "winner": "Galway",
+    "w_score": "2-13 (19)",
+    "loser": "Cork",
+    "l_score": "3-7 (16)",
+    "attendance": "70,772"
+  },
+  {
+    "year": "1957",
+    "winner": "Louth",
+    "w_score": "1-9 (12)",
+    "loser": "Cork",
+    "l_score": "1-7 (10)",
+    "attendance": "72,732"
+  },
+  {
+    "year": "1958",
+    "winner": "Dublin",
+    "w_score": "2-12 (18)",
+    "loser": "Derry",
+    "l_score": "1-9 (12)",
+    "attendance": "73,371"
+  },
+  {
+    "year": "1959",
+    "winner": "Kerry",
+    "w_score": "3-7 (16)",
+    "loser": "Galway",
+    "l_score": "1-4 (7)",
+    "attendance": "85,897"
+  },
+  {
+    "year": "1960",
+    "winner": "Down",
+    "w_score": "2-10 (16)",
+    "loser": "Kerry",
+    "l_score": "0-8",
+    "attendance": "87,768"
+  },
+  {
+    "year": "1961",
+    "winner": "Down",
+    "w_score": "3-6 (15)",
+    "loser": "Offaly",
+    "l_score": "2-8 (14)",
+    "attendance": "90,556"
+  },
+  {
+    "year": "1962",
+    "winner": "Kerry",
+    "w_score": "1-12 (15)",
+    "loser": "Roscommon",
+    "l_score": "1-6 (9)",
+    "attendance": "75,771"
+  },
+  {
+    "year": "1963",
+    "winner": "Dublin",
+    "w_score": "1-9 (12)",
+    "loser": "Galway",
+    "l_score": "0-10",
+    "attendance": "87,106"
+  },
+  {
+    "year": "1964",
+    "winner": "Galway",
+    "w_score": "0-15",
+    "loser": "Kerry",
+    "l_score": "0-10",
+    "attendance": "76,498"
+  },
+  {
+    "year": "1965",
+    "winner": "Galway",
+    "w_score": "0-12",
+    "loser": "Kerry",
+    "l_score": "0-9",
+    "attendance": "77,735"
+  },
+  {
+    "year": "1966",
+    "winner": "Galway",
+    "w_score": "1-10 (13)",
+    "loser": "Meath",
+    "l_score": "0-7",
+    "attendance": "71,569"
+  },
+  {
+    "year": "1967",
+    "winner": "Meath",
+    "w_score": "1-9 (12)",
+    "loser": "Cork",
+    "l_score": "0-9",
+    "attendance": "70,343"
+  },
+  {
+    "year": "1968",
+    "winner": "Down",
+    "w_score": "2-12 (18)",
+    "loser": "Kerry",
+    "l_score": "1-13 (16)",
+    "attendance": "71,294"
+  },
+  {
+    "year": "1969",
+    "winner": "Kerry",
+    "w_score": "0-10",
+    "loser": "Offaly",
+    "l_score": "0-7",
+    "attendance": "67,828"
+  },
+  {
+    "year": "1970",
+    "winner": "Kerry",
+    "w_score": "2-19 (25)",
+    "loser": "Meath",
+    "l_score": "0-18",
+    "attendance": "71,775"
+  },
+  {
+    "year": "1971",
+    "winner": "Offaly",
+    "w_score": "1-14 (17)",
+    "loser": "Galway",
+    "l_score": "2-8 (14)",
+    "attendance": "70,789"
+  },
+  {
+    "year": "1972",
+    "winner": "Offaly",
+    "w_score": "1-19 (22)",
+    "loser": "Kerry",
+    "l_score": "0-13",
+    "attendance": "66,136"
+  },
+  {
+    "year": "1973",
+    "winner": "Cork",
+    "w_score": "3-17 (26)",
+    "loser": "Galway",
+    "l_score": "2-13 (19)",
+    "attendance": "73,308"
+  },
+  {
+    "year": "1974",
+    "winner": "Dublin",
+    "w_score": "0-14",
+    "loser": "Galway",
+    "l_score": "1-6 (9)",
+    "attendance": "71,898"
+  },
+  {
+    "year": "1975",
+    "winner": "Kerry",
+    "w_score": "2-12 (18)",
+    "loser": "Dublin",
+    "l_score": "0-11",
+    "attendance": "66,346"
+  },
+  {
+    "year": "1976",
+    "winner": "Dublin",
+    "w_score": "3-8 (17)",
+    "loser": "Kerry",
+    "l_score": "0-10",
+    "attendance": "73,588"
+  },
+  {
+    "year": "1977",
+    "winner": "Dublin",
+    "w_score": "5-12 (27)",
+    "loser": "Armagh",
+    "l_score": "3-6 (15)",
+    "attendance": "66,542"
+  },
+  {
+    "year": "1978",
+    "winner": "Kerry",
+    "w_score": "5-11 (26)",
+    "loser": "Dublin",
+    "l_score": "0-9",
+    "attendance": "71,503"
+  },
+  {
+    "year": "1979",
+    "winner": "Kerry",
+    "w_score": "3-13 (22)",
+    "loser": "Dublin",
+    "l_score": "1-8 (11)",
+    "attendance": "72,185"
+  },
+  {
+    "year": "1980",
+    "winner": "Kerry",
+    "w_score": "1-9 (12)",
+    "loser": "Roscommon",
+    "l_score": "1-6 (9)",
+    "attendance": "63,854"
+  },
+  {
+    "year": "1981",
+    "winner": "Kerry",
+    "w_score": "1-12 (15)",
+    "loser": "Offaly",
+    "l_score": "0-8",
+    "attendance": "61,489"
+  },
+  {
+    "year": "1982",
+    "winner": "Offaly",
+    "w_score": "1-15 (18)",
+    "loser": "Kerry",
+    "l_score": "0-17",
+    "attendance": "62,309"
+  },
+  {
+    "year": "1983",
+    "winner": "Dublin",
+    "w_score": "1-10 (13)",
+    "loser": "Galway",
+    "l_score": "1-8 (11)",
+    "attendance": "71,988"
+  },
+  {
+    "year": "1984",
+    "winner": "Kerry",
+    "w_score": "0-14",
+    "loser": "Dublin",
+    "l_score": "1-6 (9)",
+    "attendance": "68,365"
+  },
+  {
+    "year": "1985",
+    "winner": "Kerry",
+    "w_score": "2-12 (18)",
+    "loser": "Dublin",
+    "l_score": "2-8 (14)",
+    "attendance": "69,389"
+  },
+  {
+    "year": "1986",
+    "winner": "Kerry",
+    "w_score": "2-15 (21)",
+    "loser": "Tyrone",
+    "l_score": "1-10 (13)",
+    "attendance": "68,628"
+  },
+  {
+    "year": "1987",
+    "winner": "Meath",
+    "w_score": "1-14 (17)",
+    "loser": "Cork",
+    "l_score": "0-11",
+    "attendance": "68,431"
+  },
+  {
+    "year": "1988",
+    "winner": "Meath",
+    "w_score": "0-13",
+    "loser": "Cork",
+    "l_score": "0-12",
+    "attendance": "64,069"
+  },
+  {
+    "year": "1989",
+    "winner": "Cork",
+    "w_score": "0-17",
+    "loser": "Mayo",
+    "l_score": "1-11 (14)",
+    "attendance": "65,519"
+  },
+  {
+    "year": "1990",
+    "winner": "Cork",
+    "w_score": "0-11",
+    "loser": "Meath",
+    "l_score": "0-9",
+    "attendance": "65,723"
+  },
+  {
+    "year": "1991",
+    "winner": "Down",
+    "w_score": "1-16 (19)",
+    "loser": "Meath",
+    "l_score": "1-14 (17)",
+    "attendance": "64,500"
+  },
+  {
+    "year": "1992",
+    "winner": "Donegal",
+    "w_score": "0-18",
+    "loser": "Dublin",
+    "l_score": "0-14",
+    "attendance": "64,547"
+  },
+  {
+    "year": "1993",
+    "winner": "Derry",
+    "w_score": "1-14 (17)",
+    "loser": "Cork",
+    "l_score": "2-8 (14)",
+    "attendance": "64,500"
+  },
+  {
+    "year": "1994",
+    "winner": "Down",
+    "w_score": "1-12 (15)",
+    "loser": "Dublin",
+    "l_score": "0-13",
+    "attendance": "58,684"
+  },
+  {
+    "year": "1995",
+    "winner": "Dublin",
+    "w_score": "1-10 (13)",
+    "loser": "Tyrone",
+    "l_score": "0-12",
+    "attendance": "65,000"
+  },
+  {
+    "year": "1996",
+    "winner": "Meath",
+    "w_score": "2-9 (15)",
+    "loser": "Mayo",
+    "l_score": "1-11 (14)",
+    "attendance": "65,802"
+  },
+  {
+    "year": "1997",
+    "winner": "Kerry",
+    "w_score": "0-13",
+    "loser": "Mayo",
+    "l_score": "1-7 (10)",
+    "attendance": "65,601"
+  },
+  {
+    "year": "1998",
+    "winner": "Galway",
+    "w_score": "1-14 (17)",
+    "loser": "Kildare",
+    "l_score": "1-10 (13)",
+    "attendance": "65,886"
+  },
+  {
+    "year": "1999",
+    "winner": "Meath",
+    "w_score": "1-11 (14)",
+    "loser": "Cork",
+    "l_score": "1-8 (11)",
+    "attendance": "63,276"
+  },
+  {
+    "year": "2000",
+    "winner": "Kerry",
+    "w_score": "0-17",
+    "loser": "Galway",
+    "l_score": "1-10 (13)",
+    "attendance": "64,094"
+  },
+  {
+    "year": "2001",
+    "winner": "Galway",
+    "w_score": "0-17",
+    "loser": "Meath",
+    "l_score": "0-8",
+    "attendance": "70,842"
+  },
+  {
+    "year": "2002",
+    "winner": "Armagh",
+    "w_score": "1-12 (15)",
+    "loser": "Kerry",
+    "l_score": "0-14",
+    "attendance": "79,500"
+  },
+  {
+    "year": "2003",
+    "winner": "Tyrone",
+    "w_score": "0-12",
+    "loser": "Armagh",
+    "l_score": "0-09",
+    "attendance": "79,394"
+  },
+  {
+    "year": "2004",
+    "winner": "Kerry",
+    "w_score": "1-20 (23)",
+    "loser": "Mayo",
+    "l_score": "2-09 (15)",
+    "attendance": "79,749"
+  },
+  {
+    "year": "2005",
+    "winner": "Tyrone",
+    "w_score": "1-16 (19)",
+    "loser": "Kerry",
+    "l_score": "2-10 (16)",
+    "attendance": "82,112"
+  },
+  {
+    "year": "2006",
+    "winner": "Kerry",
+    "w_score": "4-15 (27)",
+    "loser": "Mayo",
+    "l_score": "3-05 (14)",
+    "attendance": "82,289"
+  },
+  {
+    "year": "2007",
+    "winner": "Kerry",
+    "w_score": "3-13 (22)",
+    "loser": "Cork",
+    "l_score": "1-9 (12)",
+    "attendance": "82,126"
+  },
+  {
+    "year": "2008",
+    "winner": "Tyrone",
+    "w_score": "1-15 (18)",
+    "loser": "Kerry",
+    "l_score": "0-14",
+    "attendance": "82,204"
+  },
+  {
+    "year": "2009",
+    "winner": "Kerry",
+    "w_score": "0-16",
+    "loser": "Cork",
+    "l_score": "1-9 (12)",
+    "attendance": "82,246"
+  },
+  {
+    "year": "2010",
+    "winner": "Cork",
+    "w_score": "0-16",
+    "loser": "Down",
+    "l_score": "0-15",
+    "attendance": "81,604"
+  },
+  {
+    "year": "2011",
+    "winner": "Dublin",
+    "w_score": "1-12 (15)",
+    "loser": "Kerry",
+    "l_score": "1-11 (14)",
+    "attendance": "82,300"
+  },
+  {
+    "year": "2012",
+    "winner": "Donegal",
+    "w_score": "2-11 (17)",
+    "loser": "Mayo",
+    "l_score": "0-13",
+    "attendance": "82,269"
+  },
+  {
+    "year": "2013",
+    "winner": "Dublin",
+    "w_score": "2-12 (18)",
+    "loser": "Mayo",
+    "l_score": "1-14 (17)",
+    "attendance": "82,274"
+  },
+  {
+    "year": "2014",
+    "winner": "Kerry",
+    "w_score": "2-9 (15)",
+    "loser": "Donegal",
+    "l_score": "0-12",
+    "attendance": "82,184"
+  },
+  {
+    "year": "2015",
+    "winner": "Dublin",
+    "w_score": "0-12",
+    "loser": "Kerry",
+    "l_score": "0-9",
+    "attendance": "82,243"
+  },
+  {
+    "year": "2016",
+    "winner": "Dublin",
+    "w_score": "1-15 (18)",
+    "loser": "Mayo",
+    "l_score": "1-14 (17)",
+    "attendance": "82,249"
+  },
+  {
+    "year": "2017",
+    "winner": "Dublin",
+    "w_score": "1-17 (20)",
+    "loser": "Mayo",
+    "l_score": "1-16 (19)",
+    "attendance": "82,243"
+  },
+  {
+    "year": "2018",
+    "winner": "Dublin",
+    "w_score": "2-17 (23)",
+    "loser": "Tyrone",
+    "l_score": "1-14 (17)",
+    "attendance": "82,300"
+  },
+  {
+    "year": "2019",
+    "winner": "Dublin",
+    "w_score": "1-18 (21)",
+    "loser": "Kerry",
+    "l_score": "0-15",
+    "attendance": "82,300"
+  },
+  {
+    "year": "2020",
+    "winner": "Dublin",
+    "w_score": "2-14 (20)",
+    "loser": "Mayo",
+    "l_score": "0-15",
+    "attendance": "0"
+  },
+  {
+    "year": "2021",
+    "winner": "Tyrone",
+    "w_score": "2-14 (20)",
+    "loser": "Mayo",
+    "l_score": "0-15",
+    "attendance": "41,150"
+  },
+  {
+    "year": "2022",
+    "winner": "Kerry",
+    "w_score": "0-20",
+    "loser": "Galway",
+    "l_score": "0-16",
+    "attendance": "82,300"
+  }
+]

@@ -1,0 +1,954 @@
+[
+  {
+    "year": "2022",
+    "winner": "Limerick",
+    "w_score": "1-31",
+    "loser": "Kilkenny",
+    "l_score": "2-26"
+  },
+  {
+    "year": "2021",
+    "winner": "Limerick",
+    "w_score": "3-32",
+    "loser": "Cork",
+    "l_score": "1-22"
+  },
+  {
+    "year": "2020",
+    "winner": "Limerick",
+    "w_score": "0-30",
+    "loser": "Waterford",
+    "l_score": "0-19"
+  },
+  {
+    "year": "2019",
+    "winner": "Tipperary",
+    "w_score": "3-25",
+    "loser": "Kilkenny",
+    "l_score": "0-20"
+  },
+  {
+    "year": "2018",
+    "winner": "Limerick",
+    "w_score": "3-16",
+    "loser": "Galway",
+    "l_score": "2-18"
+  },
+  {
+    "year": "2017",
+    "winner": "Galway",
+    "w_score": "0-26",
+    "loser": "Waterford",
+    "l_score": "2-17"
+  },
+  {
+    "year": "2016",
+    "winner": "Tipperary",
+    "w_score": "2-29",
+    "loser": "Kilkenny",
+    "l_score": "2-20"
+  },
+  {
+    "year": "2015",
+    "winner": "Kilkenny",
+    "w_score": "1-22",
+    "loser": "Galway",
+    "l_score": "1-18"
+  },
+  {
+    "year": "2014",
+    "winner": "Kilkenny",
+    "w_score": "2-17",
+    "loser": "Tipperary",
+    "l_score": "2-14"
+  },
+  {
+    "year": "2013",
+    "winner": "Clare",
+    "w_score": "5-16",
+    "loser": "Cork",
+    "l_score": "3-16"
+  },
+  {
+    "year": "2012",
+    "winner": "Kilkenny",
+    "w_score": "3-22",
+    "loser": "Galway",
+    "l_score": "3-11"
+  },
+  {
+    "year": "2011",
+    "winner": "Kilkenny",
+    "w_score": "2-17",
+    "loser": "Tipperary",
+    "l_score": "1-16"
+  },
+  {
+    "year": "2010",
+    "winner": "Tipperary",
+    "w_score": "4-17",
+    "loser": "Kilkenny",
+    "l_score": "1-18"
+  },
+  {
+    "year": "2009",
+    "winner": "Kilkenny",
+    "w_score": "2-22",
+    "loser": "Tipperary",
+    "l_score": "0-23"
+  },
+  {
+    "year": "2008",
+    "winner": "Kilkenny",
+    "w_score": "3-30",
+    "loser": "Waterford",
+    "l_score": "1-13"
+  },
+  {
+    "year": "2007",
+    "winner": "Kilkenny",
+    "w_score": "2-19",
+    "loser": "Limerick",
+    "l_score": "1-15"
+  },
+  {
+    "year": "2006",
+    "winner": "Kilkenny",
+    "w_score": "1-16",
+    "loser": "Cork",
+    "l_score": "1-13"
+  },
+  {
+    "year": "2005",
+    "winner": "Cork",
+    "w_score": "1-21",
+    "loser": "Galway",
+    "l_score": "1-16"
+  },
+  {
+    "year": "2004",
+    "winner": "Cork",
+    "w_score": "0-17",
+    "loser": "Kilkenny",
+    "l_score": "0-09"
+  },
+  {
+    "year": "2003",
+    "winner": "Kilkenny",
+    "w_score": "1-14",
+    "loser": "Cork",
+    "l_score": "1-11"
+  },
+  {
+    "year": "2002",
+    "winner": "Kilkenny",
+    "w_score": "2-20",
+    "loser": "Clare",
+    "l_score": "0-19"
+  },
+  {
+    "year": "2001",
+    "winner": "Tipperary",
+    "w_score": "2-18",
+    "loser": "Galway",
+    "l_score": "2-15"
+  },
+  {
+    "year": "2000",
+    "winner": "Kilkenny",
+    "w_score": "5-15",
+    "loser": "Offaly",
+    "l_score": "1-14"
+  },
+  {
+    "year": "1999",
+    "winner": "Cork",
+    "w_score": "0-13",
+    "loser": "Kilkenny",
+    "l_score": "0-12"
+  },
+  {
+    "year": "1998",
+    "winner": "Offaly",
+    "w_score": "2-16",
+    "loser": "Kilkenny",
+    "l_score": "1-13"
+  },
+  {
+    "year": "1997",
+    "winner": "Clare",
+    "w_score": "0-20",
+    "loser": "Tipperary",
+    "l_score": "2-13"
+  },
+  {
+    "year": "1996",
+    "winner": "Wexford",
+    "w_score": "1-13",
+    "loser": "Limerick",
+    "l_score": "0-14"
+  },
+  {
+    "year": "1995",
+    "winner": "Clare",
+    "w_score": "1-13",
+    "loser": "Offaly",
+    "l_score": "2-08"
+  },
+  {
+    "year": "1994",
+    "winner": "Offaly",
+    "w_score": "3-16",
+    "loser": "Limerick",
+    "l_score": "2-13"
+  },
+  {
+    "year": "1993",
+    "winner": "Kilkenny",
+    "w_score": "2-17",
+    "loser": "Galway",
+    "l_score": "1-15"
+  },
+  {
+    "year": "1992",
+    "winner": "Kilkenny",
+    "w_score": "3-10",
+    "loser": "Cork",
+    "l_score": "1-12"
+  },
+  {
+    "year": "1991",
+    "winner": "Tipperary",
+    "w_score": "1-16",
+    "loser": "Kilkenny",
+    "l_score": "0-15"
+  },
+  {
+    "year": "1990",
+    "winner": "Cork",
+    "w_score": "5-15",
+    "loser": "Galway",
+    "l_score": "2-21"
+  },
+  {
+    "year": "1989",
+    "winner": "Tipperary",
+    "w_score": "4-24",
+    "loser": "Antrim",
+    "l_score": "3-09"
+  },
+  {
+    "year": "1988",
+    "winner": "Galway",
+    "w_score": "1-15",
+    "loser": "Tipperary",
+    "l_score": "0-14"
+  },
+  {
+    "year": "1987",
+    "winner": "Galway",
+    "w_score": "1-12",
+    "loser": "Kilkenny",
+    "l_score": "0-09"
+  },
+  {
+    "year": "1986",
+    "winner": "Cork",
+    "w_score": "4-13",
+    "loser": "Galway",
+    "l_score": "2-15"
+  },
+  {
+    "year": "1985",
+    "winner": "Offaly",
+    "w_score": "2-11",
+    "loser": "Galway",
+    "l_score": "1-12"
+  },
+  {
+    "year": "1984",
+    "winner": "Cork",
+    "w_score": "3-16",
+    "loser": "Offaly",
+    "l_score": "1-12"
+  },
+  {
+    "year": "1983",
+    "winner": "Kilkenny",
+    "w_score": "2-14",
+    "loser": "Cork",
+    "l_score": "2-12"
+  },
+  {
+    "year": "1982",
+    "winner": "Kilkenny",
+    "w_score": "3-18",
+    "loser": "Cork",
+    "l_score": "1-13"
+  },
+  {
+    "year": "1981",
+    "winner": "Offaly",
+    "w_score": "2-12",
+    "loser": "Galway",
+    "l_score": "0-15"
+  },
+  {
+    "year": "1980",
+    "winner": "Galway",
+    "w_score": "2-15",
+    "loser": "Limerick",
+    "l_score": "3-09"
+  },
+  {
+    "year": "1979",
+    "winner": "Kilkenny",
+    "w_score": "2-12",
+    "loser": "Galway",
+    "l_score": "1-08"
+  },
+  {
+    "year": "1978",
+    "winner": "Cork",
+    "w_score": "1-15",
+    "loser": "Kilkenny",
+    "l_score": "2-08"
+  },
+  {
+    "year": "1977",
+    "winner": "Cork",
+    "w_score": "1-17",
+    "loser": "Wexford",
+    "l_score": "3-08"
+  },
+  {
+    "year": "1976",
+    "winner": "Cork",
+    "w_score": "2-21",
+    "loser": "Wexford",
+    "l_score": "4-11"
+  },
+  {
+    "year": "1975",
+    "winner": "Kilkenny",
+    "w_score": "2-22",
+    "loser": "Galway",
+    "l_score": "2-10"
+  },
+  {
+    "year": "1974",
+    "winner": "Kilkenny",
+    "w_score": "3-19",
+    "loser": "Limerick",
+    "l_score": "1-13"
+  },
+  {
+    "year": "1973",
+    "winner": "Limerick",
+    "w_score": "1-21",
+    "loser": "Kilkenny",
+    "l_score": "1-14"
+  },
+  {
+    "year": "1972",
+    "winner": "Kilkenny",
+    "w_score": "3-24",
+    "loser": "Cork",
+    "l_score": "5-11"
+  },
+  {
+    "year": "1971",
+    "winner": "Tipperary",
+    "w_score": "5-17",
+    "loser": "Kilkenny",
+    "l_score": "5-14"
+  },
+  {
+    "year": "1970",
+    "winner": "Cork",
+    "w_score": "6-21",
+    "loser": "Wexford",
+    "l_score": "5-10"
+  },
+  {
+    "year": "1969",
+    "winner": "Kilkenny",
+    "w_score": "2-15",
+    "loser": "Cork",
+    "l_score": "2-09"
+  },
+  {
+    "year": "1968",
+    "winner": "Wexford",
+    "w_score": "5-08",
+    "loser": "Tipperary",
+    "l_score": "3-12"
+  },
+  {
+    "year": "1967",
+    "winner": "Kilkenny",
+    "w_score": "3-08",
+    "loser": "Tipperary",
+    "l_score": "2-07"
+  },
+  {
+    "year": "1966",
+    "winner": "Cork",
+    "w_score": "3-09",
+    "loser": "Kilkenny",
+    "l_score": "1-10"
+  },
+  {
+    "year": "1965",
+    "winner": "Tipperary",
+    "w_score": "2-16",
+    "loser": "Wexford",
+    "l_score": "0-10"
+  },
+  {
+    "year": "1964",
+    "winner": "Tipperary",
+    "w_score": "5-13",
+    "loser": "Kilkenny",
+    "l_score": "2-08"
+  },
+  {
+    "year": "1963",
+    "winner": "Kilkenny",
+    "w_score": "4-17",
+    "loser": "Waterford",
+    "l_score": "6-08"
+  },
+  {
+    "year": "1962",
+    "winner": "Tipperary",
+    "w_score": "3-10",
+    "loser": "Wexford",
+    "l_score": "2-11"
+  },
+  {
+    "year": "1961",
+    "winner": "Tipperary",
+    "w_score": "0-16",
+    "loser": "Dublin",
+    "l_score": "1-12"
+  },
+  {
+    "year": "1960",
+    "winner": "Wexford",
+    "w_score": "2-15",
+    "loser": "Tipperary",
+    "l_score": "0-11"
+  },
+  {
+    "year": "1959",
+    "winner": "Waterford",
+    "w_score": "3-12",
+    "loser": "Kilkenny",
+    "l_score": "1-10"
+  },
+  {
+    "year": "1958",
+    "winner": "Tipperary",
+    "w_score": "4-09",
+    "loser": "Galway",
+    "l_score": "2-05"
+  },
+  {
+    "year": "1957",
+    "winner": "Kilkenny",
+    "w_score": "4-10",
+    "loser": "Waterford",
+    "l_score": "3-12"
+  },
+  {
+    "year": "1956",
+    "winner": "Wexford",
+    "w_score": "2-14",
+    "loser": "Cork",
+    "l_score": "2-08"
+  },
+  {
+    "year": "1955",
+    "winner": "Wexford",
+    "w_score": "3-13",
+    "loser": "Galway",
+    "l_score": "2-08"
+  },
+  {
+    "year": "1954",
+    "winner": "Cork",
+    "w_score": "1-09",
+    "loser": "Wexford",
+    "l_score": "1-06"
+  },
+  {
+    "year": "1953",
+    "winner": "Cork",
+    "w_score": "3-03",
+    "loser": "Galway",
+    "l_score": "0-08"
+  },
+  {
+    "year": "1952",
+    "winner": "Cork",
+    "w_score": "2-14",
+    "loser": "Dublin",
+    "l_score": "0-07"
+  },
+  {
+    "year": "1951",
+    "winner": "Tipperary",
+    "w_score": "7-07",
+    "loser": "Wexford",
+    "l_score": "3-09"
+  },
+  {
+    "year": "1950",
+    "winner": "Tipperary",
+    "w_score": "1-09",
+    "loser": "Kilkenny",
+    "l_score": "1-08"
+  },
+  {
+    "year": "1949",
+    "winner": "Tipperary",
+    "w_score": "3-11",
+    "loser": "Laois",
+    "l_score": "0-03"
+  },
+  {
+    "year": "1948",
+    "winner": "Waterford",
+    "w_score": "6-07",
+    "loser": "Dublin",
+    "l_score": "4-02"
+  },
+  {
+    "year": "1947",
+    "winner": "Kilkenny",
+    "w_score": "0-14",
+    "loser": "Cork",
+    "l_score": "2-07"
+  },
+  {
+    "year": "1946",
+    "winner": "Cork",
+    "w_score": "7-05",
+    "loser": "Kilkenny",
+    "l_score": "3-08"
+  },
+  {
+    "year": "1945",
+    "winner": "Tipperary",
+    "w_score": "5-06",
+    "loser": "Kilkenny",
+    "l_score": "3-06"
+  },
+  {
+    "year": "1944",
+    "winner": "Cork",
+    "w_score": "2-13",
+    "loser": "Dublin",
+    "l_score": "1-02"
+  },
+  {
+    "year": "1943",
+    "winner": "Cork",
+    "w_score": "5-16",
+    "loser": "Antrim",
+    "l_score": "0-04"
+  },
+  {
+    "year": "1942",
+    "winner": "Cork",
+    "w_score": "2-14",
+    "loser": "Dublin",
+    "l_score": "3-04"
+  },
+  {
+    "year": "1941",
+    "winner": "Cork",
+    "w_score": "5-11",
+    "loser": "Dublin",
+    "l_score": "0-06"
+  },
+  {
+    "year": "1940",
+    "winner": "Limerick",
+    "w_score": "3-07",
+    "loser": "Kilkenny",
+    "l_score": "1-07"
+  },
+  {
+    "year": "1939",
+    "winner": "Kilkenny",
+    "w_score": "2-07",
+    "loser": "Cork",
+    "l_score": "3-03"
+  },
+  {
+    "year": "1938",
+    "winner": "Dublin",
+    "w_score": "2-05",
+    "loser": "Waterford",
+    "l_score": "1-06"
+  },
+  {
+    "year": "1937",
+    "winner": "Tipperary",
+    "w_score": "3-11",
+    "loser": "Kilkenny",
+    "l_score": "0-03"
+  },
+  {
+    "year": "1936",
+    "winner": "Limerick",
+    "w_score": "5-06",
+    "loser": "Kilkenny",
+    "l_score": "1-05"
+  },
+  {
+    "year": "1935",
+    "winner": "Kilkenny",
+    "w_score": "2-05",
+    "loser": "Limerick",
+    "l_score": "2-04"
+  },
+  {
+    "year": "1934",
+    "winner": "Limerick",
+    "w_score": "5-02",
+    "loser": "Dublin",
+    "l_score": "2-06"
+  },
+  {
+    "year": "1933",
+    "winner": "Kilkenny",
+    "w_score": "1-07",
+    "loser": "Limerick",
+    "l_score": "0-06"
+  },
+  {
+    "year": "1932",
+    "winner": "Kilkenny",
+    "w_score": "3-03",
+    "loser": "Clare",
+    "l_score": "2-03"
+  },
+  {
+    "year": "1931",
+    "winner": "Cork",
+    "w_score": "5-08",
+    "loser": "Kilkenny",
+    "l_score": "3-04"
+  },
+  {
+    "year": "1930",
+    "winner": "Tipperary",
+    "w_score": "2-07",
+    "loser": "Dublin",
+    "l_score": "1-03"
+  },
+  {
+    "year": "1929",
+    "winner": "Cork",
+    "w_score": "4-09",
+    "loser": "Galway",
+    "l_score": "1-03"
+  },
+  {
+    "year": "1928",
+    "winner": "Cork",
+    "w_score": "6-12",
+    "loser": "Galway",
+    "l_score": "1-00"
+  },
+  {
+    "year": "1927",
+    "winner": "Dublin",
+    "w_score": "4-08",
+    "loser": "Cork",
+    "l_score": "1-03"
+  },
+  {
+    "year": "1926",
+    "winner": "Cork",
+    "w_score": "4-06",
+    "loser": "Kilkenny",
+    "l_score": "2-00"
+  },
+  {
+    "year": "1925",
+    "winner": "Tipperary",
+    "w_score": "5-06",
+    "loser": "Galway",
+    "l_score": "1-05"
+  },
+  {
+    "year": "1924",
+    "winner": "Dublin",
+    "w_score": "5-03",
+    "loser": "Galway",
+    "l_score": "2-06"
+  },
+  {
+    "year": "1923",
+    "winner": "Galway",
+    "w_score": "7-03",
+    "loser": "Limerick",
+    "l_score": "4-05"
+  },
+  {
+    "year": "1922",
+    "winner": "Kilkenny",
+    "w_score": "5-03",
+    "loser": "Tipperary",
+    "l_score": "2-06"
+  },
+  {
+    "year": "1921",
+    "winner": "Limerick",
+    "w_score": "8-05",
+    "loser": "Dublin",
+    "l_score": "3-02"
+  },
+  {
+    "year": "1920",
+    "winner": "Dublin",
+    "w_score": "4-09",
+    "loser": "Cork",
+    "l_score": "4-03"
+  },
+  {
+    "year": "1919",
+    "winner": "Cork",
+    "w_score": "6-04",
+    "loser": "Dublin",
+    "l_score": "2-04"
+  },
+  {
+    "year": "1918",
+    "winner": "Limerick",
+    "w_score": "9-05",
+    "loser": "Wexford",
+    "l_score": "1-03"
+  },
+  {
+    "year": "1917",
+    "winner": "Dublin",
+    "w_score": "5-04",
+    "loser": "Tipperary",
+    "l_score": "4-02"
+  },
+  {
+    "year": "1916",
+    "winner": "Tipperary",
+    "w_score": "5-04",
+    "loser": "Kilkenny",
+    "l_score": "3-02"
+  },
+  {
+    "year": "1915",
+    "winner": "Laois",
+    "w_score": "6-02",
+    "loser": "Cork",
+    "l_score": "4-01"
+  },
+  {
+    "year": "1914",
+    "winner": "Clare",
+    "w_score": "5-01",
+    "loser": "Laois",
+    "l_score": "1-00"
+  },
+  {
+    "year": "1913",
+    "winner": "Kilkenny",
+    "w_score": "2-04",
+    "loser": "Tipperary",
+    "l_score": "1-02"
+  },
+  {
+    "year": "1912",
+    "winner": "Kilkenny",
+    "w_score": "2-01",
+    "loser": "Cork",
+    "l_score": "1-03"
+  },
+  {
+    "year": "1911",
+    "winner": "Kilkenny",
+    "w_score": "w/o",
+    "loser": "Limerick",
+    "l_score": "scr."
+  },
+  {
+    "year": "1910",
+    "winner": "Wexford",
+    "w_score": "7-00",
+    "loser": "Limerick",
+    "l_score": "6-02"
+  },
+  {
+    "year": "1909",
+    "winner": "Kilkenny",
+    "w_score": "4-06",
+    "loser": "Tipperary",
+    "l_score": "0-12"
+  },
+  {
+    "year": "1908",
+    "winner": "Tipperary",
+    "w_score": "3-15",
+    "loser": "Dublin",
+    "l_score": "1-05"
+  },
+  {
+    "year": "1907",
+    "winner": "Kilkenny",
+    "w_score": "3-12",
+    "loser": "Cork",
+    "l_score": "4-08"
+  },
+  {
+    "year": "1906",
+    "winner": "Tipperary",
+    "w_score": "3-16",
+    "loser": "Dublin",
+    "l_score": "3-08"
+  },
+  {
+    "year": "1905",
+    "winner": "Kilkenny",
+    "w_score": "7-07",
+    "loser": "Cork",
+    "l_score": "2-09"
+  },
+  {
+    "year": "1904",
+    "winner": "Kilkenny",
+    "w_score": "1-09",
+    "loser": "Cork",
+    "l_score": "1-08"
+  },
+  {
+    "year": "1903",
+    "winner": "Cork",
+    "w_score": "3-16",
+    "loser": "London",
+    "l_score": "1-01"
+  },
+  {
+    "year": "1902",
+    "winner": "Cork",
+    "w_score": "3-13",
+    "loser": "London",
+    "l_score": "0-00"
+  },
+  {
+    "year": "1901",
+    "winner": "London",
+    "w_score": "1-05",
+    "loser": "Cork",
+    "l_score": "0-04"
+  },
+  {
+    "year": "1900",
+    "winner": "Tipperary",
+    "w_score": "3-13",
+    "loser": "London",
+    "l_score": "0-06"
+  },
+  {
+    "year": "1899",
+    "winner": "Tipperary",
+    "w_score": "3-12",
+    "loser": "Wexford",
+    "l_score": "1-04"
+  },
+  {
+    "year": "1898",
+    "winner": "Tipperary",
+    "w_score": "7-13",
+    "loser": "Kilkenny",
+    "l_score": "3-10"
+  },
+  {
+    "year": "1897",
+    "winner": "Limerick",
+    "w_score": "3-04",
+    "loser": "Kilkenny",
+    "l_score": "2-04"
+  },
+  {
+    "year": "1896",
+    "winner": "Tipperary",
+    "w_score": "8-14",
+    "loser": "Dublin",
+    "l_score": "0-04"
+  },
+  {
+    "year": "1895",
+    "winner": "Tipperary",
+    "w_score": "6-08",
+    "loser": "Kilkenny",
+    "l_score": "1-00"
+  },
+  {
+    "year": "1894",
+    "winner": "Cork",
+    "w_score": "5-20",
+    "loser": "Dublin",
+    "l_score": "2-00"
+  },
+  {
+    "year": "1893",
+    "winner": "Cork",
+    "w_score": "6-08",
+    "loser": "Kilkenny",
+    "l_score": "0-02"
+  },
+  {
+    "year": "1892",
+    "winner": "Cork",
+    "w_score": "2-04",
+    "loser": "Dublin",
+    "l_score": "1-01"
+  },
+  {
+    "year": "1891",
+    "winner": "Kerry",
+    "w_score": "2-03",
+    "loser": "Wexford",
+    "l_score": "1-05"
+  },
+  {
+    "year": "1890",
+    "winner": "Cork",
+    "w_score": "1-06",
+    "loser": "Wexford",
+    "l_score": "2-02"
+  },
+  {
+    "year": "1889",
+    "winner": "Dublin",
+    "w_score": "5-04",
+    "loser": "Clare",
+    "l_score": "1-06"
+  },
+  {
+    "year": "1888",
+    "winner": "",
+    "w_score": "",
+    "loser": "",
+    "l_score": ""
+  },
+  {
+    "year": "1887",
+    "winner": "Tipperary",
+    "w_score": "1-01",
+    "loser": "Galway",
+    "l_score": "0-00"
+  }
+]
