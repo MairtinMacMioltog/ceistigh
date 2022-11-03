@@ -1,0 +1,92 @@
+[
+  {
+    "year": "1987",
+    "host": "Australia New Zealand",
+    "winner": "New Zealand",
+    "score": "29-9",
+    "loser": "France",
+    "third": "Wales",
+    "score2": "22-21",
+    "fourth": "Australia"
+  },
+  {
+    "year": "1991",
+    "host": "England France IrelandScotland Wales",
+    "winner": "Australia",
+    "score": "12-6",
+    "loser": "England",
+    "third": "New Zealand",
+    "score2": "13-6",
+    "fourth": "Scotland"
+  },
+  {
+    "year": "1995",
+    "host": "South Africa",
+    "winner": "South Africa",
+    "score": "15-12 (a.e.t.)",
+    "loser": "New Zealand",
+    "third": "France",
+    "score2": "19-9",
+    "fourth": "England"
+  },
+  {
+    "year": "1999",
+    "host": "Wales",
+    "winner": "Australia",
+    "score": "35-12",
+    "loser": "France",
+    "third": "South Africa",
+    "score2": "22-18",
+    "fourth": "New Zealand"
+  },
+  {
+    "year": "2003",
+    "host": "Australia",
+    "winner": "England",
+    "score": "20-17(a.e.t.)",
+    "loser": "Australia",
+    "third": "New Zealand",
+    "score2": "40-13",
+    "fourth": "France"
+  },
+  {
+    "year": "2007",
+    "host": "France",
+    "winner": "South Africa",
+    "score": "15-6",
+    "loser": "England",
+    "third": "Argentina",
+    "score2": "34-10",
+    "fourth": "France"
+  },
+  {
+    "year": "2011",
+    "host": "New Zealand",
+    "winner": "New Zealand",
+    "score": "8-7",
+    "loser": "France",
+    "third": "Australia",
+    "score2": "21-18",
+    "fourth": "Wales"
+  },
+  {
+    "year": "2015",
+    "host": "England",
+    "winner": "New Zealand",
+    "score": "34-17",
+    "loser": "Australia",
+    "third": "South Africa",
+    "score2": "24-13",
+    "fourth": "Argentina"
+  },
+  {
+    "year": "2019",
+    "host": "Japan",
+    "winner": "South Africa",
+    "score": "32-12",
+    "loser": "England",
+    "third": "New Zealand",
+    "score2": "40-17",
+    "fourth": "Wales"
+  }
+]
