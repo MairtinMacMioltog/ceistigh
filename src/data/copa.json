@@ -1,0 +1,331 @@
+[
+  {
+    "year": "1916",
+    "host": "Argentina",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Argentina"
+  },
+  {
+    "year": "1917",
+    "host": "Uruguay",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Argentina"
+  },
+  {
+    "year": "1919",
+    "host": "Brazil",
+    "winner": "Brazil",
+    "score": "1-0",
+    "loser": "Uruguay"
+  },
+  {
+    "year": "1920",
+    "host": "Chile",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Argentina"
+  },
+  {
+    "year": "1921",
+    "host": "Argentina",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1922",
+    "host": "Brazil",
+    "winner": "Brazil",
+    "score": "3-0",
+    "loser": "Paraguay"
+  },
+  {
+    "year": "1923",
+    "host": "Uruguay",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Argentina"
+  },
+  {
+    "year": "1924",
+    "host": "Uruguay",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Argentina"
+  },
+  {
+    "year": "1925",
+    "host": "Argentina",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1926",
+    "host": "Chile",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Argentina"
+  },
+  {
+    "year": "1927",
+    "host": "Peru",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Uruguay"
+  },
+  {
+    "year": "1929",
+    "host": "Argentina",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Paraguay"
+  },
+  {
+    "year": "1935",
+    "host": "Peru",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Argentina"
+  },
+  {
+    "year": "1937",
+    "host": "Argentina",
+    "winner": "Argentina",
+    "score": "2-0",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1939",
+    "host": "Peru",
+    "winner": "Peru",
+    "score": "",
+    "loser": "Uruguay"
+  },
+  {
+    "year": "1941",
+    "host": "Chile",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Uruguay"
+  },
+  {
+    "year": "1942",
+    "host": "Uruguay",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Argentina"
+  },
+  {
+    "year": "1945",
+    "host": "Chile",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1946",
+    "host": "Argentina",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1947",
+    "host": "Ecuador",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Paraguay"
+  },
+  {
+    "year": "1949",
+    "host": "Brazil",
+    "winner": "Brazil",
+    "score": "7-0",
+    "loser": "Paraguay"
+  },
+  {
+    "year": "1953",
+    "host": "Peru",
+    "winner": "Paraguay",
+    "score": "3-2",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1955",
+    "host": "Chile",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Chile"
+  },
+  {
+    "year": "1956",
+    "host": "Uruguay",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Chile"
+  },
+  {
+    "year": "1957",
+    "host": "Peru",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1959",
+    "host": "Argentina",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1959",
+    "host": "Ecuador",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Argentina"
+  },
+  {
+    "year": "1963",
+    "host": "Bolivia",
+    "winner": "Bolivia",
+    "score": "",
+    "loser": "Paraguay"
+  },
+  {
+    "year": "1967",
+    "host": "Uruguay",
+    "winner": "Uruguay",
+    "score": "",
+    "loser": "Argentina"
+  },
+  {
+    "year": "1975",
+    "host": "South America",
+    "winner": "Peru",
+    "score": "1-0",
+    "loser": "Colombia"
+  },
+  {
+    "year": "1979",
+    "host": "South America",
+    "winner": "Paraguay",
+    "score": "3-1",
+    "loser": "Chile"
+  },
+  {
+    "year": "1983",
+    "host": "South America",
+    "winner": "Uruguay",
+    "score": "3-1",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1987",
+    "host": "Argentina",
+    "winner": "Uruguay",
+    "score": "1-0",
+    "loser": "Chile"
+  },
+  {
+    "year": "1989",
+    "host": "Brazil",
+    "winner": "Brazil",
+    "score": "",
+    "loser": "Uruguay"
+  },
+  {
+    "year": "1991",
+    "host": "Chile",
+    "winner": "Argentina",
+    "score": "",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1993",
+    "host": "Ecuador",
+    "winner": "Argentina",
+    "score": "2-1",
+    "loser": "Mexico"
+  },
+  {
+    "year": "1995",
+    "host": "Uruguay",
+    "winner": "Uruguay",
+    "score": "1-1",
+    "loser": "Brazil"
+  },
+  {
+    "year": "1997",
+    "host": "Bolivia",
+    "winner": "Brazil",
+    "score": "3-1",
+    "loser": "Bolivia"
+  },
+  {
+    "year": "1999",
+    "host": "Paraguay",
+    "winner": "Brazil",
+    "score": "3-0",
+    "loser": "Uruguay"
+  },
+  {
+    "year": "2001",
+    "host": "Colombia",
+    "winner": "Colombia",
+    "score": "1-0",
+    "loser": "Mexico"
+  },
+  {
+    "year": "2004",
+    "host": "Peru",
+    "winner": "Brazil",
+    "score": "2-2",
+    "loser": "Argentina"
+  },
+  {
+    "year": "2007",
+    "host": "Venezuela",
+    "winner": "Brazil",
+    "score": "3-0",
+    "loser": "Argentina"
+  },
+  {
+    "year": "2011",
+    "host": "Argentina",
+    "winner": "Uruguay",
+    "score": "3-0",
+    "loser": "Paraguay"
+  },
+  {
+    "year": "2015",
+    "host": "Chile",
+    "winner": "Chile",
+    "score": "0-0",
+    "loser": "Argentina"
+  },
+  {
+    "year": "2016",
+    "host": "United States",
+    "winner": "Chile",
+    "score": "0-0",
+    "loser": "Argentina"
+  },
+  {
+    "year": "2019",
+    "host": "Brazil",
+    "winner": "Brazil",
+    "score": "3-1",
+    "loser": "Peru"
+  },
+  {
+    "year": "2021",
+    "host": "Brazil",
+    "winner": "Argentina",
+    "score": "1-0",
+    "loser": "Brazil"
+  }
+]

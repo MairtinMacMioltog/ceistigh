@@ -6,6 +6,7 @@ import cl from "../data/cl.json" assert { type: "json" };
 import cricket from "../data/cricket.json" assert { type: "json" };
 import rugby from "../data/rugby.json" assert { type: "json" };
 import euros from "../data/euros.json" assert { type: "json" };
+import copa from "../data/copa.json" assert { type: "json" };
 
 import { difference } from "./setOperations.mjs";
 
@@ -26,7 +27,7 @@ function occurences(tournament, state) {
 function winnerHosts(tournament) {
   const frequencyMap = new Map();
   tournament.forEach((t) => {
-    if (t.winner === t.country) {
+    if (t.winner === t.country || t.winner === t.host) {
       if (frequencyMap.has(t.winner)) {
         frequencyMap.set(t.winner, frequencyMap.get(t.winner) + 1);
       } else {
@@ -121,3 +122,12 @@ console.log("winner", occurences(euros, ["winner"]));
 console.log("loser", occurences(euros, ["loser"]));
 console.log("finalist", occurences(euros, ["winner", "loser"]));
 console.log("never won", noWinFinalists(euros));
+
+console.log("------------------------------");
+console.log("----------- COPA ------------");
+console.log("------------------------------");
+console.log("winner", occurences(copa, ["winner"]));
+console.log("loser", occurences(copa, ["loser"]));
+console.log("finalist", occurences(copa, ["winner", "loser"]));
+console.log("never won", noWinFinalists(copa));
+console.log("winning hosts", winnerHosts(copa));
