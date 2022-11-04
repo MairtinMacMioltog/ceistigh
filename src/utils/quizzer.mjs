@@ -8,6 +8,8 @@ import rugby from "../data/rugby.json" assert { type: "json" };
 import euros from "../data/euros.json" assert { type: "json" };
 import copa from "../data/copa.json" assert { type: "json" };
 import nba from "../data/nba.json" assert { type: "json" };
+import mlb from "../data/mlb.json" assert { type: "json" };
+import nhl from "../data/nhl.json" assert { type: "json" };
 
 import { difference } from "./setOperations.mjs";
 
@@ -140,3 +142,19 @@ console.log("winner", occurences(nba, ["winner"]));
 console.log("loser", occurences(nba, ["loser"]));
 console.log("finalist", occurences(nba, ["winner", "loser"]));
 console.log("never won", noWinFinalists(nba));
+
+console.log("------------------------------");
+console.log("------------ MLB -------------");
+console.log("------------------------------");
+console.log("winner", occurences(mlb, ["winner"]));
+console.log("loser", occurences(mlb, ["loser"]));
+console.log("finalist", occurences(mlb, ["winner", "loser"]));
+console.log("never won", noWinFinalists(mlb));
+
+console.log("------------------------------");
+console.log("------------ NHL -------------");
+console.log("------------------------------");
+console.log("winner", occurences(nhl, ["winner"]));
+console.log("loser", occurences(nhl, ["loser"]));
+console.log("finalist", occurences(nhl, ["winner", "loser"]));
+console.log("never won", noWinFinalists(nhl));

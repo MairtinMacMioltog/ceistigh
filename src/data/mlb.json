@@ -1,0 +1,704 @@
+[
+  {
+    "year": "1903",
+    "winner": "Boston Americans",
+    "score": "5-3",
+    "loser": "Pittsburgh Pirates"
+  },
+  {
+    "year": "1905",
+    "winner": "New York Giants",
+    "score": "4-1",
+    "loser": "Philadelphia Athletics"
+  },
+  {
+    "year": "1906",
+    "winner": "Chicago White Sox",
+    "score": "4-2",
+    "loser": "Chicago Cubs"
+  },
+  {
+    "year": "1907",
+    "winner": "Chicago Cubs",
+    "score": "4-0",
+    "loser": "Detroit Tigers"
+  },
+  {
+    "year": "1908",
+    "winner": "Chicago Cubs",
+    "score": "4-1",
+    "loser": "Detroit Tigers"
+  },
+  {
+    "year": "1909",
+    "winner": "Pittsburgh Pirates",
+    "score": "4-3",
+    "loser": "Detroit Tigers"
+  },
+  {
+    "year": "1910",
+    "winner": "Philadelphia Athletics",
+    "score": "4-1",
+    "loser": "Chicago Cubs"
+  },
+  {
+    "year": "1911",
+    "winner": "Philadelphia Athletics",
+    "score": "4-2",
+    "loser": "New York Giants"
+  },
+  {
+    "year": "1912",
+    "winner": "Boston Red Sox",
+    "score": "4-3",
+    "loser": "New York Giants"
+  },
+  {
+    "year": "1913",
+    "winner": "Philadelphia Athletics",
+    "score": "4-1",
+    "loser": "New York Giants"
+  },
+  {
+    "year": "1914",
+    "winner": "Boston Braves",
+    "score": "4-0",
+    "loser": "Philadelphia Athletics"
+  },
+  {
+    "year": "1915",
+    "winner": "Boston Red Sox",
+    "score": "4-1",
+    "loser": "Philadelphia Phillies"
+  },
+  {
+    "year": "1916",
+    "winner": "Boston Red Sox",
+    "score": "4-1",
+    "loser": "Brooklyn Robins"
+  },
+  {
+    "year": "1917",
+    "winner": "Chicago White Sox",
+    "score": "4-2",
+    "loser": "New York Giants"
+  },
+  {
+    "year": "1918",
+    "winner": "Boston Red Sox",
+    "score": "4-2",
+    "loser": "Chicago Cubs"
+  },
+  {
+    "year": "1919",
+    "winner": "Cincinnati Reds",
+    "score": "5-3",
+    "loser": "Chicago White Sox"
+  },
+  {
+    "year": "1920",
+    "winner": "Cleveland Indians",
+    "score": "5-2",
+    "loser": "Brooklyn Robins"
+  },
+  {
+    "year": "1921",
+    "winner": "New York Giants",
+    "score": "5-3",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1922",
+    "winner": "New York Giants",
+    "score": "4-0",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1923",
+    "winner": "New York Yankees",
+    "score": "4-2",
+    "loser": "New York Giants"
+  },
+  {
+    "year": "1924",
+    "winner": "Washington Senators",
+    "score": "4-3",
+    "loser": "New York Giants"
+  },
+  {
+    "year": "1925",
+    "winner": "Pittsburgh Pirates",
+    "score": "4-3",
+    "loser": "Washington Senators"
+  },
+  {
+    "year": "1926",
+    "winner": "St. Louis Cardinals",
+    "score": "4-3",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1927",
+    "winner": "New York Yankees",
+    "score": "4-0",
+    "loser": "Pittsburgh Pirates"
+  },
+  {
+    "year": "1928",
+    "winner": "New York Yankees",
+    "score": "4-0",
+    "loser": "St. Louis Cardinals"
+  },
+  {
+    "year": "1929",
+    "winner": "Philadelphia Athletics",
+    "score": "4-1",
+    "loser": "Chicago Cubs"
+  },
+  {
+    "year": "1930",
+    "winner": "Philadelphia Athletics",
+    "score": "4-2",
+    "loser": "St. Louis Cardinals"
+  },
+  {
+    "year": "1931",
+    "winner": "St. Louis Cardinals",
+    "score": "4-3",
+    "loser": "Philadelphia Athletics"
+  },
+  {
+    "year": "1932",
+    "winner": "New York Yankees",
+    "score": "4-0",
+    "loser": "Chicago Cubs"
+  },
+  {
+    "year": "1933",
+    "winner": "New York Giants",
+    "score": "4-1",
+    "loser": "Washington Senators"
+  },
+  {
+    "year": "1934",
+    "winner": "St. Louis Cardinals",
+    "score": "4-3",
+    "loser": "Detroit Tigers"
+  },
+  {
+    "year": "1935",
+    "winner": "Detroit Tigers",
+    "score": "4-2",
+    "loser": "Chicago Cubs"
+  },
+  {
+    "year": "1936",
+    "winner": "New York Yankees",
+    "score": "4-2",
+    "loser": "New York Giants"
+  },
+  {
+    "year": "1937",
+    "winner": "New York Yankees",
+    "score": "4-1",
+    "loser": "New York Giants"
+  },
+  {
+    "year": "1938",
+    "winner": "New York Yankees",
+    "score": "4-0",
+    "loser": "Chicago Cubs"
+  },
+  {
+    "year": "1939",
+    "winner": "New York Yankees",
+    "score": "4-0",
+    "loser": "Cincinnati Reds"
+  },
+  {
+    "year": "1940",
+    "winner": "Cincinnati Reds",
+    "score": "4-3",
+    "loser": "Detroit Tigers"
+  },
+  {
+    "year": "1941",
+    "winner": "New York Yankees",
+    "score": "4-1",
+    "loser": "Brooklyn Dodgers"
+  },
+  {
+    "year": "1942",
+    "winner": "St. Louis Cardinals",
+    "score": "4-1",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1943",
+    "winner": "New York Yankees",
+    "score": "4-1",
+    "loser": "St. Louis Cardinals"
+  },
+  {
+    "year": "1944",
+    "winner": "St. Louis Cardinals",
+    "score": "4-2",
+    "loser": "St. Louis Browns"
+  },
+  {
+    "year": "1945",
+    "winner": "Detroit Tigers",
+    "score": "4-3",
+    "loser": "Chicago Cubs"
+  },
+  {
+    "year": "1946",
+    "winner": "St. Louis Cardinals",
+    "score": "4-3",
+    "loser": "Boston Red Sox"
+  },
+  {
+    "year": "1947",
+    "winner": "New York Yankees",
+    "score": "4-3",
+    "loser": "Brooklyn Dodgers"
+  },
+  {
+    "year": "1948",
+    "winner": "Cleveland Indians",
+    "score": "4-2",
+    "loser": "Boston Braves"
+  },
+  {
+    "year": "1949",
+    "winner": "New York Yankees",
+    "score": "4-1",
+    "loser": "Brooklyn Dodgers"
+  },
+  {
+    "year": "1950",
+    "winner": "New York Yankees",
+    "score": "4-0",
+    "loser": "Philadelphia Phillies"
+  },
+  {
+    "year": "1951",
+    "winner": "New York Yankees",
+    "score": "4-2",
+    "loser": "New York Giants"
+  },
+  {
+    "year": "1952",
+    "winner": "New York Yankees",
+    "score": "4-3",
+    "loser": "Brooklyn Dodgers"
+  },
+  {
+    "year": "1953",
+    "winner": "New York Yankees",
+    "score": "4-2",
+    "loser": "Brooklyn Dodgers"
+  },
+  {
+    "year": "1954",
+    "winner": "New York Giants",
+    "score": "4-0",
+    "loser": "Cleveland Indians"
+  },
+  {
+    "year": "1955",
+    "winner": "Brooklyn Dodgers",
+    "score": "4-3",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1956",
+    "winner": "New York Yankees",
+    "score": "4-3",
+    "loser": "Brooklyn Dodgers"
+  },
+  {
+    "year": "1957",
+    "winner": "Milwaukee Braves",
+    "score": "4-3",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1958",
+    "winner": "New York Yankees",
+    "score": "4-3",
+    "loser": "Milwaukee Braves"
+  },
+  {
+    "year": "1959",
+    "winner": "Los Angeles Dodgers",
+    "score": "4-2",
+    "loser": "Chicago White Sox"
+  },
+  {
+    "year": "1960",
+    "winner": "Pittsburgh Pirates",
+    "score": "4-3",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1961",
+    "winner": "New York Yankees",
+    "score": "4-1",
+    "loser": "Cincinnati Reds"
+  },
+  {
+    "year": "1962",
+    "winner": "New York Yankees",
+    "score": "4-3",
+    "loser": "San Francisco Giants"
+  },
+  {
+    "year": "1963",
+    "winner": "Los Angeles Dodgers",
+    "score": "4-0",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1964",
+    "winner": "St. Louis Cardinals",
+    "score": "4-3",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1965",
+    "winner": "Los Angeles Dodgers",
+    "score": "4-3",
+    "loser": "Minnesota Twins"
+  },
+  {
+    "year": "1966",
+    "winner": "Baltimore Orioles",
+    "score": "4-0",
+    "loser": "Los Angeles Dodgers"
+  },
+  {
+    "year": "1967",
+    "winner": "St. Louis Cardinals",
+    "score": "4-3",
+    "loser": "Boston Red Sox"
+  },
+  {
+    "year": "1968",
+    "winner": "Detroit Tigers",
+    "score": "4-3",
+    "loser": "St. Louis Cardinals"
+  },
+  {
+    "year": "1969",
+    "winner": "New York Mets",
+    "score": "4-1",
+    "loser": "Baltimore Orioles"
+  },
+  {
+    "year": "1970",
+    "winner": "Baltimore Orioles",
+    "score": "4-1",
+    "loser": "Cincinnati Reds"
+  },
+  {
+    "year": "1971",
+    "winner": "Pittsburgh Pirates",
+    "score": "4-3",
+    "loser": "Baltimore Orioles"
+  },
+  {
+    "year": "1972",
+    "winner": "Oakland Athletics",
+    "score": "4-3",
+    "loser": "Cincinnati Reds"
+  },
+  {
+    "year": "1973",
+    "winner": "Oakland Athletics",
+    "score": "4-3",
+    "loser": "New York Mets"
+  },
+  {
+    "year": "1974",
+    "winner": "Oakland Athletics",
+    "score": "4-1",
+    "loser": "Los Angeles Dodgers"
+  },
+  {
+    "year": "1975",
+    "winner": "Cincinnati Reds",
+    "score": "4-3",
+    "loser": "Boston Red Sox"
+  },
+  {
+    "year": "1976",
+    "winner": "Cincinnati Reds",
+    "score": "4-0",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1977",
+    "winner": "New York Yankees",
+    "score": "4-2",
+    "loser": "Los Angeles Dodgers"
+  },
+  {
+    "year": "1978",
+    "winner": "New York Yankees",
+    "score": "4-2",
+    "loser": "Los Angeles Dodgers"
+  },
+  {
+    "year": "1979",
+    "winner": "Pittsburgh Pirates",
+    "score": "4-3",
+    "loser": "Baltimore Orioles"
+  },
+  {
+    "year": "1980",
+    "winner": "Philadelphia Phillies",
+    "score": "4-2",
+    "loser": "Kansas City Royals"
+  },
+  {
+    "year": "1981",
+    "winner": "Los Angeles Dodgers",
+    "score": "4-2",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "1982",
+    "winner": "St. Louis Cardinals",
+    "score": "4-3",
+    "loser": "Milwaukee Brewers"
+  },
+  {
+    "year": "1983",
+    "winner": "Baltimore Orioles",
+    "score": "4-1",
+    "loser": "Philadelphia Phillies"
+  },
+  {
+    "year": "1984",
+    "winner": "Detroit Tigers",
+    "score": "4-1",
+    "loser": "San Diego Padres"
+  },
+  {
+    "year": "1985",
+    "winner": "Kansas City Royals",
+    "score": "4-3",
+    "loser": "St. Louis Cardinals"
+  },
+  {
+    "year": "1986",
+    "winner": "New York Mets",
+    "score": "4-3",
+    "loser": "Boston Red Sox"
+  },
+  {
+    "year": "1987",
+    "winner": "Minnesota Twins",
+    "score": "4-3",
+    "loser": "St. Louis Cardinals"
+  },
+  {
+    "year": "1988",
+    "winner": "Los Angeles Dodgers",
+    "score": "4-1",
+    "loser": "Oakland Athletics"
+  },
+  {
+    "year": "1989",
+    "winner": "Oakland Athletics",
+    "score": "4-0",
+    "loser": "San Francisco Giants"
+  },
+  {
+    "year": "1990",
+    "winner": "Cincinnati Reds",
+    "score": "4-0",
+    "loser": "Oakland Athletics"
+  },
+  {
+    "year": "1991",
+    "winner": "Minnesota Twins",
+    "score": "4-3",
+    "loser": "Atlanta Braves"
+  },
+  {
+    "year": "1992",
+    "winner": "Toronto Blue Jays",
+    "score": "4-2",
+    "loser": "Atlanta Braves"
+  },
+  {
+    "year": "1993",
+    "winner": "Toronto Blue Jays",
+    "score": "4-2",
+    "loser": "Philadelphia Phillies"
+  },
+  {
+    "year": "1995",
+    "winner": "Atlanta Braves",
+    "score": "4-2",
+    "loser": "Cleveland Indians"
+  },
+  {
+    "year": "1996",
+    "winner": "New York Yankees",
+    "score": "4-2",
+    "loser": "Atlanta Braves"
+  },
+  {
+    "year": "1997",
+    "winner": "Florida Marlins",
+    "score": "4-3",
+    "loser": "Cleveland Indians"
+  },
+  {
+    "year": "1998",
+    "winner": "New York Yankees",
+    "score": "4-0",
+    "loser": "San Diego Padres"
+  },
+  {
+    "year": "1999",
+    "winner": "New York Yankees",
+    "score": "4-0",
+    "loser": "Atlanta Braves"
+  },
+  {
+    "year": "2000",
+    "winner": "New York Yankees",
+    "score": "4-1",
+    "loser": "New York Mets"
+  },
+  {
+    "year": "2001",
+    "winner": "Arizona Diamondbacks",
+    "score": "4-3",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "2002",
+    "winner": "Anaheim Angels",
+    "score": "4-3",
+    "loser": "San Francisco Giants"
+  },
+  {
+    "year": "2003",
+    "winner": "Florida Marlins",
+    "score": "4-2",
+    "loser": "New York Yankees"
+  },
+  {
+    "year": "2004",
+    "winner": "Boston Red Sox",
+    "score": "4-0",
+    "loser": "St. Louis Cardinals"
+  },
+  {
+    "year": "2005",
+    "winner": "Chicago White Sox",
+    "score": "4-0",
+    "loser": "Houston Astros"
+  },
+  {
+    "year": "2006",
+    "winner": "St. Louis Cardinals",
+    "score": "4-1",
+    "loser": "Detroit Tigers"
+  },
+  {
+    "year": "2007",
+    "winner": "Boston Red Sox",
+    "score": "4-0",
+    "loser": "Colorado Rockies"
+  },
+  {
+    "year": "2008",
+    "winner": "Philadelphia Phillies",
+    "score": "4-1",
+    "loser": "Tampa Bay Rays"
+  },
+  {
+    "year": "2009",
+    "winner": "New York Yankees",
+    "score": "4-2",
+    "loser": "Philadelphia Phillies"
+  },
+  {
+    "year": "2010",
+    "winner": "San Francisco Giants",
+    "score": "4-1",
+    "loser": "Texas Rangers"
+  },
+  {
+    "year": "2011",
+    "winner": "St. Louis Cardinals",
+    "score": "4-3",
+    "loser": "Texas Rangers"
+  },
+  {
+    "year": "2012",
+    "winner": "San Francisco Giants",
+    "score": "4-0",
+    "loser": "Detroit Tigers"
+  },
+  {
+    "year": "2013",
+    "winner": "Boston Red Sox",
+    "score": "4-2",
+    "loser": "St. Louis Cardinals"
+  },
+  {
+    "year": "2014",
+    "winner": "San Francisco Giants",
+    "score": "4-3",
+    "loser": "Kansas City Royals"
+  },
+  {
+    "year": "2015",
+    "winner": "Kansas City Royals",
+    "score": "4-1",
+    "loser": "New York Mets"
+  },
+  {
+    "year": "2016",
+    "winner": "Chicago Cubs",
+    "score": "4-3",
+    "loser": "Cleveland Indians"
+  },
+  {
+    "year": "2017",
+    "winner": "Houston Astros",
+    "score": "4-3",
+    "loser": "Los Angeles Dodgers"
+  },
+  {
+    "year": "2018",
+    "winner": "Boston Red Sox",
+    "score": "4-1",
+    "loser": "Los Angeles Dodgers"
+  },
+  {
+    "year": "2019",
+    "winner": "Washington Nationals",
+    "score": "4-3",
+    "loser": "Houston Astros"
+  },
+  {
+    "year": "2020",
+    "winner": "Los Angeles Dodgers",
+    "score": "4-2",
+    "loser": "Tampa Bay Rays"
+  },
+  {
+    "year": "2021",
+    "winner": "Atlanta Braves",
+    "score": "4-2",
+    "loser": "Houston Astros"
+  }
+]

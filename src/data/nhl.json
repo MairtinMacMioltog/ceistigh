@@ -1,0 +1,572 @@
+[
+  {
+    "year": "1927",
+    "winner": "Ottawa Senators",
+    "score": "2-0",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1928",
+    "winner": "New York Rangers",
+    "score": "3-2",
+    "loser": "Montreal Maroons"
+  },
+  {
+    "year": "1929",
+    "winner": "Boston Bruins",
+    "score": "2-0",
+    "loser": "New York Rangers"
+  },
+  {
+    "year": "1930",
+    "winner": "Montreal Canadiens",
+    "score": "2-0",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1931",
+    "winner": "Montreal Canadiens",
+    "score": "3-2",
+    "loser": "Chicago Black Hawks"
+  },
+  {
+    "year": "1932",
+    "winner": "Toronto Maple Leafs",
+    "score": "3-0",
+    "loser": "New York Rangers"
+  },
+  {
+    "year": "1933",
+    "winner": "New York Rangers",
+    "score": "3-1",
+    "loser": "Toronto Maple Leafs"
+  },
+  {
+    "year": "1934",
+    "winner": "Chicago Black Hawks",
+    "score": "3-1",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1935",
+    "winner": "Montreal Maroons",
+    "score": "3-0",
+    "loser": "Toronto Maple Leafs"
+  },
+  {
+    "year": "1936",
+    "winner": "Detroit Red Wings",
+    "score": "3-1",
+    "loser": "Toronto Maple Leafs"
+  },
+  {
+    "year": "1937",
+    "winner": "Detroit Red Wings",
+    "score": "3-2",
+    "loser": "New York Rangers"
+  },
+  {
+    "year": "1938",
+    "winner": "Chicago Black Hawks",
+    "score": "3-1",
+    "loser": "Toronto Maple Leafs"
+  },
+  {
+    "year": "1939",
+    "winner": "Boston Bruins",
+    "score": "4-1",
+    "loser": "Toronto Maple Leafs"
+  },
+  {
+    "year": "1940",
+    "winner": "New York Rangers",
+    "score": "4-2",
+    "loser": "Toronto Maple Leafs"
+  },
+  {
+    "year": "1941",
+    "winner": "Boston Bruins",
+    "score": "4-0",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1942",
+    "winner": "Toronto Maple Leafs",
+    "score": "4-3",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1943",
+    "winner": "Detroit Red Wings",
+    "score": "4-0",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1944",
+    "winner": "Montreal Canadiens",
+    "score": "4-0",
+    "loser": "Chicago Black Hawks"
+  },
+  {
+    "year": "1945",
+    "winner": "Toronto Maple Leafs",
+    "score": "4-3",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1946",
+    "winner": "Montreal Canadiens",
+    "score": "4-1",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1947",
+    "winner": "Toronto Maple Leafs",
+    "score": "4-2",
+    "loser": "Montreal Canadiens"
+  },
+  {
+    "year": "1948",
+    "winner": "Toronto Maple Leafs",
+    "score": "4-0",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1949",
+    "winner": "Toronto Maple Leafs",
+    "score": "4-0",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1950",
+    "winner": "Detroit Red Wings",
+    "score": "4-3",
+    "loser": "New York Rangers"
+  },
+  {
+    "year": "1951",
+    "winner": "Toronto Maple Leafs",
+    "score": "4-1",
+    "loser": "Montreal Canadiens"
+  },
+  {
+    "year": "1952",
+    "winner": "Detroit Red Wings",
+    "score": "4-0",
+    "loser": "Montreal Canadiens"
+  },
+  {
+    "year": "1953",
+    "winner": "Montreal Canadiens",
+    "score": "4-1",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1954",
+    "winner": "Detroit Red Wings",
+    "score": "4-3",
+    "loser": "Montreal Canadiens"
+  },
+  {
+    "year": "1955",
+    "winner": "Detroit Red Wings",
+    "score": "4-3",
+    "loser": "Montreal Canadiens"
+  },
+  {
+    "year": "1956",
+    "winner": "Montreal Canadiens",
+    "score": "4-1",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1957",
+    "winner": "Montreal Canadiens",
+    "score": "4-1",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1958",
+    "winner": "Montreal Canadiens",
+    "score": "4-2",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1959",
+    "winner": "Montreal Canadiens",
+    "score": "4-1",
+    "loser": "Toronto Maple Leafs"
+  },
+  {
+    "year": "1960",
+    "winner": "Montreal Canadiens",
+    "score": "4-0",
+    "loser": "Toronto Maple Leafs"
+  },
+  {
+    "year": "1961",
+    "winner": "Chicago Black Hawks",
+    "score": "4-2",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1962",
+    "winner": "Toronto Maple Leafs",
+    "score": "4-2",
+    "loser": "Chicago Black Hawks"
+  },
+  {
+    "year": "1963",
+    "winner": "Toronto Maple Leafs",
+    "score": "4-1",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1964",
+    "winner": "Toronto Maple Leafs",
+    "score": "4-3",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1965",
+    "winner": "Montreal Canadiens",
+    "score": "4-3",
+    "loser": "Chicago Black Hawks"
+  },
+  {
+    "year": "1966",
+    "winner": "Montreal Canadiens",
+    "score": "4-2",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1967",
+    "winner": "Toronto Maple Leafs",
+    "score": "4-2",
+    "loser": "Montreal Canadiens"
+  },
+  {
+    "year": "1968",
+    "winner": "Montreal Canadiens",
+    "score": "4-0",
+    "loser": "St. Louis Blues"
+  },
+  {
+    "year": "1969",
+    "winner": "Montreal Canadiens",
+    "score": "4-0",
+    "loser": "St. Louis Blues"
+  },
+  {
+    "year": "1970",
+    "winner": "Boston Bruins",
+    "score": "4-0",
+    "loser": "St. Louis Blues"
+  },
+  {
+    "year": "1971",
+    "winner": "Montreal Canadiens",
+    "score": "4-3",
+    "loser": "Chicago Black Hawks"
+  },
+  {
+    "year": "1972",
+    "winner": "Boston Bruins",
+    "score": "4-2",
+    "loser": "New York Rangers"
+  },
+  {
+    "year": "1973",
+    "winner": "Montreal Canadiens",
+    "score": "4-2",
+    "loser": "Chicago Black Hawks"
+  },
+  {
+    "year": "1974",
+    "winner": "Philadelphia Flyers",
+    "score": "4-2",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1975",
+    "winner": "Philadelphia Flyers",
+    "score": "4-2",
+    "loser": "Buffalo Sabres"
+  },
+  {
+    "year": "1976",
+    "winner": "Montreal Canadiens",
+    "score": "4-0",
+    "loser": "Philadelphia Flyers"
+  },
+  {
+    "year": "1977",
+    "winner": "Montreal Canadiens",
+    "score": "4-0",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1978",
+    "winner": "Montreal Canadiens",
+    "score": "4-2",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1979",
+    "winner": "Montreal Canadiens",
+    "score": "4-1",
+    "loser": "New York Rangers"
+  },
+  {
+    "year": "1980",
+    "winner": "New York Islanders",
+    "score": "4-2",
+    "loser": "Philadelphia Flyers"
+  },
+  {
+    "year": "1981",
+    "winner": "New York Islanders",
+    "score": "4-1",
+    "loser": "Minnesota North Stars"
+  },
+  {
+    "year": "1982",
+    "winner": "New York Islanders",
+    "score": "4-0",
+    "loser": "Vancouver Canucks"
+  },
+  {
+    "year": "1983",
+    "winner": "New York Islanders",
+    "score": "4-0",
+    "loser": "Edmonton Oilers"
+  },
+  {
+    "year": "1984",
+    "winner": "Edmonton Oilers",
+    "score": "4-1",
+    "loser": "New York Islanders"
+  },
+  {
+    "year": "1985",
+    "winner": "Edmonton Oilers",
+    "score": "4-1",
+    "loser": "Philadelphia Flyers"
+  },
+  {
+    "year": "1986",
+    "winner": "Montreal Canadiens",
+    "score": "4-1",
+    "loser": "Calgary Flames"
+  },
+  {
+    "year": "1987",
+    "winner": "Edmonton Oilers",
+    "score": "4-3",
+    "loser": "Philadelphia Flyers"
+  },
+  {
+    "year": "1988",
+    "winner": "Edmonton Oilers",
+    "score": "4-0",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1989",
+    "winner": "Calgary Flames",
+    "score": "4-2",
+    "loser": "Montreal Canadiens"
+  },
+  {
+    "year": "1990",
+    "winner": "Edmonton Oilers",
+    "score": "4-1",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "1991",
+    "winner": "Pittsburgh Penguins",
+    "score": "4-2",
+    "loser": "Minnesota North Stars"
+  },
+  {
+    "year": "1992",
+    "winner": "Pittsburgh Penguins",
+    "score": "4-0",
+    "loser": "Chicago Blackhawks"
+  },
+  {
+    "year": "1993",
+    "winner": "Montreal Canadiens",
+    "score": "4-1",
+    "loser": "Los Angeles Kings"
+  },
+  {
+    "year": "1994",
+    "winner": "New York Rangers",
+    "score": "4-3",
+    "loser": "Vancouver Canucks"
+  },
+  {
+    "year": "1995",
+    "winner": "New Jersey Devils",
+    "score": "4-0",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "1996",
+    "winner": "Colorado Avalanche",
+    "score": "4-0",
+    "loser": "Florida Panthers"
+  },
+  {
+    "year": "1997",
+    "winner": "Detroit Red Wings",
+    "score": "4-0",
+    "loser": "Philadelphia Flyers"
+  },
+  {
+    "year": "1998",
+    "winner": "Detroit Red Wings",
+    "score": "4-0",
+    "loser": "Washington Capitals"
+  },
+  {
+    "year": "1999",
+    "winner": "Dallas Stars",
+    "score": "4-2",
+    "loser": "Buffalo Sabres"
+  },
+  {
+    "year": "2000",
+    "winner": "New Jersey Devils",
+    "score": "4-2",
+    "loser": "Dallas Stars"
+  },
+  {
+    "year": "2001",
+    "winner": "Colorado Avalanche",
+    "score": "4-3",
+    "loser": "New Jersey Devils"
+  },
+  {
+    "year": "2002",
+    "winner": "Detroit Red Wings",
+    "score": "4-1",
+    "loser": "Carolina Hurricanes"
+  },
+  {
+    "year": "2003",
+    "winner": "New Jersey Devils",
+    "score": "4-3",
+    "loser": "Mighty Ducks of Anaheim"
+  },
+  {
+    "year": "2004",
+    "winner": "Tampa Bay Lightning",
+    "score": "4-3",
+    "loser": "Calgary Flames"
+  },
+  {
+    "year": "2006",
+    "winner": "Carolina Hurricanes",
+    "score": "4-3",
+    "loser": "Edmonton Oilers"
+  },
+  {
+    "year": "2007",
+    "winner": "Anaheim Ducks",
+    "score": "4-1",
+    "loser": "Ottawa Senators"
+  },
+  {
+    "year": "2008",
+    "winner": "Detroit Red Wings",
+    "score": "4-2",
+    "loser": "Pittsburgh Penguins"
+  },
+  {
+    "year": "2009",
+    "winner": "Pittsburgh Penguins",
+    "score": "4-3",
+    "loser": "Detroit Red Wings"
+  },
+  {
+    "year": "2010",
+    "winner": "Chicago Blackhawks",
+    "score": "4-2",
+    "loser": "Philadelphia Flyers"
+  },
+  {
+    "year": "2011",
+    "winner": "Boston Bruins",
+    "score": "4-3",
+    "loser": "Vancouver Canucks"
+  },
+  {
+    "year": "2012",
+    "winner": "Los Angeles Kings",
+    "score": "4-2",
+    "loser": "New Jersey Devils"
+  },
+  {
+    "year": "2013",
+    "winner": "Chicago Blackhawks",
+    "score": "4-2",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "2014",
+    "winner": "Los Angeles Kings",
+    "score": "4-1",
+    "loser": "New York Rangers"
+  },
+  {
+    "year": "2015",
+    "winner": "Chicago Blackhawks",
+    "score": "4-2",
+    "loser": "Tampa Bay Lightning"
+  },
+  {
+    "year": "2016",
+    "winner": "Pittsburgh Penguins",
+    "score": "4-2",
+    "loser": "San Jose Sharks"
+  },
+  {
+    "year": "2017",
+    "winner": "Pittsburgh Penguins",
+    "score": "4-2",
+    "loser": "Nashville Predators"
+  },
+  {
+    "year": "2018",
+    "winner": "Washington Capitals",
+    "score": "4-1",
+    "loser": "Vegas Golden Knights"
+  },
+  {
+    "year": "2019",
+    "winner": "St. Louis Blues",
+    "score": "4-3",
+    "loser": "Boston Bruins"
+  },
+  {
+    "year": "2020",
+    "winner": "Tampa Bay Lightning",
+    "score": "4-2",
+    "loser": "Dallas Stars"
+  },
+  {
+    "year": "2021",
+    "winner": "Tampa Bay Lightning",
+    "score": "4-1",
+    "loser": "Montreal Canadiens"
+  },
+  {
+    "year": "2022",
+    "winner": "Colorado Avalanche",
+    "score": "4-2",
+    "loser": "Tampa Bay Lightning"
+  }
+]
