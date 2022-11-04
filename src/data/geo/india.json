@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "date": "1 November 1956",
+    "population": 49506799,
+    "area": 162975,
+    "type": "state"
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "date": "20 February 1987",
+    "population": 1383727,
+    "area": 83743,
+    "type": "state"
+  },
+  {
+    "name": "Assam",
+    "date": "26 January 1950",
+    "population": 31205576,
+    "area": 78550,
+    "type": "state"
+  },
+  {
+    "name": "Bihar",
+    "date": "26 January 1950",
+    "population": 104099452,
+    "area": 94163,
+    "type": "state"
+  },
+  {
+    "name": "Chhattisgarh",
+    "date": "1 November 2000",
+    "population": 25545198,
+    "area": 135194,
+    "type": "state"
+  },
+  {
+    "name": "Goa",
+    "date": "30 May 1987",
+    "population": 1458545,
+    "area": 3702,
+    "type": "state"
+  },
+  {
+    "name": "Gujarat",
+    "date": "1 May 1960",
+    "population": 60439692,
+    "area": 196024,
+    "type": "state"
+  },
+  {
+    "name": "Haryana",
+    "date": "1 November 1966",
+    "population": 25351462,
+    "area": 44212,
+    "type": "state"
+  },
+  {
+    "name": "Himachal Pradesh",
+    "date": "25 January 1971",
+    "population": 6864602,
+    "area": 55673,
+    "type": "state"
+  },
+  {
+    "name": "Jharkhand",
+    "date": "15 November 2000",
+    "population": 32988134,
+    "area": 74677,
+    "type": "state"
+  },
+  {
+    "name": "Karnataka",
+    "date": "1 November 1956",
+    "population": 61095297,
+    "area": 191791,
+    "type": "state"
+  },
+  {
+    "name": "Kerala",
+    "date": "1 November 1956",
+    "population": 33406061,
+    "area": 38863,
+    "type": "state"
+  },
+  {
+    "name": "Madhya Pradesh",
+    "date": "26 January 1950",
+    "population": 72626809,
+    "area": 308252,
+    "type": "state"
+  },
+  {
+    "name": "Maharashtra",
+    "date": "1 May 1960",
+    "population": 112374333,
+    "area": 307713,
+    "type": "state"
+  },
+  {
+    "name": "Manipur",
+    "date": "21 January 1972",
+    "population": 2855794,
+    "area": 22347,
+    "type": "state"
+  },
+  {
+    "name": "Meghalaya",
+    "date": "21 January 1972",
+    "population": 2966889,
+    "area": 22720,
+    "type": "state"
+  },
+  {
+    "name": "Mizoram",
+    "date": "20 February 1987",
+    "population": 1097206,
+    "area": 21081,
+    "type": "state"
+  },
+  {
+    "name": "Nagaland",
+    "date": "1 December 1963",
+    "population": 1978502,
+    "area": 16579,
+    "type": "state"
+  },
+  {
+    "name": "Odisha",
+    "date": "26 January 1950",
+    "population": 41974218,
+    "area": 155820,
+    "type": "state"
+  },
+  {
+    "name": "Punjab",
+    "date": "1 November 1966",
+    "population": 27743338,
+    "area": 50362,
+    "type": "state"
+  },
+  {
+    "name": "Rajasthan",
+    "date": "26 January 1950",
+    "population": 68548437,
+    "area": 342269,
+    "type": "state"
+  },
+  {
+    "name": "Sikkim",
+    "date": "16 May 1975",
+    "population": 610577,
+    "area": 7096,
+    "type": "state"
+  },
+  {
+    "name": "Tamil Nadu",
+    "date": "1 November 1956",
+    "population": 72147030,
+    "area": 130058,
+    "type": "state"
+  },
+  {
+    "name": "Telangana",
+    "date": "2 June 2014",
+    "population": 35193978,
+    "area": 112077,
+    "type": "state"
+  },
+  {
+    "name": "Tripura",
+    "date": "21 January 1972",
+    "population": 3673917,
+    "area": 10492,
+    "type": "state"
+  },
+  {
+    "name": "Uttar Pradesh",
+    "date": "26 January 1950",
+    "population": 199812341,
+    "area": 243286,
+    "type": "state"
+  },
+  {
+    "name": "Uttarakhand",
+    "date": "9 November 2000",
+    "population": 10086292,
+    "area": 53483,
+    "type": "state"
+  },
+  {
+    "name": "West Bengal",
+    "date": "26 January 1950",
+    "population": 91276115,
+    "area": 88752,
+    "type": "state"
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "date": "1 November 1956",
+    "population": 380581,
+    "area": 8249,
+    "type": "union"
+  },
+  {
+    "name": "Chandigarh",
+    "date": "1 November 1966",
+    "population": 1055450,
+    "area": 114,
+    "type": "union"
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "date": "26 January 2020",
+    "population": 586956,
+    "area": 603,
+    "type": "union"
+  },
+  {
+    "name": "Delhi",
+    "date": "1 November 1956",
+    "population": 16787941,
+    "area": 1490,
+    "type": "union"
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "date": "31 October 2019",
+    "population": 12258433,
+    "area": 42241,
+    "type": "union"
+  },
+  {
+    "name": "Ladakh",
+    "date": "31 October 2019",
+    "population": 290492,
+    "area": 59146,
+    "type": "union"
+  },
+  {
+    "name": "Lakshadweep",
+    "date": "1 November 1956",
+    "population": 64473,
+    "area": 32,
+    "type": "union"
+  },
+  {
+    "name": "Puducherry",
+    "date": "16 August 1962",
+    "population": 1247953,
+    "area": 492,
+    "type": "union"
+  }
+]
