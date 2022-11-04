@@ -7,6 +7,7 @@ import cricket from "../data/cricket.json" assert { type: "json" };
 import rugby from "../data/rugby.json" assert { type: "json" };
 import euros from "../data/euros.json" assert { type: "json" };
 import copa from "../data/copa.json" assert { type: "json" };
+import nba from "../data/nba.json" assert { type: "json" };
 
 import { difference } from "./setOperations.mjs";
 
@@ -131,3 +132,11 @@ console.log("loser", occurences(copa, ["loser"]));
 console.log("finalist", occurences(copa, ["winner", "loser"]));
 console.log("never won", noWinFinalists(copa));
 console.log("winning hosts", winnerHosts(copa));
+
+console.log("------------------------------");
+console.log("------------ NBA -------------");
+console.log("------------------------------");
+console.log("winner", occurences(nba, ["winner"]));
+console.log("loser", occurences(nba, ["loser"]));
+console.log("finalist", occurences(nba, ["winner", "loser"]));
+console.log("never won", noWinFinalists(nba));

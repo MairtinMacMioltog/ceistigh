@@ -1,0 +1,610 @@
+[
+  {
+    "year": "1947",
+    "winner": "Philadelphia Warriors",
+    "loser": "Chicago Stags",
+    "western": "Chicago Stags",
+    "score": "1-4",
+    "eastern": "Philadelphia Warriors"
+  },
+  {
+    "year": "1948",
+    "winner": "Baltimore Bullets",
+    "loser": "Philadelphia Warriors",
+    "western": "Baltimore Bullets",
+    "score": "4-2",
+    "eastern": "Philadelphia Warriors"
+  },
+  {
+    "year": "1949",
+    "winner": "Minneapolis Lakers",
+    "loser": "Washington Capitols",
+    "western": "Minneapolis Lakers",
+    "score": "4-2",
+    "eastern": "Washington Capitols"
+  },
+  {
+    "year": "1950",
+    "winner": "Minneapolis Lakers",
+    "loser": "Syracuse Nationals",
+    "western": "Minneapolis Lakers",
+    "score": "4-2",
+    "eastern": "Syracuse Nationals"
+  },
+  {
+    "year": "1951",
+    "winner": "Rochester Royals",
+    "loser": "New York Knicks",
+    "western": "Rochester Royals",
+    "score": "4-3",
+    "eastern": "New York Knicks"
+  },
+  {
+    "year": "1952",
+    "winner": "Minneapolis Lakers",
+    "loser": "New York Knicks",
+    "western": "Minneapolis Lakers",
+    "score": "4-3",
+    "eastern": "New York Knicks"
+  },
+  {
+    "year": "1953",
+    "winner": "Minneapolis Lakers",
+    "loser": "New York Knicks",
+    "western": "Minneapolis Lakers",
+    "score": "4-1",
+    "eastern": "New York Knicks"
+  },
+  {
+    "year": "1954",
+    "winner": "Minneapolis Lakers",
+    "loser": "Syracuse Nationals",
+    "western": "Minneapolis Lakers",
+    "score": "4-3",
+    "eastern": "Syracuse Nationals"
+  },
+  {
+    "year": "1955",
+    "winner": "Syracuse Nationals",
+    "loser": "Fort Wayne Pistons",
+    "western": "Fort Wayne Pistons",
+    "score": "3-4",
+    "eastern": "Syracuse Nationals"
+  },
+  {
+    "year": "1956",
+    "winner": "Philadelphia Warriors",
+    "loser": "Fort Wayne Pistons",
+    "western": "Fort Wayne Pistons",
+    "score": "1-4",
+    "eastern": "Philadelphia Warriors"
+  },
+  {
+    "year": "1957",
+    "winner": "Boston Celtics",
+    "loser": "St. Louis Hawks",
+    "western": "St. Louis Hawks",
+    "score": "3-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1958",
+    "winner": "St. Louis Hawks",
+    "loser": "Boston Celtics",
+    "western": "St. Louis Hawks",
+    "score": "4-2",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1959",
+    "winner": "Boston Celtics",
+    "loser": "Minneapolis Lakers",
+    "western": "Minneapolis Lakers",
+    "score": "0-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1960",
+    "winner": "Boston Celtics",
+    "loser": "St. Louis Hawks",
+    "western": "St. Louis Hawks",
+    "score": "3-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1961",
+    "winner": "Boston Celtics",
+    "loser": "St. Louis Hawks",
+    "western": "St. Louis Hawks",
+    "score": "1-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1962",
+    "winner": "Boston Celtics",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "3-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1963",
+    "winner": "Boston Celtics",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "2-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1964",
+    "winner": "Boston Celtics",
+    "loser": "San Francisco Warriors",
+    "western": "San Francisco Warriors",
+    "score": "1-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1965",
+    "winner": "Boston Celtics",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "1-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1966",
+    "winner": "Boston Celtics",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "3-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1967",
+    "winner": "Philadelphia 76ers",
+    "loser": "San Francisco Warriors",
+    "western": "San Francisco Warriors",
+    "score": "2-4",
+    "eastern": "Philadelphia 76ers"
+  },
+  {
+    "year": "1968",
+    "winner": "Boston Celtics",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "2-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1969",
+    "winner": "Boston Celtics",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "3-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1970",
+    "winner": "New York Knicks",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "3-4",
+    "eastern": "New York Knicks"
+  },
+  {
+    "year": "1971",
+    "winner": "Milwaukee Bucks",
+    "loser": "Baltimore Bullets",
+    "western": "Milwaukee Bucks",
+    "score": "4-0",
+    "eastern": "Baltimore Bullets"
+  },
+  {
+    "year": "1972",
+    "winner": "Los Angeles Lakers",
+    "loser": "New York Knicks",
+    "western": "Los Angeles Lakers",
+    "score": "4-1",
+    "eastern": "New York Knicks"
+  },
+  {
+    "year": "1973",
+    "winner": "New York Knicks",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "1-4",
+    "eastern": "New York Knicks"
+  },
+  {
+    "year": "1974",
+    "winner": "Boston Celtics",
+    "loser": "Milwaukee Bucks",
+    "western": "Milwaukee Bucks",
+    "score": "3-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1975",
+    "winner": "Golden State Warriors",
+    "loser": "Washington Bullets",
+    "western": "Golden State Warriors",
+    "score": "4-0",
+    "eastern": "Washington Bullets"
+  },
+  {
+    "year": "1976",
+    "winner": "Boston Celtics",
+    "loser": "Phoenix Suns",
+    "western": "Phoenix Suns",
+    "score": "2-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1977",
+    "winner": "Portland Trail Blazers",
+    "loser": "Philadelphia 76ers",
+    "western": "Portland Trail Blazers",
+    "score": "4-2",
+    "eastern": "Philadelphia 76ers"
+  },
+  {
+    "year": "1978",
+    "winner": "Washington Bullets",
+    "loser": "Seattle SuperSonics",
+    "western": "Seattle SuperSonics",
+    "score": "3-4",
+    "eastern": "Washington Bullets"
+  },
+  {
+    "year": "1979",
+    "winner": "Seattle SuperSonics",
+    "loser": "Washington Bullets",
+    "western": "Seattle SuperSonics",
+    "score": "4-1",
+    "eastern": "Washington Bullets"
+  },
+  {
+    "year": "1980",
+    "winner": "Los Angeles Lakers",
+    "loser": "Philadelphia 76ers",
+    "western": "Los Angeles Lakers",
+    "score": "4-2",
+    "eastern": "Philadelphia 76ers"
+  },
+  {
+    "year": "1981",
+    "winner": "Boston Celtics",
+    "loser": "Houston Rockets",
+    "western": "Houston Rockets",
+    "score": "2-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1982",
+    "winner": "Los Angeles Lakers",
+    "loser": "Philadelphia 76ers",
+    "western": "Los Angeles Lakers",
+    "score": "4-2",
+    "eastern": "Philadelphia 76ers"
+  },
+  {
+    "year": "1983",
+    "winner": "Philadelphia 76ers",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "0-4",
+    "eastern": "Philadelphia 76ers"
+  },
+  {
+    "year": "1984",
+    "winner": "Boston Celtics",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "3-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1985",
+    "winner": "Los Angeles Lakers",
+    "loser": "Boston Celtics",
+    "western": "Los Angeles Lakers",
+    "score": "4-2",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1986",
+    "winner": "Boston Celtics",
+    "loser": "Houston Rockets",
+    "western": "Houston Rockets",
+    "score": "2-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1987",
+    "winner": "Los Angeles Lakers",
+    "loser": "Boston Celtics",
+    "western": "Los Angeles Lakers",
+    "score": "4-2",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "1988",
+    "winner": "Los Angeles Lakers",
+    "loser": "Detroit Pistons",
+    "western": "Los Angeles Lakers",
+    "score": "4-3",
+    "eastern": "Detroit Pistons"
+  },
+  {
+    "year": "1989",
+    "winner": "Detroit Pistons",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "0-4",
+    "eastern": "Detroit Pistons"
+  },
+  {
+    "year": "1990",
+    "winner": "Detroit Pistons",
+    "loser": "Portland Trail Blazers",
+    "western": "Portland Trail Blazers",
+    "score": "1-4",
+    "eastern": "Detroit Pistons"
+  },
+  {
+    "year": "1991",
+    "winner": "Chicago Bulls",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "1-4",
+    "eastern": "Chicago Bulls"
+  },
+  {
+    "year": "1992",
+    "winner": "Chicago Bulls",
+    "loser": "Portland Trail Blazers",
+    "western": "Portland Trail Blazers",
+    "score": "2-4",
+    "eastern": "Chicago Bulls"
+  },
+  {
+    "year": "1993",
+    "winner": "Chicago Bulls",
+    "loser": "Phoenix Suns",
+    "western": "Phoenix Suns",
+    "score": "2-4",
+    "eastern": "Chicago Bulls"
+  },
+  {
+    "year": "1994",
+    "winner": "Houston Rockets",
+    "loser": "New York Knicks",
+    "western": "Houston Rockets",
+    "score": "4-3",
+    "eastern": "New York Knicks"
+  },
+  {
+    "year": "1995",
+    "winner": "Houston Rockets",
+    "loser": "Orlando Magic",
+    "western": "Houston Rockets",
+    "score": "4-0",
+    "eastern": "Orlando Magic"
+  },
+  {
+    "year": "1996",
+    "winner": "Chicago Bulls",
+    "loser": "Seattle SuperSonics",
+    "western": "Seattle SuperSonics",
+    "score": "2-4",
+    "eastern": "Chicago Bulls"
+  },
+  {
+    "year": "1997",
+    "winner": "Chicago Bulls",
+    "loser": "Utah Jazz",
+    "western": "Utah Jazz",
+    "score": "2-4",
+    "eastern": "Chicago Bulls"
+  },
+  {
+    "year": "1998",
+    "winner": "Chicago Bulls",
+    "loser": "Utah Jazz",
+    "western": "Utah Jazz",
+    "score": "2-4",
+    "eastern": "Chicago Bulls"
+  },
+  {
+    "year": "1999",
+    "winner": "San Antonio Spurs",
+    "loser": "New York Knicks",
+    "western": "San Antonio Spurs",
+    "score": "4-1",
+    "eastern": "New York Knicks"
+  },
+  {
+    "year": "2000",
+    "winner": "Los Angeles Lakers",
+    "loser": "Indiana Pacers",
+    "western": "Los Angeles Lakers",
+    "score": "4-2",
+    "eastern": "Indiana Pacers"
+  },
+  {
+    "year": "2001",
+    "winner": "Los Angeles Lakers",
+    "loser": "Philadelphia 76ers",
+    "western": "Los Angeles Lakers",
+    "score": "4-1",
+    "eastern": "Philadelphia 76ers"
+  },
+  {
+    "year": "2002",
+    "winner": "Los Angeles Lakers",
+    "loser": "New Jersey Nets",
+    "western": "Los Angeles Lakers",
+    "score": "4-0",
+    "eastern": "New Jersey Nets"
+  },
+  {
+    "year": "2003",
+    "winner": "San Antonio Spurs",
+    "loser": "New Jersey Nets",
+    "western": "San Antonio Spurs",
+    "score": "4-2",
+    "eastern": "New Jersey Nets"
+  },
+  {
+    "year": "2004",
+    "winner": "Detroit Pistons",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "1-4",
+    "eastern": "Detroit Pistons"
+  },
+  {
+    "year": "2005",
+    "winner": "San Antonio Spurs",
+    "loser": "Detroit Pistons",
+    "western": "San Antonio Spurs",
+    "score": "4-3",
+    "eastern": "Detroit Pistons"
+  },
+  {
+    "year": "2006",
+    "winner": "Miami Heat",
+    "loser": "Dallas Mavericks",
+    "western": "Dallas Mavericks",
+    "score": "2-4",
+    "eastern": "Miami Heat"
+  },
+  {
+    "year": "2007",
+    "winner": "San Antonio Spurs",
+    "loser": "Cleveland Cavaliers",
+    "western": "San Antonio Spurs",
+    "score": "4-0",
+    "eastern": "Cleveland Cavaliers"
+  },
+  {
+    "year": "2008",
+    "winner": "Boston Celtics",
+    "loser": "Los Angeles Lakers",
+    "western": "Los Angeles Lakers",
+    "score": "2-4",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "2009",
+    "winner": "Los Angeles Lakers",
+    "loser": "Orlando Magic",
+    "western": "Los Angeles Lakers",
+    "score": "4-1",
+    "eastern": "Orlando Magic"
+  },
+  {
+    "year": "2010",
+    "winner": "Los Angeles Lakers",
+    "loser": "Boston Celtics",
+    "western": "Los Angeles Lakers",
+    "score": "4-3",
+    "eastern": "Boston Celtics"
+  },
+  {
+    "year": "2011",
+    "winner": "Dallas Mavericks",
+    "loser": "Miami Heat",
+    "western": "Dallas Mavericks",
+    "score": "4-2",
+    "eastern": "Miami Heat"
+  },
+  {
+    "year": "2012",
+    "winner": "Miami Heat",
+    "loser": "Oklahoma City Thunder",
+    "western": "Oklahoma City Thunder",
+    "score": "1-4",
+    "eastern": "Miami Heat"
+  },
+  {
+    "year": "2013",
+    "winner": "Miami Heat",
+    "loser": "San Antonio Spurs",
+    "western": "San Antonio Spurs",
+    "score": "3-4",
+    "eastern": "Miami Heat"
+  },
+  {
+    "year": "2014",
+    "winner": "San Antonio Spurs",
+    "loser": "Miami Heat",
+    "western": "San Antonio Spurs",
+    "score": "4-1",
+    "eastern": "Miami Heat"
+  },
+  {
+    "year": "2015",
+    "winner": "Golden State Warriors",
+    "loser": "Cleveland Cavaliers",
+    "western": "Golden State Warriors",
+    "score": "4-2",
+    "eastern": "Cleveland Cavaliers"
+  },
+  {
+    "year": "2016",
+    "winner": "Cleveland Cavaliers",
+    "loser": "Golden State Warriors",
+    "western": "Golden State Warriors",
+    "score": "3-4",
+    "eastern": "Cleveland Cavaliers"
+  },
+  {
+    "year": "2017",
+    "winner": "Golden State Warriors",
+    "loser": "Cleveland Cavaliers",
+    "western": "Golden State Warriors",
+    "score": "4-1",
+    "eastern": "Cleveland Cavaliers"
+  },
+  {
+    "year": "2018",
+    "winner": "Golden State Warriors",
+    "loser": "Cleveland Cavaliers",
+    "western": "Golden State Warriors",
+    "score": "4-0",
+    "eastern": "Cleveland Cavaliers"
+  },
+  {
+    "year": "2019",
+    "winner": "Toronto Raptors",
+    "loser": "Golden State Warriors",
+    "western": "Golden State Warriors",
+    "score": "2-4",
+    "eastern": "Toronto Raptors"
+  },
+  {
+    "year": "2020",
+    "winner": "Los Angeles Lakers",
+    "loser": "Miami Heat",
+    "western": "Los Angeles Lakers",
+    "score": "4-2",
+    "eastern": "Miami Heat"
+  },
+  {
+    "year": "2021",
+    "winner": "Milwaukee Bucks",
+    "loser": "Phoenix Suns",
+    "western": "Phoenix Suns",
+    "score": "2-4",
+    "eastern": "Milwaukee Bucks"
+  },
+  {
+    "year": "2022",
+    "winner": "Golden State Warriors",
+    "loser": "Boston Celtics",
+    "western": "Golden State Warriors",
+    "score": "4-2",
+    "eastern": "Boston Celtics"
+  }
+]
