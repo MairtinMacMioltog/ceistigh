@@ -1,15 +1,16 @@
-import fifaWC from "../data/fifaWC.json" assert { type: "json" };
-import superBowl from "../data/superBowl.json" assert { type: "json" };
-import allIrlFoot from "../data/allIrlFoot.json" assert { type: "json" };
-import allIrlHurl from "../data/allIrlHurl.json" assert { type: "json" };
-import cl from "../data/cl.json" assert { type: "json" };
-import cricket from "../data/cricket.json" assert { type: "json" };
-import rugby from "../data/rugby.json" assert { type: "json" };
-import euros from "../data/euros.json" assert { type: "json" };
-import copa from "../data/copa.json" assert { type: "json" };
-import nba from "../data/nba.json" assert { type: "json" };
-import mlb from "../data/mlb.json" assert { type: "json" };
-import nhl from "../data/nhl.json" assert { type: "json" };
+import fifaWC from "../data/sport/fifaWC.json" assert { type: "json" };
+import superBowl from "../data/sport/superBowl.json" assert { type: "json" };
+import allIrlFoot from "../data/sport/allIrlFoot.json" assert { type: "json" };
+import allIrlHurl from "../data/sport/allIrlHurl.json" assert { type: "json" };
+import cl from "../data/sport/cl.json" assert { type: "json" };
+import cricket from "../data/sport/cricket.json" assert { type: "json" };
+import rugby from "../data/sport/rugby.json" assert { type: "json" };
+import euros from "../data/sport/euros.json" assert { type: "json" };
+import copa from "../data/sport/copa.json" assert { type: "json" };
+import nba from "../data/sport/nba.json" assert { type: "json" };
+import mlb from "../data/sport/mlb.json" assert { type: "json" };
+import nhl from "../data/sport/nhl.json" assert { type: "json" };
+import fd from "../data/drift/fd.json" assert { type: "json" };
 
 import { difference } from "./setOperations.mjs";
 
@@ -55,106 +56,113 @@ function attendance(tournament) {
   return tournament.sort((a, b) => a.attendance - b.attendance);
 }
 
-console.log("------------------------------");
-console.log("--------- WORLD CUP ----------");
-console.log("------------------------------");
-console.log("winner", occurences(fifaWC, ["winner"]));
-console.log("loser", occurences(fifaWC, ["loser"]));
-console.log("finalist", occurences(fifaWC, ["winner", "loser"]));
-console.log("host", occurences(fifaWC, ["country"]));
-console.log("city", occurences(fifaWC, ["city"]));
-console.log("winning hosts", winnerHosts(fifaWC));
-console.log("never won", noWinFinalists(fifaWC));
-console.log("attendance", attendance(fifaWC));
+// console.log("------------------------------");
+// console.log("--------- WORLD CUP ----------");
+// console.log("------------------------------");
+// console.log("winner", occurences(fifaWC, ["winner"]));
+// console.log("loser", occurences(fifaWC, ["loser"]));
+// console.log("finalist", occurences(fifaWC, ["winner", "loser"]));
+// console.log("host", occurences(fifaWC, ["country"]));
+// console.log("city", occurences(fifaWC, ["city"]));
+// console.log("winning hosts", winnerHosts(fifaWC));
+// console.log("never won", noWinFinalists(fifaWC));
+// console.log("attendance", attendance(fifaWC));
+
+// console.log("------------------------------");
+// console.log("--------- SUPER BOWL ---------");
+// console.log("------------------------------");
+// console.log("winner", occurences(superBowl, ["winner"]));
+// console.log("loser", occurences(superBowl, ["loser"]));
+// console.log("finalist", occurences(superBowl, ["winner", "loser"]));
+// console.log("host", occurences(superBowl, ["state"]));
+// console.log("city", occurences(superBowl, ["city"]));
+// console.log("never won", noWinFinalists(superBowl));
+// console.log("attendance", attendance(superBowl));
+
+// console.log("------------------------------");
+// console.log("-------- ALL IRL FOOT --------");
+// console.log("------------------------------");
+// console.log("winner", occurences(allIrlFoot, ["winner"]));
+// console.log("loser", occurences(allIrlFoot, ["loser"]));
+// console.log("finalist", occurences(allIrlFoot, ["winner", "loser"]));
+// console.log("never won", noWinFinalists(allIrlFoot));
+
+// console.log("------------------------------");
+// console.log("-------- ALL IRL HURL --------");
+// console.log("------------------------------");
+// console.log("winner", occurences(allIrlHurl, ["winner"]));
+// console.log("loser", occurences(allIrlHurl, ["loser"]));
+// console.log("finalist", occurences(allIrlHurl, ["winner", "loser"]));
+// console.log("never won", noWinFinalists(allIrlHurl));
+
+// console.log("------------------------------");
+// console.log("------------- CL ------------");
+// console.log("------------------------------");
+// console.log("winner", occurences(cl, ["winner"]));
+// console.log("loser", occurences(cl, ["loser"]));
+// console.log("finalist", occurences(cl, ["winner", "loser"]));
+// console.log("never won", noWinFinalists(cl));
+
+// console.log("------------------------------");
+// console.log("--------- CRICKET WC ---------");
+// console.log("------------------------------");
+// console.log("winner", occurences(cricket, ["winner"]));
+// console.log("loser", occurences(cricket, ["loser"]));
+// console.log("finalist", occurences(cricket, ["winner", "loser"]));
+// console.log("never won", noWinFinalists(cricket));
+
+// console.log("------------------------------");
+// console.log("---------- RUGBY WC ----------");
+// console.log("------------------------------");
+// console.log("winner", occurences(rugby, ["winner"]));
+// console.log("loser", occurences(rugby, ["loser"]));
+// console.log("finalist", occurences(rugby, ["winner", "loser"]));
+// console.log("never won", noWinFinalists(rugby));
+
+// console.log("------------------------------");
+// console.log("----------- EUROS ------------");
+// console.log("------------------------------");
+// console.log("winner", occurences(euros, ["winner"]));
+// console.log("loser", occurences(euros, ["loser"]));
+// console.log("finalist", occurences(euros, ["winner", "loser"]));
+// console.log("never won", noWinFinalists(euros));
+
+// console.log("------------------------------");
+// console.log("----------- COPA ------------");
+// console.log("------------------------------");
+// console.log("winner", occurences(copa, ["winner"]));
+// console.log("loser", occurences(copa, ["loser"]));
+// console.log("finalist", occurences(copa, ["winner", "loser"]));
+// console.log("never won", noWinFinalists(copa));
+// console.log("winning hosts", winnerHosts(copa));
+
+// console.log("------------------------------");
+// console.log("------------ NBA -------------");
+// console.log("------------------------------");
+// console.log("winner", occurences(nba, ["winner"]));
+// console.log("loser", occurences(nba, ["loser"]));
+// console.log("finalist", occurences(nba, ["winner", "loser"]));
+// console.log("never won", noWinFinalists(nba));
+
+// console.log("------------------------------");
+// console.log("------------ MLB -------------");
+// console.log("------------------------------");
+// console.log("winner", occurences(mlb, ["winner"]));
+// console.log("loser", occurences(mlb, ["loser"]));
+// console.log("finalist", occurences(mlb, ["winner", "loser"]));
+// console.log("never won", noWinFinalists(mlb));
+
+// console.log("------------------------------");
+// console.log("------------ NHL -------------");
+// console.log("------------------------------");
+// console.log("winner", occurences(nhl, ["winner"]));
+// console.log("loser", occurences(nhl, ["loser"]));
+// console.log("finalist", occurences(nhl, ["winner", "loser"]));
+// console.log("never won", noWinFinalists(nhl));
+
 
 console.log("------------------------------");
-console.log("--------- SUPER BOWL ---------");
+console.log("------------ FD -------------");
 console.log("------------------------------");
-console.log("winner", occurences(superBowl, ["winner"]));
-console.log("loser", occurences(superBowl, ["loser"]));
-console.log("finalist", occurences(superBowl, ["winner", "loser"]));
-console.log("host", occurences(superBowl, ["state"]));
-console.log("city", occurences(superBowl, ["city"]));
-console.log("never won", noWinFinalists(superBowl));
-console.log("attendance", attendance(superBowl));
-
-console.log("------------------------------");
-console.log("-------- ALL IRL FOOT --------");
-console.log("------------------------------");
-console.log("winner", occurences(allIrlFoot, ["winner"]));
-console.log("loser", occurences(allIrlFoot, ["loser"]));
-console.log("finalist", occurences(allIrlFoot, ["winner", "loser"]));
-console.log("never won", noWinFinalists(allIrlFoot));
-
-console.log("------------------------------");
-console.log("-------- ALL IRL HURL --------");
-console.log("------------------------------");
-console.log("winner", occurences(allIrlHurl, ["winner"]));
-console.log("loser", occurences(allIrlHurl, ["loser"]));
-console.log("finalist", occurences(allIrlHurl, ["winner", "loser"]));
-console.log("never won", noWinFinalists(allIrlHurl));
-
-console.log("------------------------------");
-console.log("------------- CL ------------");
-console.log("------------------------------");
-console.log("winner", occurences(cl, ["winner"]));
-console.log("loser", occurences(cl, ["loser"]));
-console.log("finalist", occurences(cl, ["winner", "loser"]));
-console.log("never won", noWinFinalists(cl));
-
-console.log("------------------------------");
-console.log("--------- CRICKET WC ---------");
-console.log("------------------------------");
-console.log("winner", occurences(cricket, ["winner"]));
-console.log("loser", occurences(cricket, ["loser"]));
-console.log("finalist", occurences(cricket, ["winner", "loser"]));
-console.log("never won", noWinFinalists(cricket));
-
-console.log("------------------------------");
-console.log("---------- RUGBY WC ----------");
-console.log("------------------------------");
-console.log("winner", occurences(rugby, ["winner"]));
-console.log("loser", occurences(rugby, ["loser"]));
-console.log("finalist", occurences(rugby, ["winner", "loser"]));
-console.log("never won", noWinFinalists(rugby));
-
-console.log("------------------------------");
-console.log("----------- EUROS ------------");
-console.log("------------------------------");
-console.log("winner", occurences(euros, ["winner"]));
-console.log("loser", occurences(euros, ["loser"]));
-console.log("finalist", occurences(euros, ["winner", "loser"]));
-console.log("never won", noWinFinalists(euros));
-
-console.log("------------------------------");
-console.log("----------- COPA ------------");
-console.log("------------------------------");
-console.log("winner", occurences(copa, ["winner"]));
-console.log("loser", occurences(copa, ["loser"]));
-console.log("finalist", occurences(copa, ["winner", "loser"]));
-console.log("never won", noWinFinalists(copa));
-console.log("winning hosts", winnerHosts(copa));
-
-console.log("------------------------------");
-console.log("------------ NBA -------------");
-console.log("------------------------------");
-console.log("winner", occurences(nba, ["winner"]));
-console.log("loser", occurences(nba, ["loser"]));
-console.log("finalist", occurences(nba, ["winner", "loser"]));
-console.log("never won", noWinFinalists(nba));
-
-console.log("------------------------------");
-console.log("------------ MLB -------------");
-console.log("------------------------------");
-console.log("winner", occurences(mlb, ["winner"]));
-console.log("loser", occurences(mlb, ["loser"]));
-console.log("finalist", occurences(mlb, ["winner", "loser"]));
-console.log("never won", noWinFinalists(mlb));
-
-console.log("------------------------------");
-console.log("------------ NHL -------------");
-console.log("------------------------------");
-console.log("winner", occurences(nhl, ["winner"]));
-console.log("loser", occurences(nhl, ["loser"]));
-console.log("finalist", occurences(nhl, ["winner", "loser"]));
-console.log("never won", noWinFinalists(nhl));
+console.log("country", occurences(fd, ["country"]));
+console.log("driver", occurences(fd, ["driver"]));

@@ -8,14 +8,6 @@
     "attendance": "7,000"
   },
   {
-    "year": "1888",
-    "winner": "",
-    "w_score": "",
-    "loser": "",
-    "l_score": "",
-    "attendance": ""
-  },
-  {
     "year": "1889",
     "winner": "Tipperary",
     "w_score": "3-6",
@@ -188,7 +180,7 @@
     "winner": "Louth",
     "w_score": "W/O",
     "loser": "Kerry",
-    "l_score": "Scratch[C]",
+    "l_score": "Scratch",
     "attendance": ""
   },
   {
@@ -307,7 +299,7 @@
     "year": "1925",
     "winner": "Galway",
     "w_score": "3-2 (11)",
-    "loser": "",
+    "loser": "Cavan",
     "l_score": "1-2 (5)",
     "attendance": ""
   },

@@ -3,223 +3,223 @@
     "year": 2001,
     "series": "D1GP",
     "driver": "Nobuteru Taniguchi",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2002,
     "series": "D1GP",
     "driver": "Katsuhiro Ueo",
-    "car": "Toyota Sprinter Trueno AE86"
+    "car": { "make": "Toyota", "model": "Sprinter Trueno AE86" }
   },
   {
     "year": 2003,
     "series": "D1GP",
     "driver": "Youichi Imamura",
-    "car": "Mazda RX-7 FD3S"
+    "car": { "make": "Mazda", "model": "RX-7 FD3S" }
   },
   {
     "year": 2004,
     "series": "D1GP",
     "driver": "Ryuji Miki",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2005,
     "series": "D1GP",
     "driver": "Yasuyuki Kazama",
-    "car": "issan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2006,
     "series": "D1GP",
     "driver": "Nobushige Kumakubo",
-    "car": "Subaru Impreza GDB"
+    "car": { "make": "Subaru", "model": "Impreza GDB" }
   },
   {
     "year": 2006,
     "series": "D1SL",
     "driver": "Takashi Hagisako",
-    "car": "Nissan Silvia PS13"
+    "car": { "make": "Nissan", "model": "Silvia PS13" }
   },
   {
     "year": 2007,
     "series": "D1GP",
     "driver": "Masato Kawabata",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2007,
     "series": "D1SL",
     "driver": "Kazuya Matsukawa",
-    "car": "Nissan 180SX"
+    "car": { "make": "Nissan", "model": "180SX" }
   },
   {
     "year": 2008,
     "series": "D1GP",
     "driver": "Daigo Saito",
-    "car": "Toyota Mark II JZX100"
+    "car": { "make": "Toyota", "model": "Mark II JZX100" }
   },
   {
     "year": 2008,
     "series": "D1SL",
     "driver": "Naoto Suenaga",
-    "car": "Nissan Silvia PS13"
+    "car": { "make": "Nissan", "model": "Silvia PS13" }
   },
   {
     "year": 2009,
     "series": "D1GP",
     "driver": "Youichi Imamura",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2009,
     "series": "D1SL",
     "driver": "Naoki Nakamura",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2010,
     "series": "D1GP",
     "driver": "Youichi Imamura",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2010,
     "series": "D1SL",
     "driver": "Naoki Nakamura",
-    "car": "Nissan Silvia S13"
+    "car": { "make": "Nissan", "model": "Silvia S13" }
   },
   {
     "year": 2011,
     "series": "D1GP",
     "driver": "Youichi Imamura",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2011,
     "series": "D1SL",
     "driver": "Seimi Tanaka",
-    "car": "Nissan Silvia S13"
+    "car": { "make": "Nissan", "model": "Silvia S13" }
   },
   {
     "year": 2012,
     "series": "D1GP",
     "driver": "Nobushige Kumakubo",
-    "car": "Nissan Laurel C33"
+    "car": { "make": "Nissan", "model": "Laurel C33" }
   },
   {
     "year": 2012,
     "series": "D1SL",
     "driver": "Masashi Yokoi",
-    "car": "Nissan Silvia S14"
+    "car": { "make": "Nissan", "model": "Silvia S14" }
   },
   {
     "year": 2013,
     "series": "D1GP",
     "driver": "Masato Kawabata",
-    "car": "Nissan 180SX (RPS13)"
+    "car": { "make": "Nissan", "model": "180SX (RPS13)" }
   },
   {
     "year": 2013,
     "series": "D1SL",
     "driver": "Yusuke Kitaoka",
-    "car": "Toyota Chaser JZX100"
+    "car": { "make": "Toyota", "model": "Chaser JZX100" }
   },
   {
     "year": 2014,
     "series": "D1GP",
     "driver": "Kuniaki Takahashi",
-    "car": "Toyota Mark X (GRX130)"
+    "car": { "make": "Toyota", "model": "Mark X (GRX130)" }
   },
   {
     "year": 2014,
     "series": "D1SL",
     "driver": "Naoki Nakamura",
-    "car": "Nissan Silvia S13"
+    "car": { "make": "Nissan", "model": "Silvia S13" }
   },
   {
     "year": 2015,
     "series": "D1GP",
     "driver": "Masato Kawabata",
-    "car": "Nissan GT-R"
+    "car": { "make": "Nissan", "model": "GT-R" }
   },
   {
     "year": 2015,
     "series": "D1SL",
     "driver": "Yusuke Kitaoka",
-    "car": "Toyota Mark II JZX100"
+    "car": { "make": "Toyota", "model": "Mark II JZX100" }
   },
   {
     "year": 2016,
     "series": "D1GP",
     "driver": "Daigo Saito",
-    "car": "Toyota Chaser JZX100"
+    "car": { "make": "Toyota", "model": "Chaser JZX100" }
   },
   {
     "year": 2016,
     "series": "D1SL",
     "driver": "Katsuhiro Ueo",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2017,
     "series": "D1GP",
     "driver": "Hideyuki Fujino",
-    "car": "Nissan 180SX RPS13"
+    "car": { "make": "Nissan", "model": "180SX RPS13" }
   },
   {
     "year": 2018,
     "series": "D1GP",
     "driver": "Masashi Yokoi",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2018,
     "series": "D1LT",
     "driver": "Junya Ishikawa",
-    "car": "Nissan Silvia S14"
+    "car": { "make": "Nissan", "model": "Silvia S14" }
   },
   {
     "year": 2019,
     "series": "D1GP",
     "driver": "Masashi Yokoi",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2019,
     "series": "D1LT",
     "driver": "Kojiro Mekuwa",
-    "car": "Nissan Silvia S13"
+    "car": { "make": "Nissan", "model": "Silvia S13" }
   },
   {
     "year": 2020,
     "series": "D1GP",
     "driver": "Masanori Kohashi",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2020,
     "series": "D1LT",
     "driver": "Kojiro Mekuwa",
-    "car": "Nissan 180SX RPS13"
+    "car": { "make": "Nissan", "model": "180SX RPS13" }
   },
   {
     "year": 2021,
     "series": "D1GP",
     "driver": "Naoki Nakamura",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   },
   {
     "year": 2021,
     "series": "D1LT",
     "driver": "Hiroki Vito",
-    "car": "Nissan Silvia S13"
+    "car": { "make": "Nissan", "model": "Silvia S13" }
   },
   { "year": 2022, "series": "D1GP", "driver": "", "car": "" },
   {
     "year": 2022,
     "series": "D1LT",
     "driver": "Yuki Tano",
-    "car": "Nissan Silvia S15"
+    "car": { "make": "Nissan", "model": "Silvia S15" }
   }
 ]
