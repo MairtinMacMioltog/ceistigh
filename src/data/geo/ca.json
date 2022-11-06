@@ -1,0 +1,82 @@
+[
+  {
+    "state": "Ontario",
+    "date": "July 1, 1867",
+    "area": 1076395,
+    "land": 917741,
+    "water": 158654,
+    "population": 14223942
+  },
+  {
+    "state": "Quebec",
+    "date": "",
+    "area": 185928,
+    "land": 8695659,
+    "water": 1356128,
+    "population": 8501833
+  },
+  {
+    "state": "Nova Scotia",
+    "date": "July 1, 1867",
+    "area": 55284,
+    "land": 53338,
+    "water": 1946,
+    "population": 969383
+  },
+  {
+    "state": "New Brunswick",
+    "date": "",
+    "area": 1458,
+    "land": 812061,
+    "water": 71450,
+    "population": 775610
+  },
+  {
+    "state": "Manitoba",
+    "date": "July 15, 1870",
+    "area": 647797,
+    "land": 553556,
+    "water": 94241,
+    "population": 1342153
+  },
+  {
+    "state": "British Columbia",
+    "date": "",
+    "area": 19549,
+    "land": 5319324,
+    "water": 925186,
+    "population": 5000879
+  },
+  {
+    "state": "Prince Edward Island",
+    "date": "July 1, 1873",
+    "area": 5660,
+    "land": 5660,
+    "water": 0,
+    "population": 154331
+  },
+  {
+    "state": "Saskatchewan",
+    "date": "",
+    "area": 59366,
+    "land": 1194803,
+    "water": 591670,
+    "population": 1132505
+  },
+  {
+    "state": "Alberta",
+    "date": "",
+    "area": 19531,
+    "land": 4543111,
+    "water": 642317,
+    "population": 4262635
+  },
+  {
+    "state": "Newfoundland and Labrador",
+    "date": "March 31, 1949",
+    "area": 405212,
+    "land": 373872,
+    "water": 31340,
+    "population": 510550
+  }
+]

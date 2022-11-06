@@ -1,0 +1,354 @@
+[
+  {
+    "state": "Alaska",
+    "area": 1723337,
+    "land": 1477953,
+    "water": 245384,
+    "population": 732673
+  },
+  {
+    "state": "Texas",
+    "area": 695662,
+    "land": 676587,
+    "water": 19075,
+    "population": 29527941
+  },
+  {
+    "state": "California",
+    "area": 423967,
+    "land": 403466,
+    "water": 20501,
+    "population": 39237836
+  },
+  {
+    "state": "Montana",
+    "area": 380831,
+    "land": 376962,
+    "water": 3869,
+    "population": 1104271
+  },
+  {
+    "state": "New Mexico",
+    "area": 314917,
+    "land": 314161,
+    "water": 757,
+    "population": 2115877
+  },
+  {
+    "state": "Arizona",
+    "area": 295234,
+    "land": 294207,
+    "water": 1026,
+    "population": 7276316
+  },
+  {
+    "state": "Nevada",
+    "area": 286380,
+    "land": 284332,
+    "water": 2048,
+    "population": 3143991
+  },
+  {
+    "state": "Colorado",
+    "area": 269601,
+    "land": 268431,
+    "water": 1170,
+    "population": 5812069
+  },
+  {
+    "state": "Oregon",
+    "area": 254799,
+    "land": 248608,
+    "water": 6191,
+    "population": 4246155
+  },
+  { "state": "Wyoming", "area": 253335, "land": 251470, "water": 1864 },
+  {
+    "state": "Michigan",
+    "area": 250487,
+    "land": 146435,
+    "water": 104052,
+    "population": 10050811
+  },
+  {
+    "state": "Minnesota",
+    "area": 225163,
+    "land": 206232,
+    "water": 18930,
+    "population": 5707390
+  },
+  {
+    "state": "Utah",
+    "area": 219882,
+    "land": 212818,
+    "water": 7064,
+    "population": 3322389
+  },
+  {
+    "state": "Idaho",
+    "area": 216443,
+    "land": 214045,
+    "water": 2398,
+    "population": 1900923
+  },
+  {
+    "state": "Kansas",
+    "area": 213100,
+    "land": 211754,
+    "water": 1346,
+    "population": 2934582
+  },
+  {
+    "state": "Nebraska",
+    "area": 200330,
+    "land": 198974,
+    "water": 1356,
+    "population": 1963692
+  },
+  {
+    "state": "South Dakota",
+    "area": 199729,
+    "land": 196350,
+    "water": 3379,
+    "population": 895376
+  },
+  {
+    "state": "Washington",
+    "area": 184661,
+    "land": 172119,
+    "water": 12542,
+    "population": 7738692
+  },
+  {
+    "state": "North Dakota",
+    "area": 183108,
+    "land": 178711,
+    "water": 4397,
+    "population": 774948
+  },
+  {
+    "state": "Oklahoma",
+    "area": 181037,
+    "land": 177660,
+    "water": 3377,
+    "population": 3986639
+  },
+  {
+    "state": "Missouri",
+    "area": 180540,
+    "land": 178040,
+    "water": 2501,
+    "population": 6168187
+  },
+  {
+    "state": "Florida",
+    "area": 170312,
+    "land": 138887,
+    "water": 31424,
+    "population": 21781128
+  },
+  {
+    "state": "Wisconsin",
+    "area": 169635,
+    "land": 140268,
+    "water": 29367,
+    "population": 5895908
+  },
+  {
+    "state": "Georgia",
+    "area": 153910,
+    "land": 148959,
+    "water": 4951,
+    "population": 10799566
+  },
+  {
+    "state": "Illinois",
+    "area": 149995,
+    "land": 143793,
+    "water": 6202,
+    "population": 12671469
+  },
+  {
+    "state": "Iowa",
+    "area": 145746,
+    "land": 144669,
+    "water": 1077,
+    "population": 3193079
+  },
+  {
+    "state": "New York",
+    "area": 141297,
+    "land": 122057,
+    "water": 19240,
+    "population": 19835913
+  },
+  {
+    "state": "North Carolina",
+    "area": 139391,
+    "land": 125920,
+    "water": 13471,
+    "population": 10551162
+  },
+  {
+    "state": "Arkansas",
+    "area": 137732,
+    "land": 134771,
+    "water": 2961,
+    "population": 3025891
+  },
+  {
+    "state": "Alabama",
+    "area": 135767,
+    "land": 131171,
+    "water": 4597,
+    "population": 5039877
+  },
+  {
+    "state": "Louisiana",
+    "area": 135659,
+    "land": 111898,
+    "water": 23761,
+    "population": 4624047
+  },
+  {
+    "state": "Mississippi",
+    "area": 125438,
+    "land": 121531,
+    "water": 3907,
+    "population": 2949965
+  },
+  {
+    "state": "Pennsylvania",
+    "area": 119280,
+    "land": 115883,
+    "water": 3397,
+    "population": 12964056
+  },
+  {
+    "state": "Ohio",
+    "area": 116098,
+    "land": 105829,
+    "water": 10269,
+    "population": 11780017
+  },
+  {
+    "state": "Virginia",
+    "area": 110787,
+    "land": 102279,
+    "water": 8508,
+    "population": 8642274
+  },
+  {
+    "state": "Tennessee",
+    "area": 109153,
+    "land": 106798,
+    "water": 2355,
+    "population": 6975218
+  },
+  {
+    "state": "Kentucky",
+    "area": 104656,
+    "land": 102269,
+    "water": 2387,
+    "population": 4509394
+  },
+  {
+    "state": "Indiana",
+    "area": 94326,
+    "land": 92789,
+    "water": 1537,
+    "population": 6805985
+  },
+  {
+    "state": "Maine",
+    "area": 91633,
+    "land": 79883,
+    "water": 11750,
+    "population": 1372247
+  },
+  {
+    "state": "South Carolina",
+    "area": 82933,
+    "land": 77857,
+    "water": 5076,
+    "population": 5190705
+  },
+  {
+    "state": "West Virginia",
+    "area": 62756,
+    "land": 62259,
+    "water": 497,
+    "population": 1782959
+  },
+  {
+    "state": "Maryland",
+    "area": 32131,
+    "land": 25142,
+    "water": 6990,
+    "population": 6165129
+  },
+  {
+    "state": "Hawaii",
+    "area": 28313,
+    "land": 16635,
+    "water": 11678,
+    "population": 1441553
+  },
+  {
+    "state": "Massachusetts",
+    "area": 27336,
+    "land": 20202,
+    "water": 7134,
+    "population": 6984723
+  },
+  { "state": "Vermont", "area": 24906, "land": 23871, "water": 1035 },
+  {
+    "state": "New Hampshire",
+    "area": 24214,
+    "land": 23187,
+    "water": 1027,
+    "population": 1388992
+  },
+  {
+    "state": "New Jersey",
+    "area": 22591,
+    "land": 19047,
+    "water": 3544,
+    "population": 9267130
+  },
+  {
+    "state": "Connecticut",
+    "area": 14357,
+    "land": 12542,
+    "water": 1816,
+    "population": 3605597
+  },
+  {
+    "state": "Delaware",
+    "area": 6446,
+    "land": 5047,
+    "water": 1399,
+    "population": 1003384
+  },
+  {
+    "state": "Rhode Island",
+    "area": 4001,
+    "land": 2678,
+    "water": 1324,
+    "population": 1095610
+  },
+  { "state": "District of Columbia", "area": 177, "land": 158, "water": 19 },
+  {
+    "state": "Puerto Rico",
+    "area": 13791,
+    "land": 8868,
+    "water": 4924,
+    "population": 3263584
+  },
+  {
+    "state": "Northern Mariana Islands",
+    "area": 5117,
+    "land": 472,
+    "water": 4644
+  }
+]
