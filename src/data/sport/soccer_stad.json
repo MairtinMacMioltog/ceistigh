@@ -1,0 +1,326 @@
+[
+  {
+    "stadium": "Rungrado 1st of May Stadium",
+    "seating": 114000,
+    "city": "Pyongyang",
+    "country": "North Korea"
+  },
+  {
+    "stadium": "Azadi Stadium",
+    "seating": 100116,
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  {
+    "stadium": "Melbourne Cricket Ground",
+    "seating": 100024,
+    "city": "Melbourne, Victoria",
+    "country": "Australia"
+  },
+  {
+    "stadium": "Camp Nou",
+    "seating": 99354,
+    "city": "Barcelona, Catalonia",
+    "country": "Spain"
+  },
+  {
+    "stadium": "FNB Stadium",
+    "seating": 94736,
+    "city": "Johannesburg, Gauteng",
+    "country": "South Africa"
+  },
+  {
+    "stadium": "Rose Bowl",
+    "seating": 92800,
+    "city": "Pasadena, California",
+    "country": "United States"
+  },
+  {
+    "stadium": "Wembley Stadium",
+    "seating": 91000,
+    "city": "London",
+    "country": "England"
+  },
+  {
+    "stadium": "Estadio Azteca",
+    "seating": 87523,
+    "city": "Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "stadium": "Bukit Jalil National Stadium",
+    "seating": 87411,
+    "city": "Kuala Lumpur",
+    "country": "Malaysia"
+  },
+  {
+    "stadium": "Lusail Iconic Stadium",
+    "seating": 86000,
+    "city": "Lusail",
+    "country": "Qatar"
+  },
+  {
+    "stadium": "Borg El Arab Stadium",
+    "seating": 86000,
+    "city": "Alexandria",
+    "country": "Egypt"
+  },
+  {
+    "stadium": "Salt Lake Stadium",
+    "seating": 85000,
+    "city": "Kolkata",
+    "country": "India"
+  },
+  {
+    "stadium": "Stadium Australia",
+    "seating": 83500,
+    "city": "Sydney, New South Wales",
+    "country": "Australia"
+  },
+  {
+    "stadium": "MetLife Stadium",
+    "seating": 82500,
+    "city": "East Rutherford, New Jersey",
+    "country": "United States"
+  },
+  {
+    "stadium": "Croke Park",
+    "seating": 82500,
+    "city": "Dublin",
+    "country": "Ireland"
+  },
+  {
+    "stadium": "Jakarta International Stadium",
+    "seating": 82000,
+    "city": "Jakarta",
+    "country": "Indonesia"
+  },
+  {
+    "stadium": "FedExField",
+    "seating": 82000,
+    "city": "Landover, Maryland",
+    "country": "United States"
+  },
+  {
+    "stadium": "Signal Iduna Park",
+    "seating": 81365,
+    "city": "Dortmund",
+    "country": "Germany"
+  },
+  {
+    "stadium": "Stade de France",
+    "seating": 81338,
+    "city": "Saint-Denis",
+    "country": "France"
+  },
+  {
+    "stadium": "Santiago Bernabéu Stadium",
+    "seating": 81044,
+    "city": "Madrid",
+    "country": ""
+  },
+  {
+    "stadium": "Luzhniki Stadium",
+    "seating": 81000,
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  {
+    "stadium": "Shah Alam Stadium",
+    "seating": 80372,
+    "city": "Shah Alam, Selangor",
+    "country": "Malaysia"
+  },
+  {
+    "stadium": "Estadio Monumental",
+    "seating": 80093,
+    "city": "Lima",
+    "country": "Peru"
+  },
+  {
+    "stadium": "Stadio Giuseppe Meazza (San Siro)",
+    "seating": 80018,
+    "city": "Milan, Lombardy",
+    "country": "Italy"
+  },
+  {
+    "stadium": "Guangdong Olympic Stadium",
+    "seating": 80012,
+    "city": "Guangzhou, Guangdong",
+    "country": "China"
+  },
+  {
+    "stadium": "AT&T Stadium",
+    "seating": 80000,
+    "city": "Arlington, Texas",
+    "country": "United States"
+  },
+  {
+    "stadium": "Stade des Martyrs",
+    "seating": 80000,
+    "city": "Kinshasa",
+    "country": "DR Congo"
+  },
+  {
+    "stadium": "National Sports Stadium",
+    "seating": 80000,
+    "city": "Harare",
+    "country": "Zimbabwe"
+  },
+  {
+    "stadium": "Beijing National Stadium",
+    "seating": 80000,
+    "city": "Beijing",
+    "country": "China"
+  },
+  {
+    "stadium": "Maracanã Stadium",
+    "seating": 78838,
+    "city": "Rio de Janeiro, Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "stadium": "Los Angeles Memorial Coliseum",
+    "seating": 78467,
+    "city": "Los Angeles, California",
+    "country": "United States"
+  },
+  {
+    "stadium": "Gelora Bung Karno Main Stadium",
+    "seating": 77193,
+    "city": "Jakarta",
+    "country": "Indonesia"
+  },
+  {
+    "stadium": "Caesar's Superdome",
+    "seating": 76468,
+    "city": "New Orleans, Louisiana",
+    "country": "United States"
+  },
+  {
+    "stadium": "Atatürk Olympic Stadium",
+    "seating": 76092,
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "stadium": "Old Trafford",
+    "seating": 76000,
+    "city": "Manchester",
+    "country": "England"
+  },
+  {
+    "stadium": "Allianz Arena",
+    "seating": 75024,
+    "city": "Munich",
+    "country": "Germany"
+  },
+  {
+    "stadium": "Naghsh-e-Jahan Stadium",
+    "seating": 75000,
+    "city": "Isfahan",
+    "country": "Iran"
+  },
+  {
+    "stadium": "Morodok Techo National Stadium",
+    "seating": 75000,
+    "city": "Phnom Penh",
+    "country": "Cambodia"
+  },
+  {
+    "stadium": "Aleppo International Stadium",
+    "seating": 75000,
+    "city": "Aleppo",
+    "country": "Syria"
+  },
+  {
+    "stadium": "Bank of America Stadium",
+    "seating": 74867,
+    "city": "Charlotte, North Carolina",
+    "country": ""
+  },
+  {
+    "stadium": "Millennium Stadium",
+    "seating": 74500,
+    "city": "Cardiff",
+    "country": "Wales"
+  },
+  {
+    "stadium": "Olympiastadion",
+    "seating": 74475,
+    "city": "Berlin",
+    "country": ""
+  },
+  {
+    "stadium": "Cairo International Stadium",
+    "seating": 74100,
+    "city": "Cairo",
+    "country": ""
+  },
+  {
+    "stadium": "Stadio Olimpico",
+    "seating": 72698,
+    "city": "Rome, Lazio",
+    "country": ""
+  },
+  {
+    "stadium": "International Stadium Yokohama",
+    "seating": 72327,
+    "city": "Yokohama, Kanagawa",
+    "country": "Japan"
+  },
+  {
+    "stadium": "NRG Stadium",
+    "seating": 72220,
+    "city": "Houston, Texas",
+    "country": ""
+  },
+  {
+    "stadium": "Estádio do Morumbi",
+    "seating": 72039,
+    "city": "São Paulo, São Paulo",
+    "country": ""
+  },
+  {
+    "stadium": "Mercedes-Benz Stadium",
+    "seating": 71000,
+    "city": "Atlanta, Georgia",
+    "country": ""
+  },
+  {
+    "stadium": "Estadio Monumental Antonio Vespucio Liberti",
+    "seating": 70074,
+    "city": "Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "stadium": "Olimpiyskiy National Sports Complex",
+    "seating": 70000,
+    "city": "Kyiv",
+    "country": "Ukraine"
+  },
+  {
+    "stadium": "Phnom Penh Olympic Stadium",
+    "seating": 70000,
+    "city": "Phnom Penh",
+    "country": "Cambodia"
+  },
+  {
+    "stadium": "Seoul Olympic Stadium",
+    "seating": 69950,
+    "city": "Seoul",
+    "country": "South Korea"
+  },
+  {
+    "stadium": "Baku Olympic Stadium",
+    "seating": 69870,
+    "city": "Baku",
+    "country": "Azerbaijan"
+  },
+  {
+    "stadium": "Athens Olympic Stadium (Spyros Louis)",
+    "seating": 69618,
+    "city": "Athens",
+    "country": "Greece"
+  }
+]

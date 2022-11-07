@@ -11,6 +11,7 @@ import nba from "../data/sport/nba.json" assert { type: "json" };
 import mlb from "../data/sport/mlb.json" assert { type: "json" };
 import nhl from "../data/sport/nhl.json" assert { type: "json" };
 import fd from "../data/drift/fd.json" assert { type: "json" };
+import fa from "../data/sport/fa.json" assert { type: "json" };
 
 import { difference } from "./setOperations.mjs";
 
@@ -162,7 +163,9 @@ function attendance(tournament) {
 
 
 console.log("------------------------------");
-console.log("------------ FD -------------");
+console.log("------------ FA -------------");
 console.log("------------------------------");
-console.log("country", occurences(fd, ["country"]));
-console.log("driver", occurences(fd, ["driver"]));
+console.log("winner", occurences(fa, ["winner"]));
+console.log("loser", occurences(fa, ["loser"]));
+console.log("finalist", occurences(fa, ["winner", "loser"]));
+console.log("never won", noWinFinalists(fa));

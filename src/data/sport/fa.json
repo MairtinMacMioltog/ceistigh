@@ -1,0 +1,842 @@
+[
+  {
+    "year": "1871-72",
+    "winner": "Wanderers",
+    "score": "1-0",
+    "loser": "Royal Engineers"
+  },
+  {
+    "year": "1872-73",
+    "winner": "Wanderers",
+    "score": "2-0",
+    "loser": "Oxford University"
+  },
+  {
+    "year": "1873-74",
+    "winner": "Oxford University",
+    "score": "2-0",
+    "loser": "Royal Engineers"
+  },
+  {
+    "year": "1874-75",
+    "winner": "Royal Engineers",
+    "score": "2-0",
+    "loser": "Old Etonians"
+  },
+  {
+    "year": "1875-76",
+    "winner": "Wanderers",
+    "score": "3-0",
+    "loser": "Old Etonians"
+  },
+  {
+    "year": "1876-77",
+    "winner": "Wanderers",
+    "score": "2-1",
+    "loser": "Oxford University"
+  },
+  {
+    "year": "1877-78",
+    "winner": "Wanderers",
+    "score": "3-1",
+    "loser": "Royal Engineers"
+  },
+  {
+    "year": "1878-79",
+    "winner": "Old Etonians",
+    "score": "1-0",
+    "loser": "Clapham Rovers"
+  },
+  {
+    "year": "1879-80",
+    "winner": "Clapham Rovers",
+    "score": "1-0",
+    "loser": "Oxford University"
+  },
+  {
+    "year": "1880-81",
+    "winner": "Old Carthusians",
+    "score": "3-0",
+    "loser": "Old Etonians"
+  },
+  {
+    "year": "1881-82",
+    "winner": "Old Etonians",
+    "score": "1-0",
+    "loser": "Blackburn Rovers"
+  },
+  {
+    "year": "1882-83",
+    "winner": "Blackburn Olympic",
+    "score": "* 2-1 *",
+    "loser": "Old Etonians"
+  },
+  {
+    "year": "1883-84",
+    "winner": "Blackburn Rovers",
+    "score": "2-1",
+    "loser": "Queen's Park"
+  },
+  {
+    "year": "1884-85",
+    "winner": "Blackburn Rovers",
+    "score": "2-0",
+    "loser": "Queen's Park"
+  },
+  {
+    "year": "1885-86",
+    "winner": "Blackburn Rovers",
+    "score": "2-0",
+    "loser": "West Bromwich Albion"
+  },
+  {
+    "year": "1886-87",
+    "winner": "Aston Villa",
+    "score": "2-0",
+    "loser": "West Bromwich Albion"
+  },
+  {
+    "year": "1887-88",
+    "winner": "West Bromwich Albion",
+    "score": "2-1",
+    "loser": "Preston North End"
+  },
+  {
+    "year": "1888-89",
+    "winner": "Preston North End",
+    "score": "3-0",
+    "loser": "Wolverhampton Wanderers"
+  },
+  {
+    "year": "1889-90",
+    "winner": "Blackburn Rovers",
+    "score": "6-1",
+    "loser": "The Wednesday"
+  },
+  {
+    "year": "1890-91",
+    "winner": "Blackburn Rovers",
+    "score": "3-1",
+    "loser": "Notts County"
+  },
+  {
+    "year": "1891-92",
+    "winner": "West Bromwich Albion",
+    "score": "3-0",
+    "loser": "Aston Villa"
+  },
+  {
+    "year": "1892-93",
+    "winner": "Wolverhampton Wanderers",
+    "score": "1-0",
+    "loser": "Everton"
+  },
+  {
+    "year": "1893-94",
+    "winner": "Notts County",
+    "score": "4-1",
+    "loser": "Bolton Wanderers"
+  },
+  {
+    "year": "1894-95",
+    "winner": "Aston Villa",
+    "score": "1-0",
+    "loser": "West Bromwich Albion"
+  },
+  {
+    "year": "1895-96",
+    "winner": "The Wednesday",
+    "score": "2-1",
+    "loser": "Wolverhampton Wanderers"
+  },
+  {
+    "year": "1896-97",
+    "winner": "Aston Villa",
+    "score": "3-2",
+    "loser": "Everton"
+  },
+  {
+    "year": "1897-98",
+    "winner": "Nottingham Forest",
+    "score": "3-1",
+    "loser": "Derby County"
+  },
+  {
+    "year": "1898-99",
+    "winner": "Sheffield United",
+    "score": "4-1",
+    "loser": "Derby County"
+  },
+  {
+    "year": "1899-1900",
+    "winner": "Bury",
+    "score": "4-0",
+    "loser": "Southampton"
+  },
+  {
+    "year": "1900-01",
+    "winner": "Tottenham Hotspur",
+    "score": "3-1",
+    "loser": "Sheffield United"
+  },
+  {
+    "year": "1901-02",
+    "winner": "Sheffield United",
+    "score": "2-1",
+    "loser": "Southampton"
+  },
+  {
+    "year": "1902-03",
+    "winner": "Bury",
+    "score": "6-0",
+    "loser": "Derby County"
+  },
+  {
+    "year": "1903-04",
+    "winner": "Manchester City",
+    "score": "1-0",
+    "loser": "Bolton Wanderers"
+  },
+  {
+    "year": "1904-05",
+    "winner": "Aston Villa",
+    "score": "2-0",
+    "loser": "Newcastle United"
+  },
+  {
+    "year": "1905-06",
+    "winner": "Everton",
+    "score": "1-0",
+    "loser": "Newcastle United"
+  },
+  {
+    "year": "1906-07",
+    "winner": "The Wednesday",
+    "score": "2-1",
+    "loser": "Everton"
+  },
+  {
+    "year": "1907-08",
+    "winner": "Wolverhampton Wanderers",
+    "score": "3-1",
+    "loser": "Newcastle United"
+  },
+  {
+    "year": "1908-09",
+    "winner": "Manchester United",
+    "score": "1-0",
+    "loser": "Bristol City"
+  },
+  {
+    "year": "1909-10",
+    "winner": "Newcastle United",
+    "score": "2-0",
+    "loser": "Barnsley"
+  },
+  {
+    "year": "1910-11",
+    "winner": "Bradford City",
+    "score": "1-0",
+    "loser": "Newcastle United"
+  },
+  {
+    "year": "1911-12",
+    "winner": "Barnsley",
+    "score": "1-0",
+    "loser": "West Bromwich Albion"
+  },
+  {
+    "year": "1912-13",
+    "winner": "Aston Villa",
+    "score": "1-0",
+    "loser": "Sunderland"
+  },
+  {
+    "year": "1913-14",
+    "winner": "Burnley",
+    "score": "1-0",
+    "loser": "Liverpool"
+  },
+  {
+    "year": "1914-15",
+    "winner": "Sheffield United",
+    "score": "3-0",
+    "loser": "Chelsea"
+  },
+  {
+    "year": "1919-20",
+    "winner": "Aston Villa",
+    "score": "1-0",
+    "loser": "Huddersfield Town"
+  },
+  {
+    "year": "1920-21",
+    "winner": "Tottenham Hotspur",
+    "score": "1-0",
+    "loser": "Wolverhampton Wanderers"
+  },
+  {
+    "year": "1921-22",
+    "winner": "Huddersfield Town",
+    "score": "1-0",
+    "loser": "Preston North End"
+  },
+  {
+    "year": "1922-23",
+    "winner": "Bolton Wanderers",
+    "score": "2-0",
+    "loser": "West Ham United"
+  },
+  {
+    "year": "1923-24",
+    "winner": "Newcastle United",
+    "score": "2-0",
+    "loser": "Aston Villa"
+  },
+  {
+    "year": "1924-25",
+    "winner": "Sheffield United",
+    "score": "1-0",
+    "loser": "Cardiff City"
+  },
+  {
+    "year": "1925-26",
+    "winner": "Bolton Wanderers",
+    "score": "1-0",
+    "loser": "Manchester City"
+  },
+  {
+    "year": "1926-27",
+    "winner": "Cardiff City",
+    "score": "1-0",
+    "loser": "Arsenal"
+  },
+  {
+    "year": "1927-28",
+    "winner": "Blackburn Rovers",
+    "score": "3-1",
+    "loser": "Huddersfield Town"
+  },
+  {
+    "year": "1928-29",
+    "winner": "Bolton Wanderers",
+    "score": "2-0",
+    "loser": "Portsmouth"
+  },
+  {
+    "year": "1929-30",
+    "winner": "Arsenal",
+    "score": "2-0",
+    "loser": "Huddersfield Town"
+  },
+  {
+    "year": "1930-31",
+    "winner": "West Bromwich Albion",
+    "score": "2-1",
+    "loser": "Birmingham"
+  },
+  {
+    "year": "1931-32",
+    "winner": "Newcastle United",
+    "score": "2-1",
+    "loser": "Arsenal"
+  },
+  {
+    "year": "1932-33",
+    "winner": "Everton",
+    "score": "3-0",
+    "loser": "Manchester City"
+  },
+  {
+    "year": "1933-34",
+    "winner": "Manchester City",
+    "score": "2-1",
+    "loser": "Portsmouth"
+  },
+  {
+    "year": "1934-35",
+    "winner": "Sheffield Wednesday",
+    "score": "4-2",
+    "loser": "West Bromwich Albion"
+  },
+  {
+    "year": "1935-36",
+    "winner": "Arsenal",
+    "score": "1-0",
+    "loser": "Sheffield United"
+  },
+  {
+    "year": "1936-37",
+    "winner": "Sunderland",
+    "score": "3-1",
+    "loser": "Preston North End"
+  },
+  {
+    "year": "1937-38",
+    "winner": "Preston North End",
+    "score": "-0",
+    "loser": "Huddersfield Town"
+  },
+  {
+    "year": "1938-39",
+    "winner": "Portsmouth",
+    "score": "4-1",
+    "loser": "Wolverhampton Wanderers"
+  },
+  {
+    "year": "1945-46",
+    "winner": "Derby County",
+    "score": "4-1",
+    "loser": "Charlton Athletic"
+  },
+  {
+    "year": "1946-47",
+    "winner": "Charlton Athletic",
+    "score": "1-0",
+    "loser": "Burnley"
+  },
+  {
+    "year": "1947-48",
+    "winner": "Manchester United",
+    "score": "4-2",
+    "loser": "Blackpool"
+  },
+  {
+    "year": "1948-49",
+    "winner": "Wolverhampton Wanderers",
+    "score": "3-1",
+    "loser": "Leicester City"
+  },
+  {
+    "year": "1949-50",
+    "winner": "Arsenal",
+    "score": "2-0",
+    "loser": "Liverpool"
+  },
+  {
+    "year": "1950-51",
+    "winner": "Newcastle United",
+    "score": "2-0",
+    "loser": "Blackpool"
+  },
+  {
+    "year": "1951-52",
+    "winner": "Newcastle United",
+    "score": "1-0",
+    "loser": "Arsenal"
+  },
+  {
+    "year": "1952-53",
+    "winner": "Blackpool",
+    "score": "4-3",
+    "loser": "Bolton Wanderers"
+  },
+  {
+    "year": "1953-54",
+    "winner": "West Bromwich Albion",
+    "score": "3-2",
+    "loser": "Preston North End"
+  },
+  {
+    "year": "1954-55",
+    "winner": "Newcastle United",
+    "score": "3-1",
+    "loser": "Manchester City"
+  },
+  {
+    "year": "1955-56",
+    "winner": "Manchester City",
+    "score": "3-1",
+    "loser": "Birmingham City"
+  },
+  {
+    "year": "1956-57",
+    "winner": "Aston Villa",
+    "score": "2-1",
+    "loser": "Manchester United"
+  },
+  {
+    "year": "1957-58",
+    "winner": "Bolton Wanderers",
+    "score": "2-0",
+    "loser": "Manchester United"
+  },
+  {
+    "year": "1958-59",
+    "winner": "Nottingham Forest",
+    "score": "2-1",
+    "loser": "Luton Town"
+  },
+  {
+    "year": "1959-60",
+    "winner": "Wolverhampton Wanderers",
+    "score": "3-0",
+    "loser": "Blackburn Rovers"
+  },
+  {
+    "year": "1960-61",
+    "winner": "Tottenham Hotspur",
+    "score": "2-0",
+    "loser": "Leicester City"
+  },
+  {
+    "year": "1961-62",
+    "winner": "Tottenham Hotspur",
+    "score": "3-1",
+    "loser": "Burnley"
+  },
+  {
+    "year": "1962-63",
+    "winner": "Manchester United",
+    "score": "3-1",
+    "loser": "Leicester City"
+  },
+  {
+    "year": "1963-64",
+    "winner": "West Ham United",
+    "score": "3-2",
+    "loser": "Preston North End"
+  },
+  {
+    "year": "1964-65",
+    "winner": "Liverpool",
+    "score": "2-1",
+    "loser": "Leeds United"
+  },
+  {
+    "year": "1965-66",
+    "winner": "Everton",
+    "score": "3-2",
+    "loser": "Sheffield Wednesday"
+  },
+  {
+    "year": "1966-67",
+    "winner": "Tottenham Hotspur",
+    "score": "2-1",
+    "loser": "Chelsea"
+  },
+  {
+    "year": "1967-68",
+    "winner": "West Bromwich Albion",
+    "score": "1-0",
+    "loser": "Everton"
+  },
+  {
+    "year": "1968-69",
+    "winner": "Manchester City",
+    "score": "1-0",
+    "loser": "Leicester City"
+  },
+  {
+    "year": "1969-70",
+    "winner": "Chelsea",
+    "score": "2-1",
+    "loser": "Leeds United"
+  },
+  {
+    "year": "1970-71",
+    "winner": "Arsenal",
+    "score": "2-1",
+    "loser": "Liverpool"
+  },
+  {
+    "year": "1971-72",
+    "winner": "Leeds United",
+    "score": "1-0",
+    "loser": "Arsenal"
+  },
+  {
+    "year": "1972-73",
+    "winner": "Sunderland",
+    "score": "1-0",
+    "loser": "Leeds United"
+  },
+  {
+    "year": "1973-74",
+    "winner": "Liverpool",
+    "score": "3-0",
+    "loser": "Newcastle United"
+  },
+  {
+    "year": "1974-75",
+    "winner": "West Ham United",
+    "score": "2-0",
+    "loser": "Fulham"
+  },
+  {
+    "year": "1975-76",
+    "winner": "Southampton",
+    "score": "1-0",
+    "loser": "Manchester United"
+  },
+  {
+    "year": "1976-77",
+    "winner": "Manchester United",
+    "score": "2-1",
+    "loser": "Liverpool"
+  },
+  {
+    "year": "1977-78",
+    "winner": "Ipswich Town",
+    "score": "1-0",
+    "loser": "Arsenal"
+  },
+  {
+    "year": "1978-79",
+    "winner": "Arsenal",
+    "score": "3-2",
+    "loser": "Manchester United"
+  },
+  {
+    "year": "1979-80",
+    "winner": "West Ham United",
+    "score": "1-0",
+    "loser": "Arsenal"
+  },
+  {
+    "year": "1980-81",
+    "winner": "Tottenham Hotspur",
+    "score": "3-2",
+    "loser": "Manchester City"
+  },
+  {
+    "year": "1981-82",
+    "winner": "Tottenham Hotspur",
+    "score": "1-0",
+    "loser": "Queens Park Rangers"
+  },
+  {
+    "year": "1982-83",
+    "winner": "Manchester United",
+    "score": "4-0",
+    "loser": "Brighton & Hove Albion"
+  },
+  {
+    "year": "1983-84",
+    "winner": "Everton",
+    "score": "2-0",
+    "loser": "Watford"
+  },
+  {
+    "year": "1984-85",
+    "winner": "Manchester United",
+    "score": "1-0",
+    "loser": "Everton"
+  },
+  {
+    "year": "1985-86",
+    "winner": "Liverpool",
+    "score": "3-1",
+    "loser": "Everton"
+  },
+  {
+    "year": "1986-87",
+    "winner": "Coventry City",
+    "score": "3-2",
+    "loser": "Tottenham Hotspur"
+  },
+  {
+    "year": "1987-88",
+    "winner": "Wimbledon",
+    "score": "1-0",
+    "loser": "Liverpool"
+  },
+  {
+    "year": "1988-89",
+    "winner": "Liverpool",
+    "score": "3-2",
+    "loser": "Everton"
+  },
+  {
+    "year": "1989-90",
+    "winner": "Manchester United",
+    "score": "1-0",
+    "loser": "Crystal Palace"
+  },
+  {
+    "year": "1990-91",
+    "winner": "Tottenham Hotspur",
+    "score": "2-1",
+    "loser": "Nottingham Forest"
+  },
+  {
+    "year": "1991-92",
+    "winner": "Liverpool",
+    "score": "2-0",
+    "loser": "Sunderland"
+  },
+  {
+    "year": "1992-93",
+    "winner": "Arsenal",
+    "score": "2-1",
+    "loser": "Sheffield Wednesday"
+  },
+  {
+    "year": "1993-94",
+    "winner": "Manchester United",
+    "score": "4-0",
+    "loser": "Chelsea"
+  },
+  {
+    "year": "1994-95",
+    "winner": "Everton",
+    "score": "1-0",
+    "loser": "Manchester United"
+  },
+  {
+    "year": "1995-96",
+    "winner": "Manchester United",
+    "score": "1-0",
+    "loser": "Liverpool"
+  },
+  {
+    "year": "1996-97",
+    "winner": "Chelsea",
+    "score": "2-0",
+    "loser": "Middlesbrough"
+  },
+  {
+    "year": "1997-98",
+    "winner": "Arsenal",
+    "score": "2-0",
+    "loser": "Newcastle United"
+  },
+  {
+    "year": "1998-99",
+    "winner": "Manchester United",
+    "score": "2-0",
+    "loser": "Newcastle United"
+  },
+  {
+    "year": "1999-2000",
+    "winner": "Chelsea",
+    "score": "1-0",
+    "loser": "Aston Villa"
+  },
+  {
+    "year": "2000-01",
+    "winner": "Liverpool",
+    "score": "2-1",
+    "loser": "Arsenal"
+  },
+  {
+    "year": "2001-02",
+    "winner": "Arsenal",
+    "score": "2-0",
+    "loser": "Chelsea"
+  },
+  {
+    "year": "2002-03",
+    "winner": "Arsenal",
+    "score": "1-0",
+    "loser": "Southampton"
+  },
+  {
+    "year": "2003-04",
+    "winner": "Manchester United",
+    "score": "3-0",
+    "loser": "Millwall"
+  },
+  {
+    "year": "2004-05",
+    "winner": "Arsenal",
+    "score": "0-0",
+    "loser": "Manchester United"
+  },
+  {
+    "year": "2005-06",
+    "winner": "Liverpool",
+    "score": "3-3",
+    "loser": "West Ham United"
+  },
+  {
+    "year": "2006-07",
+    "winner": "Chelsea",
+    "score": "1-0",
+    "loser": "Manchester United"
+  },
+  {
+    "year": "2007-08",
+    "winner": "Portsmouth",
+    "score": "1-0",
+    "loser": "Cardiff City"
+  },
+  {
+    "year": "2008-09",
+    "winner": "Chelsea",
+    "score": "2-1",
+    "loser": "Everton"
+  },
+  {
+    "year": "2009-10",
+    "winner": "Chelsea",
+    "score": "1-0",
+    "loser": "Portsmouth"
+  },
+  {
+    "year": "2010-11",
+    "winner": "Manchester City",
+    "score": "1-0",
+    "loser": "Stoke City"
+  },
+  {
+    "year": "2011-12",
+    "winner": "Chelsea",
+    "score": "2-1",
+    "loser": "Liverpool"
+  },
+  {
+    "year": "2012-13",
+    "winner": "Wigan Athletic",
+    "score": "1-0",
+    "loser": "Manchester City"
+  },
+  {
+    "year": "2013-14",
+    "winner": "Arsenal",
+    "score": "3-2",
+    "loser": "Hull City"
+  },
+  {
+    "year": "2014-15",
+    "winner": "Arsenal",
+    "score": "4-0",
+    "loser": "Aston Villa"
+  },
+  {
+    "year": "2015-16",
+    "winner": "Manchester United",
+    "score": "2-1",
+    "loser": "Crystal Palace"
+  },
+  {
+    "year": "2016-17",
+    "winner": "Arsenal",
+    "score": "2-1",
+    "loser": "Chelsea"
+  },
+  {
+    "year": "2017-18",
+    "winner": "Chelsea",
+    "score": "1-0",
+    "loser": "Manchester United"
+  },
+  {
+    "year": "2018-19",
+    "winner": "Manchester City",
+    "score": "6-0",
+    "loser": "Watford"
+  },
+  {
+    "year": "2019-20",
+    "winner": "Arsenal",
+    "score": "2-1",
+    "loser": "Chelsea"
+  },
+  {
+    "year": "2020-21",
+    "winner": "Leicester City",
+    "score": "1-0",
+    "loser": "Chelsea"
+  }
+]
